@@ -1,0 +1,5 @@
+{
+  "priority_growth": ["Carta","Gusto","Flexport","Nuro","Verkada","Cohesity","Rubrik","Veeva","IXL Learning","SnapLogic","OpenGov","Wasabi","Blue Yonder","Clearwater Analytics","Fireworks AI","Moloco","Applied Intuition","Commure","InterSystems","Pinwheel","Fetch Rewards","Odoo","Duolingo","Axon","PTC","Itron","Viavi","F5","Esri","Trimble","Kodiak Robotics","Nimble Robotics","Articul8","Domino Data Lab","WP Engine","HAProxy","GitLab","Automattic","Zapier","Elastic","HashiCorp","Mozilla","Canonical","1Password","Redox","Planet Labs","LaunchDarkly","ClickHouse","Chainguard","Astronomer","ZS Associates","Databricks","Snowflake","Ramp","Plaid","Brex","Asana","Cloudflare","Cadence Design","Fractal Analytics"],
+  "high_volume_sponsors": ["Deloitte","Accenture","Charles Schwab","Expedia","Visa","PayPal","IBM","Cisco","Amazon","Meta","Google","Apple","Oracle","Dell"],
+  "note": "Run priority_growth and high_volume_sponsors as SEPARATE Apify calls. High-volume filers flood the result cap and hide the smaller companies, so keep them apart and cap results per company when scoring."
+}

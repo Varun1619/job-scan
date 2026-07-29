@@ -1,0 +1,70 @@
+name: Repo scan
+
+# Community job-posting repos (SimplifyJobs, vanshb03, jobright-ai, speedyapply).
+# These are single large files rather than 50 endpoints, so this run is cheap and
+# almost never partial. It writes into the same store as the ATS scan, so both
+# sources land on one board.
+
+on:
+  schedule:
+    - cron: "30 10 * * *"    # 06:30 America/New_York, every day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-scanner
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Scan job repos
+        id: scan
+        continue-on-error: true
+        run: |
+          python -m scanner.run \
+            --source repos \
+            --min-match 45 \
+            --fail-under 0.5 | tee run.log
+
+      - name: Write job summary
+        if: always()
+        run: |
+          {
+            echo "## Repo scan"
+            echo '```'
+            cat run.log 2>/dev/null || echo "no log"
+            echo '```'
+            echo "### Top matches"
+            echo '```'
+            head -60 docs/digest.txt 2>/dev/null || echo "no digest"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name  "job-scanner"
+          git config user.email "actions@github.com"
+          git add -A state docs
+          git diff --staged --quiet && echo "no changes" && exit 0
+          git commit -m "repo scan $(date -u +%Y-%m-%dT%H:%M)"
+          git push
+
+      - name: Flag a degraded run
+        if: steps.scan.outcome == 'failure'
+        run: |
+          echo "Half or more of the repo feeds failed. See state/last_run.json." >&2
+          exit 1

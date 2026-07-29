@@ -1,0 +1,10 @@
+{
+  "_comment": "FY2025 H1B LCA filing totals (source: H1BGrader / MyVisaJobs). key match is case-insensitive substring of org name. [total_LCAs, data_engineer_specific_LCAs].",
+  "meta":[5123,259],"apple":[4202,37],"google":[4181,32],"cisco":[1249,19],"bytedance":[1800,38],
+  "tiktok":[1800,38],"expedia":[700,42],"visa":[1066,28],"paypal":[1197,22],"amazon":[15524,180],
+  "cloudflare":[126,15],"ebay":[350,14],"indeed":[280,12],"charles schwab":[585,18],"arm":[178,12],
+  "asana":[200,12],"stripe":[219,20],"databricks":[385,25],"snowflake":[219,18],"cadence":[200,10],
+  "dell":[350,15],"oracle":[700,20],"ramp":[80,8],"plaid":[120,10],"brex":[90,8],"deloitte":[1500,40],
+  "ernst":[1200,35],"ey":[1200,35],"accenture":[2000,50],"ibm":[1000,83],"zs":[400,25],"fractal":[350,30],
+  "nuro":[44,null],"elastic":[6,null],"cushman":[5,null]
+}
