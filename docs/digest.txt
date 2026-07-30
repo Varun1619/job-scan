@@ -1,6 +1,6 @@
-Top 15 of 32 — last 24h — Jul 29, 8:07 PM EDT
+Top 15 of 32 — last 24h — Jul 29, 8:30 PM EDT
 
- 72  [   9h]  American Express — Data Engineer 1 - Global Servicing Technology
+ 72  [  10h]  American Express — Data Engineer 1 - Global Servicing Technology
             posted Jul 29, 2026, 10:10 AM EDT
             Phoenix, AZ
             https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011091
@@ -62,7 +62,7 @@ Top 15 of 32 — last 24h — Jul 29, 8:07 PM EDT
 
  67  [today]  Beth Israel Lahey Health — Healthcare Data Analyst - BIDMC, OBGYN Quality
             posted Jul 28, 2026 (date only)
-            Beth Israel Deaconess Medical Center, United States of America | H1B 1200
+            Beth Israel Deaconess Medical Center, United States of America
             https://jobright.ai/jobs/info/6a4ba1895d7b097d2df3da87?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  TidalHealth — Business Intelligence Developer
@@ -72,5 +72,5 @@ Top 15 of 32 — last 24h — Jul 29, 8:07 PM EDT
 
  67  [today]  DaVita Kidney Care — Finance Data and Analytics Analyst (IKC)
             posted Jul 28, 2026 (date only)
-            Denver, CO, United States | H1B 1200
+            Denver, CO, United States
             https://jobright.ai/jobs/info/6a6916655d01972698ee665a?utm_campaign=Data%20Analysis&utm_source=1103

@@ -74,6 +74,12 @@ def hours_since(value: str) -> float | None:
     return (now() - ts).total_seconds() / 3600.0
 
 
+def epoch(value: str) -> int | None:
+    """Unix seconds, so the browser can age a row against its own clock."""
+    ts = parse(value)
+    return int(ts.timestamp()) if ts else None
+
+
 def age_label(value: str, coarse: bool = False) -> str:
     """'3h', '18h', '2d'. Coarse sources never claim sub-day precision."""
     hrs = hours_since(value)
@@ -113,10 +119,27 @@ def et_label() -> str:
     return now().astimezone(EASTERN).strftime("%Z") or "ET"
 
 
+# %-d and %-I strip the leading zero on glibc but raise ValueError on Windows,
+# so the day and hour are formatted by hand and only the locale-stable parts go
+# through strftime. Keeps the board buildable on a dev laptop, not just in CI.
+def _md(ts: dt.datetime) -> str:
+    return f"{ts.strftime('%b')} {ts.day}"
+
+
+def _hm(ts: dt.datetime) -> str:
+    return f"{ts.hour % 12 or 12}:{ts.minute:02d} {ts.strftime('%p')}"
+
+
 def et_date(value: str) -> str:
     """'Jul 29' — the posted date, Eastern."""
     ts = to_et(value)
-    return ts.strftime("%b %-d") if ts else "—"
+    return _md(ts) if ts else "—"
+
+
+def et_time(value: str) -> str:
+    """'3:42 PM', or empty if the value will not parse."""
+    ts = to_et(value)
+    return _hm(ts) if ts else ""
 
 
 def et_datetime(value: str, coarse: bool = False) -> str:
@@ -125,13 +148,13 @@ def et_datetime(value: str, coarse: bool = False) -> str:
     if not ts:
         return "—"
     if coarse:
-        return ts.strftime("%b %-d, %Y") + " (date only)"
-    return ts.strftime("%b %-d, %Y, %-I:%M %p ") + (ts.strftime("%Z") or "ET")
+        return f"{_md(ts)}, {ts.year} (date only)"
+    return f"{_md(ts)}, {ts.year}, {_hm(ts)} " + (ts.strftime("%Z") or "ET")
 
 
 def et_stamp() -> str:
     ts = now().astimezone(EASTERN)
-    return ts.strftime("%b %-d, %-I:%M %p ") + (ts.strftime("%Z") or "ET")
+    return f"{_md(ts)}, {_hm(ts)} " + (ts.strftime("%Z") or "ET")
 
 
 def from_date_et_end(value: str) -> str:

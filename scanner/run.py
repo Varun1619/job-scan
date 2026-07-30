@@ -39,6 +39,12 @@ def main(argv=None) -> int:
     state = store.load(STATE)
     run_id = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%dT%H%M")
 
+    # merge() only refreshes timestamps and match, so H1B labels written by an
+    # older table (or an older matching rule) would otherwise live in the store
+    # forever. Re-annotate every row on every run instead.
+    for job in state["jobs"].values():
+        job.update(scoring.h1b_for(job.get("company", ""), h1b))
+
     summary = {"attempted": 0, "succeeded": 0, "failed": 0, "success_rate": 1.0, "per_company": {}}
     new_count = 0
 
