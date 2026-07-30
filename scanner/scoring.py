@@ -11,16 +11,48 @@ SPONSORSHIP_BLOCKERS = {"Does Not Offer Sponsorship", "U.S. Citizenship is Requi
 
 
 def load_h1b(path: str | Path) -> dict[str, list]:
+    """company -> [total_LCAs, data_engineer_LCAs].
+
+    Non-company entries are skipped by shape rather than by name. The old
+    name-based guard excluded "meta", which is Meta Platforms in this table,
+    not a metadata block — the real metadata keys are underscore-prefixed.
+    """
     data = json.loads(Path(path).read_text(encoding="utf-8"))
-    return {k: v for k, v in data.items() if not k.startswith("_") and k != "meta"}
+    return {
+        k: v
+        for k, v in data.items()
+        if not k.startswith("_") and isinstance(v, list) and len(v) == 2
+    }
+
+
+_UNKNOWN_H1B = {"h1b_total": None, "h1b_data_eng": None, "h1b_known": False}
+_KEY_PATTERNS: dict[str, "re.Pattern[str]"] = {}
+
+
+def _key_pattern(key: str) -> "re.Pattern[str]":
+    pat = _KEY_PATTERNS.get(key)
+    if pat is None:
+        pat = _KEY_PATTERNS[key] = re.compile(
+            r"(?<![a-z0-9])" + re.escape(key) + r"(?![a-z0-9])"
+        )
+    return pat
 
 
 def h1b_for(company: str, table: dict[str, list]) -> dict:
-    name = (company or "").lower()
-    for key, val in table.items():
-        if key in name:
+    """Look the company up in the H1B table, matching on whole words.
+
+    Substring matching read "Beth Israel Lahey Health" as Ernst & Young and
+    "Garmin" as Arm, tagging both as major sponsors. Keys are tried
+    longest-first so a specific entry beats a shorter one that also matches.
+    """
+    name = re.sub(r"\s+", " ", (company or "").lower()).strip()
+    if not name:
+        return dict(_UNKNOWN_H1B)
+    for key in sorted(table, key=len, reverse=True):
+        if _key_pattern(key).search(name):
+            val = table[key]
             return {"h1b_total": val[0], "h1b_data_eng": val[1], "h1b_known": True}
-    return {"h1b_total": None, "h1b_data_eng": None, "h1b_known": False}
+    return dict(_UNKNOWN_H1B)
 
 
 def skill_overlap(text: str, vocab: list[str]) -> tuple[float, list[str]]:

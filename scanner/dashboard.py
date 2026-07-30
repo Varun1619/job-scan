@@ -129,23 +129,53 @@ var q=document.getElementById('q'), src=document.getElementById('src'),
     win=document.getElementById('win'), defaultWin=win.value;
 var toggles={strong:false,visa:false,half:false,remote:false,desc:false};
 
+// Age is recomputed from the posting timestamp on every pass rather than read
+// off data-age. The board is a static file: trusting the age baked in at build
+// time is how a three-day-old page keeps showing rows as "5h" and lets them sit
+// inside a 24-hour window. data-age survives only as a fallback for a row whose
+// source published no parseable timestamp, and as the sort key (every row is
+// offset by the same delta, so the ordering still holds).
+function ageOf(d,now){
+  var ts=+d.ts;
+  return ts ? (now - ts*1000)/3600000 : +d.age;
+}
+function fmtAge(h,coarse){
+  if(h<0) h=0;
+  if(coarse){ var d=Math.floor(h/24); return d===0?'today':d+'d'; }
+  if(h>=48) return Math.floor(h/24)+'d';
+  if(h<1)   return '<1h';
+  return Math.floor(h)+'h';
+}
+
 function apply(){
   var term=q.value.toLowerCase().trim(), source=src.value, floor=+min.value,
-      hours=+win.value, shown=0;
+      hours=+win.value, now=Date.now(),
+      shown=0, nstrong=0, nhalf=0, nsponsors=0;
   minv.textContent=floor;
   rows.forEach(function(r){
-    var d=r.dataset, ok = +d.age <= hours;
+    var d=r.dataset, age=ageOf(d,now), cell=r.querySelector('.agecell');
+    if(cell) cell.textContent=fmtAge(age,d.coarse==='1');
+    var ok = age <= hours;
     if(ok && term)   ok = r.textContent.toLowerCase().indexOf(term)>-1;
     if(ok && source!=='all') ok = d.source===source;
     if(ok) ok = +d.match >= floor;
     if(ok && toggles.strong) ok = +d.match>=70;
     if(ok && toggles.visa)   ok = d.visa==='1';
-    if(ok && toggles.half)   ok = d.half==='1';
+    if(ok && toggles.half)   ok = age<=12;
     if(ok && toggles.remote) ok = d.remote==='1';
     if(ok && toggles.desc)   ok = d.desc==='1';
-    r.hidden=!ok; if(ok) shown++;
+    r.hidden=!ok;
+    if(ok){
+      shown++;
+      if(+d.match>=70) nstrong++;
+      if(age<=12)      nhalf++;
+      if(+d.h1b>=50)   nsponsors++;
+    }
   });
   document.getElementById('shown').textContent=shown;
+  document.getElementById('nstrong').textContent=nstrong;
+  document.getElementById('nhalf').textContent=nhalf;
+  document.getElementById('nsponsors').textContent=nsponsors;
   document.getElementById('nores').hidden = shown>0;
 }
 q.addEventListener('input',apply);
@@ -231,7 +261,7 @@ def render(state: dict, rows: list[dict], out_path: str, window_label: str = "",
         age = timeutil.age_label(ts, coarse)
         posted_date = timeutil.et_date(ts)
         posted_full = timeutil.et_datetime(ts, coarse)
-        posted_time = "" if coarse else (timeutil.to_et(ts).strftime("%-I:%M %p") if timeutil.to_et(ts) else "")
+        posted_time = "" if coarse else timeutil.et_time(ts)
         remote = "remote" in (r.get("location") or "").lower()
         visa = (r.get("h1b_total") or 0) >= 50
         has_desc = r.get("scored_on") == "description"
@@ -252,9 +282,11 @@ def render(state: dict, rows: list[dict], out_path: str, window_label: str = "",
         )
         body.append(
             f'<tr data-match="{m}" data-company="{e(r.get("company",""))}" '
-            f'data-age="{age_h}" data-h1b="{r.get("h1b_total") or 0}" '
+            f'data-age="{age_h}" data-ts="{timeutil.epoch(ts) or ""}" '
+            f'data-coarse="{int(coarse)}" data-h1b="{r.get("h1b_total") or 0}" '
             f'data-source="{e(r.get("source",""))}" data-desc="{int(has_desc)}" '
-            f'data-visa="{int(visa)}" data-half="{int(age_h <= 12)}" data-remote="{int(remote)}">'
+            f'data-visa="{int(visa)}" data-remote="{int(remote)}"'
+            f'{" hidden" if age_h > default_hours else ""}>'
             f'<td class="match {"hi" if m >= 70 else ""}">{m}</td>'
             f'<td class="co">{e(r.get("company",""))}</td>'
             f'<td class="role"><strong>{e(r.get("title",""))}</strong>'
@@ -264,7 +296,7 @@ def render(state: dict, rows: list[dict], out_path: str, window_label: str = "",
             f'<td class="num hide-sm">{r.get("h1b_total") or "—"}</td>'
             f'<td class="date" title="{e(posted_full)}">{e(posted_date)}'
             f'{f"<small>{e(posted_time)}</small>" if posted_time else "<small>date only</small>"}</td>'
-            f'<td class="num">{e(age)}</td>'
+            f'<td class="num agecell">{e(age)}</td>'
             f"<td>{apply_cell}</td></tr>"
         )
 
@@ -295,10 +327,10 @@ def render(state: dict, rows: list[dict], out_path: str, window_label: str = "",
 {note}
 
 <div class="stats">
-  <div class="stat"><b id="shown">{len(rows)}</b><span>showing</span></div>
-  <div class="stat"><b>{strong}</b><span>strong &ge;70</span></div>
-  <div class="stat"><b>{very_fresh}</b><span>under 12h</span></div>
-  <div class="stat"><b>{sponsors}</b><span>known sponsors</span></div>
+  <div class="stat"><b id="shown">{len(in_window)}</b><span>showing</span></div>
+  <div class="stat"><b id="nstrong">{strong}</b><span>strong &ge;70</span></div>
+  <div class="stat"><b id="nhalf">{very_fresh}</b><span>under 12h</span></div>
+  <div class="stat"><b id="nsponsors">{sponsors}</b><span>known sponsors</span></div>
   <div class="stat"><b>{len(state.get('jobs', {}))}</b><span>in store</span></div>
 </div>
 
