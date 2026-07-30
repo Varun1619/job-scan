@@ -1,6 +1,21 @@
-Top 15 of 20 — last 24h — Jul 30, 8:10 AM EDT
+Top 15 of 31 — last 24h — Jul 30, 8:48 AM EDT
 
- 72  [  21h]  American Express — Data Engineer 1 - Global Servicing Technology
+ 72  [  <1h]  Cloudflare — Distributed Systems Engineer - Data Platform - Logs and Audit Logs
+            posted Jul 30, 2026, 7:51 AM EDT
+            Hybrid | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/7462802?gh_jid=7462802
+
+ 72  [  <1h]  Cloudflare — Distributed Systems Engineer - Data Platform - Analytics and Alerts
+            posted Jul 30, 2026, 7:50 AM EDT
+            Hybrid | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/7462803?gh_jid=7462803
+
+ 72  [  <1h]  Cloudflare — Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)
+            posted Jul 30, 2026, 7:51 AM EDT
+            Hybrid | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801
+
+ 72  [  22h]  American Express — Data Engineer 1 - Global Servicing Technology
             posted Jul 29, 2026, 10:10 AM EDT
             Phoenix, AZ
             https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011091
@@ -45,32 +60,17 @@ Top 15 of 20 — last 24h — Jul 30, 8:10 AM EDT
             Chicago, IL, United States
             https://jobright.ai/jobs/info/6a6a613e48355b3f12bf0a10?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  A.P. Moller - Maersk — Data Analyst - Cedar Hill, TX
-            posted Jul 29, 2026 (date only)
-            Cedar Hill, TX, United States
-            https://jobright.ai/jobs/info/6a6a7fe919d76667a2abffe9?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  A.P. Moller - Maersk — Supply Chain Data Analyst - Cinnaminson, NJ
             posted Jul 29, 2026 (date only)
             Cinnaminson, NJ, United States
             https://jobright.ai/jobs/info/6a6a7f108693c23e7fb7b048?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [today]  Mortenson — Associate Data Scientist - Estimating
+ 67  [today]  A.P. Moller - Maersk — Data Analyst - Cedar Hill, TX
             posted Jul 29, 2026 (date only)
-            Minneapolis, MN, United States
-            https://jobright.ai/jobs/info/6a4d34e0d27b2c4dda9b6ac9?utm_campaign=Data%20Analysis&utm_source=1103
+            Cedar Hill, TX, United States
+            https://jobright.ai/jobs/info/6a6a7fe919d76667a2abffe9?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [today]  General Dynamics Information Technology — Human Performance Data Scientist I
-            posted Jul 29, 2026 (date only)
-            Hurlburt Field, FL
-            https://jobright.ai/jobs/info/69c4a2046f4f855eeda74312?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  General Dynamics Information Technology — Human Performance Data Scientist I
-            posted Jul 29, 2026 (date only)
-            USA FL Hurlburt Field - 229 Cody Ave (FLC017), United States of America
-            https://jobright.ai/jobs/info/6a52a9888576ec69c014ce5d?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [  14h]  Harvard University — Associate Data Scientist
-            posted Jul 29, 2026, 6:04 PM EDT
-            Cambridge, MA
-            https://jobs.smartrecruiters.com/HarvardUniversity/3743990014341476
+ 66  [  16h]  Mozilla — Senior Data Engineer
+            posted Jul 29, 2026, 4:16 PM EDT
+            Remote US
+            https://job-boards.greenhouse.io/mozilla/jobs/7728023
