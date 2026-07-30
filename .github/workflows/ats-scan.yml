@@ -10,8 +10,8 @@ on:
   workflow_dispatch:
     inputs:
       shard_of:
-        description: "Days to spread the company list over (1 = all today)"
-        default: "3"
+        description: "Days to spread the company list over (1 = scan everything today)"
+        default: "1"
 
 permissions:
   contents: write
@@ -39,8 +39,9 @@ jobs:
         run: |
           python -m scanner.run \
             --source ats \
-            --shard-of "${{ github.event.inputs.shard_of || 3 }}" \
+            --shard-of "${{ github.event.inputs.shard_of || 1 }}" \
             --min-match 45 \
+            --window-hours 24 \
             --fail-under 0.6 | tee run.log
 
       - name: Write job summary

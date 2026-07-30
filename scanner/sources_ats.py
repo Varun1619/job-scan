@@ -11,6 +11,8 @@ from pathlib import Path
 
 import requests
 
+from . import timeutil
+
 TIMEOUT = 25
 RETRIES = 3
 UA = {"User-Agent": "job-scanner/1.0 (personal job search)"}
@@ -48,7 +50,8 @@ def _norm_greenhouse(company: str, payload: dict) -> list[dict]:
                 "title": j.get("title", ""),
                 "location": (j.get("location") or {}).get("name", ""),
                 "url": j.get("absolute_url", ""),
-                "posted": (j.get("updated_at") or "")[:10],
+                "posted_ts": timeutil.from_iso(j.get("updated_at") or ""),
+                "posted_coarse": False,
                 "source": "greenhouse",
                 "external_id": str(j.get("id", "")),
             }
@@ -59,15 +62,15 @@ def _norm_greenhouse(company: str, payload: dict) -> list[dict]:
 def _norm_lever(company: str, payload: list) -> list[dict]:
     out = []
     for j in payload:
-        ts = j.get("createdAt")
-        posted = dt.datetime.utcfromtimestamp(ts / 1000).date().isoformat() if ts else ""
+        posted_ts = timeutil.from_epoch(j.get("createdAt"), millis=True)
         out.append(
             {
                 "company": company,
                 "title": j.get("text", ""),
                 "location": (j.get("categories") or {}).get("location", ""),
                 "url": j.get("hostedUrl", ""),
-                "posted": posted,
+                "posted_ts": posted_ts,
+                "posted_coarse": False,
                 "source": "lever",
                 "external_id": str(j.get("id", "")),
                 "description": j.get("descriptionPlain", "") or "",
@@ -85,7 +88,8 @@ def _norm_ashby(company: str, payload: dict) -> list[dict]:
                 "title": j.get("title", ""),
                 "location": j.get("location", ""),
                 "url": j.get("jobUrl", ""),
-                "posted": (j.get("publishedAt") or "")[:10],
+                "posted_ts": timeutil.from_iso(j.get("publishedAt") or ""),
+                "posted_coarse": False,
                 "source": "ashby",
                 "external_id": str(j.get("id", "")),
                 "description": j.get("descriptionPlain", "") or "",

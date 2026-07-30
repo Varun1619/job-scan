@@ -23,7 +23,11 @@ def main(argv=None) -> int:
     ap.add_argument("--source", choices=["ats", "repos", "none"], default="ats")
     ap.add_argument("--shard-of", type=int, default=1,
                     help="Split the company list across N days so each run finishes.")
-    ap.add_argument("--fresh-days", type=int, default=14)
+    ap.add_argument("--window-hours", type=int, default=24,
+                    help="Default view window on the board, in hours.")
+    ap.add_argument("--render-hours", type=int, default=168,
+                    help="How much history to embed in the HTML so the window "
+                         "control can widen client-side without a rebuild.")
     ap.add_argument("--min-match", type=int, default=45)
     ap.add_argument("--out", default=str(ROOT / "docs" / "index.html"))
     ap.add_argument("--fail-under", type=float, default=0.6,
@@ -55,11 +59,15 @@ def main(argv=None) -> int:
             if not status.startswith("ok"):
                 print(f"  ! {name}: {status}", file=sys.stderr)
 
-    rows = store.board_rows(state, fresh_days=args.fresh_days, min_match=args.min_match)
+    render_hours = max(args.render_hours, args.window_hours)
+    rows = store.board_rows(state, window_hours=render_hours, min_match=args.min_match)
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
-    dashboard.render(state, rows, str(out), window_label=f"last {args.fresh_days} days")
-    dashboard.write_digest(rows, str(out.parent / "digest.txt"))
+    dashboard.render(state, rows, str(out),
+                     window_label=f"default view: last {args.window_hours}h",
+                     default_hours=args.window_hours)
+    dashboard.write_digest(rows, str(out.parent / "digest.txt"),
+                           window_hours=args.window_hours)
     print(f"board: {out} ({len(rows)} rows, {len(state['jobs'])} in store)")
 
     Path(ROOT / "state" / "last_run.json").write_text(

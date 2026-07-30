@@ -1,61 +1,76 @@
-Top 15 matches — 2026-07-29
+Top 15 of 32 — last 24h — Jul 29, 8:07 PM EDT
 
- 75  Vytalize Health — Associate Data Engineer
-     Remote in USA
-     https://jobs.ashbyhq.com/Vytalize%20Health/3576b087-709e-4bf0-a016-6cc1c24b802c/application?embed=true
+ 72  [   9h]  American Express — Data Engineer 1 - Global Servicing Technology
+            posted Jul 29, 2026, 10:10 AM EDT
+            Phoenix, AZ
+            https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011091
 
- 75  Allegion — Associate Analytics Engineer
-     Carmel, IN
-     https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Associate-Analytics-Engineer_JR36667
+ 70  [today]  North Carolina Department of Agriculture and Consumer Services — Research/Data Analyst I
+            posted Jul 29, 2026 (date only)
+            Hinds County, MS, United States
+            https://jobright.ai/jobs/info/6a69ba39c63ba56308f4fa6e?utm_campaign=Data%20Analysis&utm_source=1103
 
- 75  Cohort AI Inc. — Associate Data Engineer
-     Naperville, IL
-     https://jobs.ashbyhq.com/cohort/1ccefa5e-f19c-4753-99ff-e05cfdbf671e/application?embed=true
+ 70  [today]  Centene Corporation — Data Analyst I Healthcare Analytics
+            posted Jul 29, 2026 (date only)
+            Michigan, United States
+            https://jobright.ai/jobs/info/6a6a80cec63ba56308f53960?utm_campaign=Data%20Analysis&utm_source=1103
 
- 75  AffirmedRx — Data Engineer Associate
-     Remote in USA
-     https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008
+ 70  [today]  DHL Supply Chain — Business Data Analyst II
+            posted Jul 28, 2026 (date only)
+            Wichita, Kansas, 67215, United States of America
+            https://jobright.ai/jobs/info/6a289d66fd37e62bb47aa416?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  Travelers — Data Engineer 1 - Aws - Databricks
-     Hartford, CT
-     https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-51521
+ 70  [today]  Net Health — Business Intelligence Analyst I - REMOTE
+            posted Jul 28, 2026 (date only)
+            Pittsburgh, PA, United States
+            https://jobright.ai/jobs/info/6a57ba1c10c4d945d86509b8?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  Deloitte — Consultative Offerings - Government & Public Services - AI & Data Engineering
-     Arlington, VA | H1B 1500
-     https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering/350596
+ 67  [today]  A.P. Moller - Maersk — Supply Chain Data Analyst - Cinnaminson, NJ
+            posted Jul 29, 2026 (date only)
+            Cinnaminson, NJ, United States
+            https://jobright.ai/jobs/info/6a6a7f218693c23e7fb7b050?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  Steampunk — Data Engineer
-     McLean, VA
-     https://careers-steampunk.icims.com/jobs/7942/job?mobile=true&needsRedirect=false
+ 67  [today]  CNO Financial Group — Data & Reporting Analyst (Tableau and Alteryx) - REMOTE from any US based location
+            posted Jul 29, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6a6a5dadc63ba56308f52c8c?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  Qorvo — Data Engineer
-     Richardson, TX
-     https://careers.qorvo.com/job/Richardson-Data-Engineer-TX-75081/1411989400/?ats=successfactors
+ 67  [today]  VISTA Technology Services Inc. — Program Data Analyst
+            posted Jul 29, 2026 (date only)
+            Washington, DC, United States
+            https://jobright.ai/jobs/info/6a69db0009998f68b5a6de2a?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  BD — Commercial Analytics Engineer Business Decision Intelligence
-     Franklin Lakes, NJ, United States
-     https://jobright.ai/jobs/info/6a626ab1f805ef6ff4232c4f?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  A.P. Moller - Maersk — Data Analyst - Hopedale, MA
+            posted Jul 29, 2026 (date only)
+            Hopedale, MA, United States
+            https://jobright.ai/jobs/info/6a6a2b598693c23e7fb7920c?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  Travelers — Data Engineer 1 - Multiple Teams
-     Sparks, MD, Hartford, CT, St Paul, MN
-     https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Databricks--AWS--Python-_R-51638
+ 67  [today]  Caterpillar Inc. — Business Intelligence Analyst
+            posted Jul 29, 2026 (date only)
+            Chicago, IL, United States
+            https://jobright.ai/jobs/info/6a6a613e48355b3f12bf0a10?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  American Express — Data Engineer 1 - Global Servicing Technology
-     Phoenix, AZ
-     https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011091
+ 67  [today]  A.P. Moller - Maersk — Data Analyst - Cedar Hill, TX
+            posted Jul 29, 2026 (date only)
+            Cedar Hill, TX, United States
+            https://jobright.ai/jobs/info/6a6a7fe919d76667a2abffe9?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  Kemper — Audit Data Analyst Associate
-     Chicago, IL
-     https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Chicago-Illinois/Associate--Audit-Data-Analyst_R-26-0036275
+ 67  [today]  Daily Management Resorts — Data Analyst
+            posted Jul 28, 2026 (date only)
+            Miami, FL, United States
+            https://jobright.ai/jobs/info/6a53f737c8eb0843027ae4df?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  Honeywell — Graduate Service Data Analyst 1
-     Atlanta, GA | H1B 1200
-     https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154081
+ 67  [today]  Beth Israel Lahey Health — Healthcare Data Analyst - BIDMC, OBGYN Quality
+            posted Jul 28, 2026 (date only)
+            Beth Israel Deaconess Medical Center, United States of America | H1B 1200
+            https://jobright.ai/jobs/info/6a4ba1895d7b097d2df3da87?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  EchoStar Corporation — Data Analyst I
-     Englewood, CO, United States
-     https://jobright.ai/jobs/info/6a61e5b07196365a6f00d025?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  TidalHealth — Business Intelligence Developer
+            posted Jul 28, 2026 (date only)
+            Salisbury, MD, United States
+            https://jobright.ai/jobs/info/6a68b61868652d68b3149b64?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  INIT Innovations in Transportation, Inc. — APC Technician/Data Analyst I
-     Chesapeake, VA, United States
-     https://jobright.ai/jobs/info/6a626d7807e15f1ab0e463d2?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  DaVita Kidney Care — Finance Data and Analytics Analyst (IKC)
+            posted Jul 28, 2026 (date only)
+            Denver, CO, United States | H1B 1200
+            https://jobright.ai/jobs/info/6a6916655d01972698ee665a?utm_campaign=Data%20Analysis&utm_source=1103

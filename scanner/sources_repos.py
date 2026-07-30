@@ -12,6 +12,8 @@ import time
 
 import requests
 
+from . import timeutil
+
 TIMEOUT = 40
 RETRIES = 3
 UA = {"User-Agent": "job-scanner/1.0 (personal job search)"}
@@ -102,16 +104,15 @@ def from_json_feed(feed: dict) -> list[dict]:
             continue
         if feed["categories"] and j.get("category") not in feed["categories"]:
             continue
-        posted = ""
-        if j.get("date_posted"):
-            posted = dt.datetime.utcfromtimestamp(j["date_posted"]).date().isoformat()
+        posted_ts = timeutil.from_epoch(j.get("date_posted"))
         out.append(
             {
                 "company": j.get("company_name", ""),
                 "title": j.get("title", ""),
                 "location": ", ".join(j.get("locations") or []),
                 "url": j.get("url", ""),
-                "posted": posted,
+                "posted_ts": posted_ts,
+                "posted_coarse": False,
                 "source": feed["name"],
                 "external_id": str(j.get("id", "")),
                 "sponsorship": j.get("sponsorship"),
@@ -141,7 +142,8 @@ def from_md_feed(feed: dict) -> list[dict]:
                 "title": title,
                 "location": _clean(cells[cols["location"]]),
                 "url": _first_url(title_cell) or _first_url(line),
-                "posted": _parse_age(cells[cols["posted"]]),
+                "posted_ts": timeutil.from_date_et_end(_parse_age(cells[cols["posted"]])),
+                "posted_coarse": True,
                 "source": feed["name"],
                 "external_id": "",
             }

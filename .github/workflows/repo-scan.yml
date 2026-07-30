@@ -37,6 +37,7 @@ jobs:
           python -m scanner.run \
             --source repos \
             --min-match 45 \
+            --window-hours 24 \
             --fail-under 0.5 | tee run.log
 
       - name: Write job summary
