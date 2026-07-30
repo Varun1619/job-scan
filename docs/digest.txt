@@ -1,6 +1,6 @@
-Top 15 of 32 — last 24h — Jul 29, 8:30 PM EDT
+Top 15 of 20 — last 24h — Jul 30, 8:10 AM EDT
 
- 72  [  10h]  American Express — Data Engineer 1 - Global Servicing Technology
+ 72  [  21h]  American Express — Data Engineer 1 - Global Servicing Technology
             posted Jul 29, 2026, 10:10 AM EDT
             Phoenix, AZ
             https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011091
@@ -10,20 +10,15 @@ Top 15 of 32 — last 24h — Jul 29, 8:30 PM EDT
             Hinds County, MS, United States
             https://jobright.ai/jobs/info/6a69ba39c63ba56308f4fa6e?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 70  [today]  Boston Children's Hospital — Healthcare Data Analyst I
+            posted Jul 29, 2026 (date only)
+            Boston, MA, United States
+            https://jobright.ai/jobs/info/6a6ade83acb0a61f9dbbd3d0?utm_campaign=Data%20Analysis&utm_source=1103
+
  70  [today]  Centene Corporation — Data Analyst I Healthcare Analytics
             posted Jul 29, 2026 (date only)
             Michigan, United States
             https://jobright.ai/jobs/info/6a6a80cec63ba56308f53960?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  DHL Supply Chain — Business Data Analyst II
-            posted Jul 28, 2026 (date only)
-            Wichita, Kansas, 67215, United States of America
-            https://jobright.ai/jobs/info/6a289d66fd37e62bb47aa416?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Net Health — Business Intelligence Analyst I - REMOTE
-            posted Jul 28, 2026 (date only)
-            Pittsburgh, PA, United States
-            https://jobright.ai/jobs/info/6a57ba1c10c4d945d86509b8?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  A.P. Moller - Maersk — Supply Chain Data Analyst - Cinnaminson, NJ
             posted Jul 29, 2026 (date only)
@@ -55,22 +50,27 @@ Top 15 of 32 — last 24h — Jul 29, 8:30 PM EDT
             Cedar Hill, TX, United States
             https://jobright.ai/jobs/info/6a6a7fe919d76667a2abffe9?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Daily Management Resorts — Data Analyst
-            posted Jul 28, 2026 (date only)
-            Miami, FL, United States
-            https://jobright.ai/jobs/info/6a53f737c8eb0843027ae4df?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  A.P. Moller - Maersk — Supply Chain Data Analyst - Cinnaminson, NJ
+            posted Jul 29, 2026 (date only)
+            Cinnaminson, NJ, United States
+            https://jobright.ai/jobs/info/6a6a7f108693c23e7fb7b048?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Beth Israel Lahey Health — Healthcare Data Analyst - BIDMC, OBGYN Quality
-            posted Jul 28, 2026 (date only)
-            Beth Israel Deaconess Medical Center, United States of America
-            https://jobright.ai/jobs/info/6a4ba1895d7b097d2df3da87?utm_campaign=Data%20Analysis&utm_source=1103
+ 63  [today]  Mortenson — Associate Data Scientist - Estimating
+            posted Jul 29, 2026 (date only)
+            Minneapolis, MN, United States
+            https://jobright.ai/jobs/info/6a4d34e0d27b2c4dda9b6ac9?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  TidalHealth — Business Intelligence Developer
-            posted Jul 28, 2026 (date only)
-            Salisbury, MD, United States
-            https://jobright.ai/jobs/info/6a68b61868652d68b3149b64?utm_campaign=Data%20Analysis&utm_source=1103
+ 63  [today]  General Dynamics Information Technology — Human Performance Data Scientist I
+            posted Jul 29, 2026 (date only)
+            Hurlburt Field, FL
+            https://jobright.ai/jobs/info/69c4a2046f4f855eeda74312?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  DaVita Kidney Care — Finance Data and Analytics Analyst (IKC)
-            posted Jul 28, 2026 (date only)
-            Denver, CO, United States
-            https://jobright.ai/jobs/info/6a6916655d01972698ee665a?utm_campaign=Data%20Analysis&utm_source=1103
+ 63  [today]  General Dynamics Information Technology — Human Performance Data Scientist I
+            posted Jul 29, 2026 (date only)
+            USA FL Hurlburt Field - 229 Cody Ave (FLC017), United States of America
+            https://jobright.ai/jobs/info/6a52a9888576ec69c014ce5d?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 63  [  14h]  Harvard University — Associate Data Scientist
+            posted Jul 29, 2026, 6:04 PM EDT
+            Cambridge, MA
+            https://jobs.smartrecruiters.com/HarvardUniversity/3743990014341476

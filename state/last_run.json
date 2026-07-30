@@ -1,15 +1,15 @@
 {
- "run_id": "20260730T0007",
+ "run_id": "20260730T1210",
  "source": "repos",
- "new": 0,
+ "new": 14,
  "attempted": 4,
  "succeeded": 4,
  "failed": 0,
  "success_rate": 1.0,
  "per_company": {
-  "SimplifyJobs/New-Grad-Positions": "ok:1869",
+  "SimplifyJobs/New-Grad-Positions": "ok:1860",
   "vanshb03/New-Grad-2026": "ok:639",
-  "jobright-ai/Data-Analysis-New-Grad": "ok:359",
+  "jobright-ai/Data-Analysis-New-Grad": "ok:336",
   "speedyapply/2026-SWE-College-Jobs": "ok:36"
  }
 }
