@@ -1,76 +1,76 @@
-Top 15 of 31 — last 24h — Jul 30, 8:48 AM EDT
+Top 15 of 19 — last 24h — Jul 31, 8:24 AM EDT
 
- 72  [  <1h]  Cloudflare — Distributed Systems Engineer - Data Platform - Logs and Audit Logs
-            posted Jul 30, 2026, 7:51 AM EDT
-            Hybrid | H1B 126
-            https://boards.greenhouse.io/cloudflare/jobs/7462802?gh_jid=7462802
+ 72  [  14h]  Duke University — Analytics Engineer
+            posted Jul 30, 2026, 6:08 PM EDT
+            Durham, NC
+            https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400/?ats=successfactors
 
- 72  [  <1h]  Cloudflare — Distributed Systems Engineer - Data Platform - Analytics and Alerts
-            posted Jul 30, 2026, 7:50 AM EDT
-            Hybrid | H1B 126
-            https://boards.greenhouse.io/cloudflare/jobs/7462803?gh_jid=7462803
+ 70  [today]  Redwire — Business Data Analyst I
+            posted Jul 30, 2026 (date only)
+            San Luis Obispo, CA, United States
+            https://jobright.ai/jobs/info/6a57fd7c9838a11e5d836283?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  [  <1h]  Cloudflare — Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)
-            posted Jul 30, 2026, 7:51 AM EDT
-            Hybrid | H1B 126
-            https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801
+ 70  [today]  BAE Systems — Business Intelligence Analyst I
+            posted Jul 30, 2026 (date only)
+            Broomfield, CO, United States
+            https://jobright.ai/jobs/info/6a6c4273ca1f9338465fe62e?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  [  22h]  American Express — Data Engineer 1 - Global Servicing Technology
-            posted Jul 29, 2026, 10:10 AM EDT
-            Phoenix, AZ
-            https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011091
+ 70  [today]  Thorlabs — Data Analyst I
+            posted Jul 30, 2026 (date only)
+            Newton, NJ, United States
+            https://jobright.ai/jobs/info/6a6ba1d45c54bc4752cea24f?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  North Carolina Department of Agriculture and Consumer Services — Research/Data Analyst I
-            posted Jul 29, 2026 (date only)
-            Hinds County, MS, United States
-            https://jobright.ai/jobs/info/6a69ba39c63ba56308f4fa6e?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Boston Children's Hospital — Healthcare Data Analyst I
-            posted Jul 29, 2026 (date only)
+ 70  [today]  Massachusetts General Hospital — Data Analyst I
+            posted Jul 30, 2026 (date only)
             Boston, MA, United States
-            https://jobright.ai/jobs/info/6a6ade83acb0a61f9dbbd3d0?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a6b9e4932f9300c3a3dff53?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Centene Corporation — Data Analyst I Healthcare Analytics
-            posted Jul 29, 2026 (date only)
-            Michigan, United States
-            https://jobright.ai/jobs/info/6a6a80cec63ba56308f53960?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  Mass General Brigham — Data Analyst I
+            posted Jul 30, 2026 (date only)
+            Charlestown, MA, United States
+            https://jobright.ai/jobs/info/6a6b71b232f9300c3a3dedfb?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  A.P. Moller - Maersk — Supply Chain Data Analyst - Cinnaminson, NJ
-            posted Jul 29, 2026 (date only)
-            Cinnaminson, NJ, United States
-            https://jobright.ai/jobs/info/6a6a7f218693c23e7fb7b050?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Anduril Industries — People Data Analyst
+            posted Jul 30, 2026 (date only)
+            Boston, MA, United States
+            https://jobright.ai/jobs/info/6a4c26ea6189f64e437f1508?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  CNO Financial Group — Data & Reporting Analyst (Tableau and Alteryx) - REMOTE from any US based location
-            posted Jul 29, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a6a5dadc63ba56308f52c8c?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  VISTA Technology Services Inc. — Program Data Analyst
-            posted Jul 29, 2026 (date only)
+ 67  [today]  Eaton — Data Analyst (Network Security) - Washington, D.C.
+            posted Jul 30, 2026 (date only)
             Washington, DC, United States
-            https://jobright.ai/jobs/info/6a69db0009998f68b5a6de2a?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a6c10bd57120971bf3aa3a8?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  A.P. Moller - Maersk — Data Analyst - Hopedale, MA
-            posted Jul 29, 2026 (date only)
-            Hopedale, MA, United States
-            https://jobright.ai/jobs/info/6a6a2b598693c23e7fb7920c?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Kearney & Company — Data Analyst
+            posted Jul 30, 2026 (date only)
+            Alexandria, VA, United States
+            https://jobright.ai/jobs/info/6a6bf8a3ca1f9338465fd54e?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Caterpillar Inc. — Business Intelligence Analyst
-            posted Jul 29, 2026 (date only)
+ 67  [today]  Univera Healthcare — Healthcare Data Analyst
+            posted Jul 30, 2026 (date only)
+            Rochester, NY, United States
+            https://jobright.ai/jobs/info/6a6b6cdfca1f9338465fa468?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Excellus BCBS — Healthcare Data Analyst
+            posted Jul 30, 2026 (date only)
+            Rochester, NY, United States
+            https://jobright.ai/jobs/info/6a6b6d54ca1f9338465fa476?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Midwest Express Clinic — Healthcare Data Analyst - Chicago
+            posted Jul 30, 2026 (date only)
             Chicago, IL, United States
-            https://jobright.ai/jobs/info/6a6a613e48355b3f12bf0a10?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a6b2313c00ae03109f820ec?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  A.P. Moller - Maersk — Supply Chain Data Analyst - Cinnaminson, NJ
-            posted Jul 29, 2026 (date only)
-            Cinnaminson, NJ, United States
-            https://jobright.ai/jobs/info/6a6a7f108693c23e7fb7b048?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  CornerStone Partners — Data Analyst, Investment Operations and Risk Management
+            posted Jul 30, 2026 (date only)
+            Charlottesville, VA, United States
+            https://jobright.ai/jobs/info/6a6b225aca1f9338465f86dd?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  A.P. Moller - Maersk — Data Analyst - Cedar Hill, TX
-            posted Jul 29, 2026 (date only)
+            posted Jul 30, 2026 (date only)
             Cedar Hill, TX, United States
-            https://jobright.ai/jobs/info/6a6a7fe919d76667a2abffe9?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a67eb1d2bda4d284285668d?utm_campaign=Data%20Analysis&utm_source=1103
 
- 66  [  16h]  Mozilla — Senior Data Engineer
-            posted Jul 29, 2026, 4:16 PM EDT
-            Remote US
-            https://job-boards.greenhouse.io/mozilla/jobs/7728023
+ 67  [  14h]  Thorlabs — Data Analyst 1
+            posted Jul 30, 2026, 6:23 PM EDT
+            Branchville, NJ
+            https://apply.workable.com/thorlabs/j/6D087ACB75/apply
