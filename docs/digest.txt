@@ -1,76 +1,31 @@
-Top 15 of 29 — last 24h — Aug 1, 7:39 AM EDT
-
- 72  [today]  iHeartMedia — Analytics Engineer
-            posted Jul 31, 2026 (date only)
-            Virtual, NY
-            https://jobright.ai/jobs/info/6a07914ba203b1052e43c54e?utm_campaign=Data%20Analysis&utm_source=1103
-
- 72  [  15h]  Duke University — Analytics Engineer
-            posted Jul 31, 2026, 4:16 PM EDT
-            Durham, NC
-            https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400/?ats=successfactors
+Top 6 of 6 — last 24h — Aug 2, 7:39 AM EDT
 
  70  [today]  Boeing — Business Intelligence Analyst – Associate or Mid-Level
-            posted Jul 31, 2026 (date only)
+            posted Aug 1, 2026 (date only)
             Tukwila, WA, United States
-            https://jobright.ai/jobs/info/6a6cc2bd57120971bf3acf0e?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a6cb26832f9300c3a3e493b?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  North Carolina State University — IT Business Intelligence/Data Analyst I
-            posted Jul 31, 2026 (date only)
-            Raleigh, NC, United States
-            https://jobright.ai/jobs/info/6a6d6ac3020ee9240900a1e0?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  NewYork-Presbyterian Hospital — Business Intelligence Information Technology Epic
+            posted Aug 1, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6a6cd0f3acb0a61f9dbc7380?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  North Carolina State University — IT Business Intelligence/Data Analyst I
-            posted Jul 31, 2026 (date only)
-            Raleigh, NC, United States
-            https://jobright.ai/jobs/info/6a6d09feba7efe79c2f681b2?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Encompass Supply Chain Solutions — Web Analytics Analyst
+            posted Aug 1, 2026 (date only)
+            Lawrenceville, GA, United States
+            https://jobright.ai/jobs/info/6a5ba4ac63a8f619507cba62?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  DHL Supply Chain — Business Data Analyst I
-            posted Jul 31, 2026 (date only)
-            Mechanicsburg, Pennsylvania, United States of America
-            https://jobright.ai/jobs/info/6a43c2120153061b8b3dc7f3?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [today]  Booz Allen Hamilton — Data Scientist
+            posted Aug 1, 2026 (date only)
+            Fort Meade, MD, United States
+            https://jobright.ai/jobs/info/6a64289e979290281c7058c7?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  University of Rochester — Data Analyst I
-            posted Jul 31, 2026 (date only)
-            Rochester, NY, United States
-            https://jobright.ai/jobs/info/6a6c95e8ba7efe79c2f6570a?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [today]  HAVI — Data Scientist
+            posted Aug 1, 2026 (date only)
+            Chicago, IL
+            https://jobright.ai/jobs/info/6a559d6813cd7d29d5e32eaf?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  DHL — Business Data Analyst I
-            posted Jul 31, 2026 (date only)
-            Northlake, TX, United States
-            https://jobright.ai/jobs/info/6a6cef68acb0a61f9dbc7fd6?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  DHL Supply Chain — Business Data Analyst I
-            posted Jul 31, 2026 (date only)
-            Northlake, TX, United States
-            https://jobright.ai/jobs/info/6a6da29066158d7ef887e55c?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  RTX — Military Engines, Business Data Analyst I
-            posted Jul 31, 2026 (date only)
-            East Hartford, CT, United States
-            https://jobright.ai/jobs/info/6a6cb6f857120971bf3acabc?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Sparks Wiz Limited — Junior Data Analyst
-            posted Jul 31, 2026 (date only)
-            Los Angeles, CA, United States
-            https://jobright.ai/jobs/info/6a5eb9c2f3674a0545d2ab07?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Coalition for Responsible Community Development — Data and Reporting Analyst
-            posted Jul 31, 2026 (date only)
-            Los Angeles, CA, United States
-            https://jobright.ai/jobs/info/6a4ef3300ea38951a6ff4f23?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Petco — Analyst, Business Intelligence - Stores
-            posted Jul 31, 2026 (date only)
-            San Diego, CA, United States
-            https://jobright.ai/jobs/info/6a6d78565c54bc4752cf25ea?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Stanford University — Research Data Analyst 1
-            posted Jul 31, 2026 (date only)
-            Stanford, CA
-            https://jobright.ai/jobs/info/69a0e5c45218a81676721ce6?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Petco — Analyst, Business Intelligence - Stores
-            posted Jul 31, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a6da65a5c54bc4752cf3379?utm_campaign=Data%20Analysis&utm_source=1103
+ 48  [  10h]  ManTech — Associate Software Engineer
+            posted Aug 1, 2026, 8:59 PM EDT
+            Fort Meade, MD
+            https://mantech.avature.net/en_US/careers/JobDetail/65051
