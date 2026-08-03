@@ -1,31 +1,76 @@
-Top 6 of 6 — last 24h — Aug 2, 7:39 AM EDT
+Top 15 of 50 — last 24h — Aug 3, 9:22 AM EDT
 
- 70  [today]  Boeing — Business Intelligence Analyst – Associate or Mid-Level
-            posted Aug 1, 2026 (date only)
-            Tukwila, WA, United States
-            https://jobright.ai/jobs/info/6a6cb26832f9300c3a3e493b?utm_campaign=Data%20Analysis&utm_source=1103
+ 75  [   7h]  Capgemini — Junior Data Engineer/Junior Data Scientist
+            posted Aug 3, 2026, 2:08 AM EDT
+            Atlanta, GA
+            https://careers.capgemini.com/job/Atlanta,-GA-Junior-Data-EngineerJunior-Data-Scientist-GA-30301/1418864933/?ats=successfactors
 
- 67  [today]  NewYork-Presbyterian Hospital — Business Intelligence Information Technology Epic
-            posted Aug 1, 2026 (date only)
+ 72  [   7h]  Analytica — Data Engineer
+            posted Aug 3, 2026, 2:17 AM EDT
+            Bethesda, MD
+            https://analyticallc.applytojob.com/apply/3QMztCSYzt/Data-Engineer
+
+ 72  [   7h]  Black Cape — Python Data Engineer
+            posted Aug 3, 2026, 2:11 AM EDT
+            Tampa, FL
+            https://blackcape.applytojob.com/apply/AxU2pDbq3P/Python-Data-Engineer
+
+ 70  [today]  UL Solutions — Associate Business Data Analyst
+            posted Aug 2, 2026 (date only)
+            Raleigh, NC, United States
+            https://jobright.ai/jobs/info/6a5b19793ac7627fe90075b3?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  PWX Solutions (a PubWorX Company) — JUNIOR DATA ANALYST
+            posted Aug 2, 2026 (date only)
             New York, NY, United States
-            https://jobright.ai/jobs/info/6a6cd0f3acb0a61f9dbc7380?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a6f1235cd3bac13d3708152?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Encompass Supply Chain Solutions — Web Analytics Analyst
-            posted Aug 1, 2026 (date only)
-            Lawrenceville, GA, United States
-            https://jobright.ai/jobs/info/6a5ba4ac63a8f619507cba62?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Petco — Analyst, Business Intelligence - Stores
+            posted Aug 2, 2026 (date only)
+            San Diego, CA, United States
+            https://jobright.ai/jobs/info/6a6d78565c54bc4752cf25ea?utm_campaign=Data%20Analysis&utm_source=1103
 
- 59  [today]  Booz Allen Hamilton — Data Scientist
-            posted Aug 1, 2026 (date only)
-            Fort Meade, MD, United States
-            https://jobright.ai/jobs/info/6a64289e979290281c7058c7?utm_campaign=Data%20Analysis&utm_source=1103
+ 66  [   4h]  TikTok — Machine Learning Engineer Graduate - Ads Creative
+            posted Aug 3, 2026, 5:21 AM EDT
+            San Jose, CA | H1B 1800
+            https://lifeattiktok.com/search/7668681119759616309
 
- 59  [today]  HAVI — Data Scientist
-            posted Aug 1, 2026 (date only)
-            Chicago, IL
-            https://jobright.ai/jobs/info/6a559d6813cd7d29d5e32eaf?utm_campaign=Data%20Analysis&utm_source=1103
+ 66  [   7h]  TikTok — Machine Learning Engineer Graduate
+            posted Aug 3, 2026, 2:15 AM EDT
+            San Jose, CA | H1B 1800
+            https://lifeattiktok.com/search/7665797203155896581
 
- 48  [  10h]  ManTech — Associate Software Engineer
-            posted Aug 1, 2026, 8:59 PM EDT
-            Fort Meade, MD
-            https://mantech.avature.net/en_US/careers/JobDetail/65051
+ 66  [   7h]  TikTok — Machine Learning Engineer New Grad - Search Quality
+            posted Aug 3, 2026, 2:15 AM EDT
+            San Jose, CA | H1B 1800
+            https://lifeattiktok.com/search/7665793152026740997
+
+ 66  [   7h]  TikTok — Machine Learning Engineer Graduate
+            posted Aug 3, 2026, 2:15 AM EDT
+            San Jose, CA | H1B 1800
+            https://lifeattiktok.com/search/7667344113001384197
+
+ 66  [   7h]  TikTok — Machine Learning Engineer New Grad - Data Search Visual Search
+            posted Aug 3, 2026, 2:15 AM EDT
+            San Jose, CA | H1B 1800
+            https://lifeattiktok.com/search/7667349591747758341
+
+ 66  [   7h]  TikTok — Machine Learning Engineer Graduate - Data Search Basic Ranking
+            posted Aug 3, 2026, 2:15 AM EDT
+            San Jose, CA | H1B 1800
+            https://lifeattiktok.com/search/7667344111675246901
+
+ 66  [   7h]  TikTok — Machine Learning Engineer Graduate
+            posted Aug 3, 2026, 2:15 AM EDT
+            San Jose, CA | H1B 1800
+            https://lifeattiktok.com/search/7667346543553710389
+
+ 66  [   7h]  TikTok — Machine Learning Engineer New Grad - Data Search - Visual Search
+            posted Aug 3, 2026, 2:15 AM EDT
+            San Jose, CA | H1B 1800
+            https://lifeattiktok.com/search/7667346535273007413
+
+ 66  [   7h]  TikTok — Machine Learning Engineer New Grad - Data-Global E-Commerce-Search
+            posted Aug 3, 2026, 2:15 AM EDT
+            Seattle, WA | H1B 1800
+            https://lifeattiktok.com/search/7668389759463393589
