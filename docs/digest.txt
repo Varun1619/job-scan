@@ -1,4 +1,9 @@
-Top 15 of 50 — last 24h — Aug 3, 9:22 AM EDT
+Top 15 of 52 — last 24h — Aug 3, 9:43 AM EDT
+
+ 81  [   2h]  Snowflake — Analytics Engineer - Finance
+            posted Aug 3, 2026, 7:31 AM EDT
+            IN-Pune | H1B 219
+            https://jobs.ashbyhq.com/snowflake/6ced2190-98f0-4ca0-b128-ef655e38d0be
 
  75  [   7h]  Capgemini — Junior Data Engineer/Junior Data Scientist
             posted Aug 3, 2026, 2:08 AM EDT
@@ -15,15 +20,15 @@ Top 15 of 50 — last 24h — Aug 3, 9:22 AM EDT
             Tampa, FL
             https://blackcape.applytojob.com/apply/AxU2pDbq3P/Python-Data-Engineer
 
- 70  [today]  UL Solutions — Associate Business Data Analyst
-            posted Aug 2, 2026 (date only)
-            Raleigh, NC, United States
-            https://jobright.ai/jobs/info/6a5b19793ac7627fe90075b3?utm_campaign=Data%20Analysis&utm_source=1103
-
  70  [today]  PWX Solutions (a PubWorX Company) — JUNIOR DATA ANALYST
             posted Aug 2, 2026 (date only)
             New York, NY, United States
             https://jobright.ai/jobs/info/6a6f1235cd3bac13d3708152?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  UL Solutions — Associate Business Data Analyst
+            posted Aug 2, 2026 (date only)
+            Raleigh, NC, United States
+            https://jobright.ai/jobs/info/6a5b19793ac7627fe90075b3?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Petco — Analyst, Business Intelligence - Stores
             posted Aug 2, 2026 (date only)
@@ -35,42 +40,37 @@ Top 15 of 50 — last 24h — Aug 3, 9:22 AM EDT
             San Jose, CA | H1B 1800
             https://lifeattiktok.com/search/7668681119759616309
 
- 66  [   7h]  TikTok — Machine Learning Engineer Graduate
+ 66  [   7h]  TikTok — Machine Learning Engineer New Grad - E-Commerce Search
             posted Aug 3, 2026, 2:15 AM EDT
-            San Jose, CA | H1B 1800
-            https://lifeattiktok.com/search/7665797203155896581
-
- 66  [   7h]  TikTok — Machine Learning Engineer New Grad - Search Quality
-            posted Aug 3, 2026, 2:15 AM EDT
-            San Jose, CA | H1B 1800
-            https://lifeattiktok.com/search/7665793152026740997
-
- 66  [   7h]  TikTok — Machine Learning Engineer Graduate
-            posted Aug 3, 2026, 2:15 AM EDT
-            San Jose, CA | H1B 1800
-            https://lifeattiktok.com/search/7667344113001384197
-
- 66  [   7h]  TikTok — Machine Learning Engineer New Grad - Data Search Visual Search
-            posted Aug 3, 2026, 2:15 AM EDT
-            San Jose, CA | H1B 1800
-            https://lifeattiktok.com/search/7667349591747758341
+            Seattle, WA | H1B 1800
+            https://lifeattiktok.com/search/7668390999147776309
 
  66  [   7h]  TikTok — Machine Learning Engineer Graduate - Data Search Basic Ranking
             posted Aug 3, 2026, 2:15 AM EDT
             San Jose, CA | H1B 1800
             https://lifeattiktok.com/search/7667344111675246901
 
- 66  [   7h]  TikTok — Machine Learning Engineer Graduate
-            posted Aug 3, 2026, 2:15 AM EDT
-            San Jose, CA | H1B 1800
-            https://lifeattiktok.com/search/7667346543553710389
-
- 66  [   7h]  TikTok — Machine Learning Engineer New Grad - Data Search - Visual Search
-            posted Aug 3, 2026, 2:15 AM EDT
-            San Jose, CA | H1B 1800
-            https://lifeattiktok.com/search/7667346535273007413
-
  66  [   7h]  TikTok — Machine Learning Engineer New Grad - Data-Global E-Commerce-Search
             posted Aug 3, 2026, 2:15 AM EDT
             Seattle, WA | H1B 1800
             https://lifeattiktok.com/search/7668389759463393589
+
+ 66  [   7h]  TikTok — Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global
+            posted Aug 3, 2026, 2:15 AM EDT
+            San Jose, CA | H1B 1800
+            https://lifeattiktok.com/search/7668592348941273349
+
+ 66  [   7h]  TikTok — Machine Learning Engineer Graduate - Brand Ads
+            posted Aug 3, 2026, 2:14 AM EDT
+            San Jose, CA | H1B 1800
+            https://lifeattiktok.com/search/7668698260232702261
+
+ 66  [   7h]  TikTok — Machine Learning Engineer Graduate - Ads Delivery
+            posted Aug 3, 2026, 2:15 AM EDT
+            San Jose, CA | H1B 1800
+            https://lifeattiktok.com/search/7668660365135808821
+
+ 66  [   7h]  TikTok — Machine Learning Engineer Graduate
+            posted Aug 3, 2026, 2:15 AM EDT
+            San Jose, CA | H1B 1800
+            https://lifeattiktok.com/search/7665797203155896581
