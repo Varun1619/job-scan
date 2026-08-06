@@ -1,76 +1,76 @@
-Top 15 of 40 — last 24h — Aug 5, 8:56 AM EDT
+Top 15 of 42 — last 24h — Aug 6, 8:24 AM EDT
 
- 75  [  14h]  Abacus Insights — Associate Data Engineer
-            posted Aug 4, 2026, 6:18 PM EDT
-            Remote in USA
-            https://boards.greenhouse.io/abacusinsights/jobs/8674746002
+ 72  [  11h]  Varsity Brands — Data Engineer 1
+            posted Aug 5, 2026, 9:19 PM EDT
+            Farmers Branch, TX
+            https://careers.varsitybrands.com/global/en/job/JR114562
 
- 72  [  14h]  Bespoke Technologies, Inc. — Data Engineer Analyst - WDP
-            posted Aug 4, 2026, 6:15 PM EDT
-            Chantilly, VA, Herndon, VA
-            https://bespoketechinc.applytojob.com/apply/540EXNvUfv/Data-Engineer-Analyst-WDP
+ 70  [today]  DHL Supply Chain — Business Data Analyst I
+            posted Aug 5, 2026 (date only)
+            Northlake, TX, United States
+            https://jobright.ai/jobs/info/6a6da29066158d7ef887e55c?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  ICON Strategic Solutions — Lab Data Analyst I
-            posted Aug 4, 2026 (date only)
-            Farmingdale, NY, United States
-            https://jobright.ai/jobs/info/6a721933ee751e0c79346d21?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  Abbott — Vendor Master, Junior Data Analyst
+            posted Aug 5, 2026 (date only)
+            Abbott Park, IL, United States
+            https://jobright.ai/jobs/info/6a739b8a8cd88e7ccbf5977d?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Lansing Building Products — Junior Business Intelligence Analyst
-            posted Aug 4, 2026 (date only)
-            Richmond, VA, United States
-            https://jobright.ai/jobs/info/6a67c6da5d2a117fb9ced469?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  Monster Energy — Junior SAP Data Analyst
+            posted Aug 5, 2026 (date only)
+            Corona, CA, United States
+            https://jobright.ai/jobs/info/6a73838fe55c73319eb17c5b?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  ICON plc — Lab Data Analyst I
-            posted Aug 4, 2026 (date only)
-            Farmingdale, NY, United States
-            https://jobright.ai/jobs/info/6a723a6945b6af1c30dbd6d2?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  University of West Georgia — eCampus Data Analyst - Associate
-            posted Aug 4, 2026 (date only)
-            Carrollton, GA, United States
-            https://jobright.ai/jobs/info/6a7274f145b6af1c30dbedd5?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  [Metropolitan Transportation Authority](https:/mta.info/) — Security Data Analyst Levels I - III
-            posted Aug 4, 2026 (date only)
+ 70  [today]  CodeVertex Careers — Virtual Data Analyst / Entry Level (Remote)
+            posted Aug 5, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6a722a98cb96192a3684c5a5?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a743ae5fba916306bd98d26?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  CodeVertex Operations — Entry-Level Data Analyst
+            posted Aug 5, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6a743af1b17cba56903556c8?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  FedPoint — Associate Data Analyst
+            posted Aug 5, 2026 (date only)
+            Portsmouth, NH, United States
+            https://jobright.ai/jobs/info/6a722bfe02d93145bf892fef?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Constellis — Data Analyst
+            posted Aug 5, 2026 (date only)
+            Philadelphia, PA, United States
+            https://jobright.ai/jobs/info/6a672b472bda4d284285311a?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  JBS — BUSINESS INTELLIGENCE ANALYST
             posted Aug 5, 2026 (date only)
             Greeley, CO, United States
             https://jobright.ai/jobs/info/6a7302991ce9647cdbca61b7?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  City of New York — Data Analyst, Transit Development
-            posted Aug 4, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6a71d67c45b6af1c30dbad21?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Deloitte — Logistics Data Analyst, Strategy and Transformation
-            posted Aug 4, 2026 (date only)
-            Chicago, IL, United States | H1B 1500
-            https://jobright.ai/jobs/info/6a71f2d8e2b7476e7b21036b?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  VSolvit — DATA ANALYST 1
-            posted Aug 4, 2026 (date only)
-            Norco, CA, United States
-            https://jobright.ai/jobs/info/6a5fa2a0b0f20036bc631fb9?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Petco — Analyst, Business Intelligence - Stores & Services
-            posted Aug 4, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a70e5b2e2b7476e7b20ba5f?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  Amazon — Data Analyst, ReLo
-            posted Aug 4, 2026 (date only)
-            Reading, PA, United States | H1B 15524
-            https://jobright.ai/jobs/info/6a590237856af468ab001293?utm_campaign=Data%20Analysis&utm_source=1103
+            posted Aug 5, 2026 (date only)
+            Reading, Pennsylvania, USA | H1B 15524
+            https://jobright.ai/jobs/info/6a15e1e61935fa61b3c6c13b?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  JBS USA — BUSINESS INTELLIGENCE ANALYST
-            posted Aug 4, 2026 (date only)
-            Greeley, CO, United States
-            https://jobright.ai/jobs/info/6a722a34e2b7476e7b2119f6?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Lockton — Pharmacy Data Analyst
+            posted Aug 5, 2026 (date only)
+            MN-Minneapolis
+            https://jobright.ai/jobs/info/6a73a0841ce9647cdbca9598?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  North Carolina State University — Business Intelligence Analyst
-            posted Aug 4, 2026 (date only)
-            Raleigh, NC, United States
-            https://jobright.ai/jobs/info/6a725711e2b7476e7b212e72?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Milliman — Healthcare Data Analyst (MedInsight)
+            posted Aug 5, 2026 (date only)
+            Seattle, Washington, United States
+            https://jobright.ai/jobs/info/6a739c60e55c73319eb185f0?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Halvik — Business Intelligence Specialist
+            posted Aug 5, 2026 (date only)
+            Virginia Beach, VA, United States
+            https://jobright.ai/jobs/info/6a73835d8dc3d52d8ed9fe44?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Zest AI — Data Analyst
+            posted Aug 5, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6a7390ba6a034212ea028566?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  AAA-The Auto Club Group — Business Intelligence Support Analyst
+            posted Aug 5, 2026 (date only)
+            MI-Admin Office Building (AOB), United States of America
+            https://jobright.ai/jobs/info/6a593f1763a8f619507c12ad?utm_campaign=Data%20Analysis&utm_source=1103
