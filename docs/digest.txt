@@ -1,76 +1,76 @@
-Top 15 of 30 — last 24h — Aug 7, 7:14 AM EDT
+Top 15 of 46 — last 24h — Aug 7, 7:49 AM EDT
+
+ 72  [  16h]  Cloudflare — Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)
+            posted Aug 6, 2026, 3:17 PM EDT
+            Hybrid | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801
+
+ 72  [  16h]  Cloudflare — Distributed Systems Engineer - Data Platform - Logs and Audit Logs
+            posted Aug 6, 2026, 3:17 PM EDT
+            Hybrid | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/7462802?gh_jid=7462802
+
+ 72  [  16h]  Cloudflare — Distributed Systems Engineer - Data Platform - Analytics and Alerts
+            posted Aug 6, 2026, 3:17 PM EDT
+            Hybrid | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/7462803?gh_jid=7462803
 
  72  [  21h]  Bigbear.ai — Data Engineer
             posted Aug 6, 2026, 10:07 AM EDT
             Honolulu, HI
             https://careers.bigbear.ai/jobs/4497?icims=1
 
- 70  [today]  Abbott — Vendor Master, Junior Data Analyst
+ 70  [today]  R3 Continuum — Data Analyst I
             posted Aug 6, 2026 (date only)
-            Abbott Park, IL, United States
-            https://jobright.ai/jobs/info/6a739b928cd88e7ccbf59787?utm_campaign=Data%20Analysis&utm_source=1103
+            Bloomington, MN, United States
+            https://jobright.ai/jobs/info/6a74df2f7b3417772ade2165?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Monster Energy — Junior SAP Data Analyst
             posted Aug 6, 2026 (date only)
             Corona, CA, United States
             https://jobright.ai/jobs/info/6a751b4f7b3417772ade3719?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  R3 Continuum — Data Analyst I
+ 70  [today]  Abbott — Vendor Master, Junior Data Analyst
             posted Aug 6, 2026 (date only)
-            Bloomington, MN, United States
-            https://jobright.ai/jobs/info/6a74df2f7b3417772ade2165?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Pace® Analytical Services — Chromatography Data Analyst
-            posted Aug 6, 2026 (date only)
-            Maple Grove, MN, United States
-            https://jobright.ai/jobs/info/6a46f32d8204a812e98caa15?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  AST — Business Intelligence Analyst (DAX focused)
-            posted Aug 6, 2026 (date only)
-            Tacoma, WA, United States
-            https://jobright.ai/jobs/info/6a3c07494d047136e092f241?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  UCLA — Research Data Analyst 1 RP
-            posted Aug 6, 2026 (date only)
-            Los Angeles, CA, United States
-            https://jobright.ai/jobs/info/6a7512ad20b26a6e93f4aab8?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  UCLA Digital & Technology Solutions — Research Data Analyst 1 RP
-            posted Aug 6, 2026 (date only)
-            Los Angeles, CA, United States
-            https://jobright.ai/jobs/info/6a7510db20b26a6e93f4aa37?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Monument Health — Business Intelligence Specialist
-            posted Aug 6, 2026 (date only)
-            Rapid City, SD, United States
-            https://jobright.ai/jobs/info/6a74c5e5972ac843c69971b7?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  University of Kentucky — Geoscience Data Analyst - Temporary
-            posted Aug 6, 2026 (date only)
-            Lexington, KY, United States
-            https://jobright.ai/jobs/info/6a7539a837da8525e8cdcc31?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  First Washington Realty — Business Intelligence Analyst
-            posted Aug 6, 2026 (date only)
-            Bethesda, MD, United States
-            https://jobright.ai/jobs/info/6a74cc787b3417772ade19e9?utm_campaign=Data%20Analysis&utm_source=1103
+            Abbott Park, IL, United States
+            https://jobright.ai/jobs/info/6a739b928cd88e7ccbf59787?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  University of Kentucky — Geoscience Data Analyst - Temporary
             posted Aug 6, 2026 (date only)
             Lexington, KY, United States
             https://jobright.ai/jobs/info/6a74b2fe20b26a6e93f48467?utm_campaign=Data%20Analysis&utm_source=1103
 
- 66  [   1h]  ByteDance — Machine Learning Engineer Graduate - Agent Evaluation & Evolution
-            posted Aug 7, 2026, 5:24 AM EDT
-            San Jose, CA | H1B 1800
-            https://jobs.bytedance.com/en/position/7670932427485186309/detail
-
- 63  [today]  Knowesis Inc. — Data Scientist I
+ 67  [today]  Monument Health — Business Intelligence Specialist
             posted Aug 6, 2026 (date only)
-            Alexandria, VA 22301, USA
-            https://jobright.ai/jobs/info/6a556d1bae07d60a8d0116bb?utm_campaign=Data%20Analysis&utm_source=1103
+            Rapid City, SD, United States
+            https://jobright.ai/jobs/info/6a74c5e5972ac843c69971b7?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [today]  Navatech — Jr Data Scientist
+ 67  [today]  AST — Business Intelligence Analyst (DAX focused)
             posted Aug 6, 2026 (date only)
-            Milwaukee, WI, United States
-            https://jobright.ai/jobs/info/6a75569abb6ca93ae560e583?utm_campaign=Data%20Analysis&utm_source=1103
+            Tacoma, WA, United States
+            https://jobright.ai/jobs/info/6a3c07494d047136e092f241?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  First Washington Realty — Business Intelligence Analyst
+            posted Aug 6, 2026 (date only)
+            Bethesda, MD, United States
+            https://jobright.ai/jobs/info/6a74cc787b3417772ade19e9?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  UCLA Digital & Technology Solutions — Research Data Analyst 1 RP
+            posted Aug 6, 2026 (date only)
+            Los Angeles, CA, United States
+            https://jobright.ai/jobs/info/6a7510db20b26a6e93f4aa37?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  UCLA — Research Data Analyst 1 RP
+            posted Aug 6, 2026 (date only)
+            Los Angeles, CA, United States
+            https://jobright.ai/jobs/info/6a7512ad20b26a6e93f4aab8?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Pace® Analytical Services — Chromatography Data Analyst
+            posted Aug 6, 2026 (date only)
+            Maple Grove, MN, United States
+            https://jobright.ai/jobs/info/6a46f32d8204a812e98caa15?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  University of Kentucky — Geoscience Data Analyst - Temporary
+            posted Aug 6, 2026 (date only)
+            Lexington, KY, United States
+            https://jobright.ai/jobs/info/6a7539a837da8525e8cdcc31?utm_campaign=Data%20Analysis&utm_source=1103
