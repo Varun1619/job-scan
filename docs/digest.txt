@@ -1,76 +1,41 @@
-Top 15 of 20 — last 24h — Aug 8, 6:58 AM EDT
+Top 8 of 8 — last 24h — Aug 9, 7:00 AM EDT
 
- 75  [  12h]  Cortica — Junior AI Data Engineer
-            posted Aug 7, 2026, 6:44 PM EDT
-            San Diego, CA
-            https://job-boards.greenhouse.io/allcareers/jobs/8692383002
-
- 70  [today]  UnitedHealthcare — Data Analyst I - UHC Cove
-            posted Aug 7, 2026 (date only)
-            Minnetonka, MN, United States
-            https://jobright.ai/jobs/info/6a76a708bb6ca93ae56131b7?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  CodeVertex Careers — Virtual Data Analyst / Entry Level (Remote)
-            posted Aug 7, 2026 (date only)
+ 70  [today]  Zoomph — Associate Data Analyst
+            posted Aug 8, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6a768a62a26ccc369f835a28?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a77e7e867a1ad0bc53cd14d?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  CodeVertex System — Virtual Data Analyst / Entry Level (Remote)
-            posted Aug 7, 2026 (date only)
+ 67  [today]  Tactile Medical — Data Analyst
+            posted Aug 8, 2026 (date only)
+            New Brighton, MN, United States
+            https://jobright.ai/jobs/info/6a5a60f4c8e3a473cb8ab71c?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 63  [today]  Fanatics — Data Scientist I
+            posted Aug 8, 2026 (date only)
+            Denver, CO, United States
+            https://jobright.ai/jobs/info/6a63b3768d53603449603c4d?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 63  [today]  AEG — Associate Data Scientist
+            posted Aug 8, 2026 (date only)
+            Los Angeles, CA, United States
+            https://jobright.ai/jobs/info/6a3d8ace4d047136e093418a?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  Booz Allen Hamilton — Data Scientist
+            posted Aug 8, 2026 (date only)
+            Fort Meade, MD, United States
+            https://jobright.ai/jobs/info/6a66a3828d5360344960a027?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  HAVI — Data Scientist Job Details / HAVI
+            posted Aug 8, 2026 (date only)
+            Chicago, IL, United States
+            https://jobright.ai/jobs/info/6a76ec404817aa4307049b7a?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  WEX — Fraud / Credit Data Scientist, Risk Solutions
+            posted Aug 8, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6a7689a2bb6ca93ae5612dcb?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a58e240686b4755d1e0cf1b?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  CodeVertex Operations — Virtual Data Analyst / Entry Level (Remote)
-            posted Aug 7, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a76889ea26ccc369f8359fa?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  [Upgrade Minds](upgrademinds.com) — Entry-Level Data Analyst
-            posted Aug 7, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a766ab667a1ad0bc53ca581?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  DHL Supply Chain — Business Data Analyst II
-            posted Aug 7, 2026 (date only)
-            China Grove, NC, United States
-            https://jobright.ai/jobs/info/6a6cd417acb0a61f9dbc7589?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  [Upgrade Minds](upgrademinds.com) — Entry-Level Data Analyst ($90K - $100K + Bonus)
-            posted Aug 7, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a7636aa7b3417772ade7463?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Banner Engineering — Associate Data Analyst
-            posted Aug 7, 2026 (date only)
-            Minneapolis, MN, United States
-            https://jobright.ai/jobs/info/6a6c49b7c00ae03109f881e0?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  CDP Community — Business Intelligence Associate-Full Time Remote
-            posted Aug 7, 2026 (date only)
-            Boston, MA, United States
-            https://jobright.ai/jobs/info/6a760ef7b17cba569035c62e?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  CodeVertex System — Data Analyst
-            posted Aug 7, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a76a1ecbb6ca93ae5613116?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [  12h]  Verifone — People Analytics Analyst
-            posted Aug 7, 2026, 6:22 PM EDT
-            Atlanta, GA
-            https://job-boards.greenhouse.io/verifone/jobs/7812087003
-
- 63  [today]  SteerBridge — Data Scientist Junior
-            posted Aug 7, 2026 (date only)
-            Washington, DC, United States
-            https://jobright.ai/jobs/info/6a763046b17cba569035d133?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  Esri — Data Scientist I
-            posted Aug 7, 2026 (date only)
-            St. Louis, MO, United States
-            https://jobright.ai/jobs/info/6a3c3518882f121f56a33ce8?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  Amplify — Associate Data Scientist
-            posted Aug 7, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a58f9ad4da96a42cfd8e4d7?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [   1d]  Booz Allen Hamilton — Data Scientist
+            posted Aug 8, 2026 (date only)
+            Fort Meade, MD, US
+            https://jobright.ai/jobs/info/6a195cc417492d3a389bdb25?utm_campaign=Data%20Analysis&utm_source=1103
