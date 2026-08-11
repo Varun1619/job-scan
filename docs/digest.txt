@@ -1,19 +1,19 @@
-Top 15 of 28 — last 24h — Aug 11, 7:11 AM EDT
+Top 15 of 42 — last 24h — Aug 11, 7:47 AM EDT
 
- 75  [  12h]  Knowledge Services — Junior Data Engineer
+ 75  [  13h]  Knowledge Services — Junior Data Engineer
             posted Aug 10, 2026, 6:18 PM EDT
             Indianapolis, IN
             https://careers-knowledgeservices.icims.com/jobs/31209/job?mobile=true&needsRedirect=false
 
- 72  [  12h]  Deloitte — Delivery Analyst - Government & Public Services - AI & Data Engineering Solutions
+ 72  [   8h]  Elastic — Platform Engineer - Kubernetes
+            posted Aug 10, 2026, 10:52 PM EDT
+            United States | H1B 6
+            https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349
+
+ 72  [  13h]  Deloitte — Delivery Analyst - Government & Public Services - AI & Data Engineering Solutions
             posted Aug 10, 2026, 6:37 PM EDT
             Gilbert, AZ | H1B 1500
             https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-AI-Data-Engineering-Solutions/357022
-
- 70  [today]  DHL Supply Chain — Business Data Analyst II
-            posted Aug 10, 2026 (date only)
-            China Grove, NC, United States
-            https://jobright.ai/jobs/info/6a6cd417acb0a61f9dbc7589?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Yes Energy — Business Intelligence Analyst I
             posted Aug 10, 2026 (date only)
@@ -30,25 +30,20 @@ Top 15 of 28 — last 24h — Aug 11, 7:11 AM EDT
             Boston, MA, United States
             https://jobright.ai/jobs/info/6a79f0d6b17cba56903646f6?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 70  [today]  DHL Supply Chain — Business Data Analyst II
+            posted Aug 10, 2026 (date only)
+            China Grove, NC, United States
+            https://jobright.ai/jobs/info/6a6cd417acb0a61f9dbc7589?utm_campaign=Data%20Analysis&utm_source=1103
+
  70  [today]  WebFX — Jr. Business Data Analyst
             posted Aug 10, 2026 (date only)
             Harrisburg, PA
             https://jobright.ai/jobs/info/68974d2373b3a600fe8967eb?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [   9h]  Generation West Virginia — Junior Data Analyst
+ 70  [  10h]  Generation West Virginia — Junior Data Analyst
             posted Aug 10, 2026, 9:31 PM EDT
             Charleston, WV
             https://apply.workable.com/generation-west-virginia-1/j/CBFA85E3A4/apply
-
- 67  [today]  USC — Business Data Analyst
-            posted Aug 10, 2026 (date only)
-            Los Angeles, CA, United States
-            https://jobright.ai/jobs/info/6a7aae75ab1385611f900004?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Rockwood Company, LLC — Data Analyst - Evergreen
-            posted Aug 10, 2026 (date only)
-            Washington Metropolitan Area, United States
-            https://jobright.ai/jobs/info/6a7a8b5e9ee17f276dbf3731?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Voyager Technologies — Supply Chain Data Analyst
             posted Aug 10, 2026 (date only)
@@ -65,12 +60,17 @@ Top 15 of 28 — last 24h — Aug 11, 7:11 AM EDT
             White Plains, NY, United States
             https://jobright.ai/jobs/info/69ec02f558811370cb13e1f3?utm_campaign=Data%20Analysis&utm_source=1103
 
- 66  [  12h]  ByteDance — Machine Learning Engineer Graduate - AML-Engine-Orchestration - PhD
+ 67  [today]  Rockwood Company, LLC — Data Analyst - Evergreen
+            posted Aug 10, 2026 (date only)
+            Washington Metropolitan Area, United States
+            https://jobright.ai/jobs/info/6a7a8b5e9ee17f276dbf3731?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  USC — Business Data Analyst
+            posted Aug 10, 2026 (date only)
+            Los Angeles, CA, United States
+            https://jobright.ai/jobs/info/6a7aae75ab1385611f900004?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 66  [  13h]  ByteDance — Machine Learning Engineer Graduate - AML-Engine-Orchestration - PhD
             posted Aug 10, 2026, 6:36 PM EDT
             San Jose, CA | H1B 1800
             https://jobs.bytedance.com/en/position/7671158113903937797/detail
-
- 66  [  16h]  ByteDance — Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate - Applied Machine Learning Ark
-            posted Aug 10, 2026, 2:59 PM EDT
-            San Jose, CA | H1B 1800
-            https://jobs.bytedance.com/en/position/7671102043532462389/detail
