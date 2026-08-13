@@ -1,19 +1,39 @@
-Top 15 of 49 — last 24h — Aug 13, 7:14 AM EDT
+Top 15 of 58 — last 24h — Aug 13, 7:51 AM EDT
 
  75  [today]  Capgemini — Associate Power BI and Analytics Engineer
             posted Aug 13, 2026 (date only)
             Houston, TX, United States
             https://jobright.ai/jobs/info/6a7d7e72dc3dff2d1c0cb54f?utm_campaign=Data%20Analysis&utm_source=1103
 
- 75  [  20h]  TikTok — Big Data Engineer Graduate - TikTok Recommendation Architecture
+ 75  [  21h]  TikTok — Big Data Engineer Graduate - TikTok Recommendation Architecture
             posted Aug 12, 2026, 10:31 AM EDT
             San Jose, CA | H1B 1800
             https://lifeattiktok.com/search/7672518398222387461
+
+ 70  [today]  The Henry M. Jackson Foundation for the Advancement of Military Medicine — Data Analyst I - PED
+            posted Aug 12, 2026 (date only)
+            Bethesda, MD, United States
+            https://jobright.ai/jobs/info/6a7cd8c383621355407ac346?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Lynker — Data Analyst I — Geospatial and Water Resources
+            posted Aug 12, 2026 (date only)
+            Boulder, CO, United States
+            https://jobright.ai/jobs/info/6a7cdd6877d5f033c4b910fd?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Booz Allen Hamilton — Data Analyst, Junior
+            posted Aug 12, 2026 (date only)
+            Washington, DC, United States
+            https://jobright.ai/jobs/info/6a7c9b337c52154b59f5afe3?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  HUB International — Business Intelligence Associate
             posted Aug 12, 2026 (date only)
             Norwell, MA, United States
             https://jobright.ai/jobs/info/6a79e863a26ccc369f83b5a6?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  New York Life — Associate, Insurance Analytics & Business Intelligence
+            posted Aug 12, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6a7cd4a877d5f033c4b90d6d?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  DHL Supply Chain — Business Data Analyst II
             posted Aug 12, 2026 (date only)
@@ -30,37 +50,12 @@ Top 15 of 49 — last 24h — Aug 13, 7:14 AM EDT
             Plymouth, MN, United States
             https://jobright.ai/jobs/info/6a7cefb883621355407accf7?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Booz Allen Hamilton — Data Analyst, Junior
-            posted Aug 12, 2026 (date only)
-            Washington, DC, United States
-            https://jobright.ai/jobs/info/6a7c9b337c52154b59f5afe3?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Lynker — Data Analyst I — Geospatial and Water Resources
-            posted Aug 12, 2026 (date only)
-            Boulder, CO, United States
-            https://jobright.ai/jobs/info/6a7cdd6877d5f033c4b910fd?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  The Henry M. Jackson Foundation for the Advancement of Military Medicine — Data Analyst I - PED
-            posted Aug 12, 2026 (date only)
-            Bethesda, MD, United States
-            https://jobright.ai/jobs/info/6a7cd8c383621355407ac346?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  New York Life — Associate, Insurance Analytics & Business Intelligence
-            posted Aug 12, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6a7cd4a877d5f033c4b90d6d?utm_campaign=Data%20Analysis&utm_source=1103
-
  70  [  11h]  Gartner — Associate Data Analyst - Insights and Product Analytics
             posted Aug 12, 2026, 8:00 PM EDT
             Stamford, CT, Irving, TX
             https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Data-Analyst---2026-2027-graduates_112849
 
- 70  [   1d]  CodeVertex Operations — Entry-Level Data Analyst
-            posted Aug 12, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a7c1e4477d5f033c4b8da39?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [   4h]  Apollo Mission Critical Engineering — Business & Data Analyst
+ 67  [   5h]  Apollo Mission Critical Engineering — Business & Data Analyst
             posted Aug 13, 2026, 2:21 AM EDT
             Atlanta, GA
             https://apollomce.bamboohr.com/careers/121/
@@ -70,7 +65,12 @@ Top 15 of 49 — last 24h — Aug 13, 7:14 AM EDT
             Minneapolis, MN
             https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000124033874
 
- 67  [today]  Lockton — Pharmacy Data Analyst
+ 67  [today]  Georgia Power Company — Data Analytics Analyst 1
             posted Aug 12, 2026 (date only)
-            MN-Minneapolis
-            https://jobright.ai/jobs/info/6a73a0841ce9647cdbca9598?utm_campaign=Data%20Analysis&utm_source=1103
+            Birmingham, Alabama, United States
+            https://jobright.ai/jobs/info/6a7d33897c52154b59f5e250?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Chenega MIOS SBU — Data Analyst
+            posted Aug 12, 2026 (date only)
+            Alexandria, VA, United States
+            https://jobright.ai/jobs/info/6a579a75efb06a45240db518?utm_campaign=Data%20Analysis&utm_source=1103
