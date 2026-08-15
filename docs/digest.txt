@@ -1,29 +1,34 @@
-Top 15 of 46 — last 24h — Aug 14, 7:47 AM EDT
+Top 15 of 32 — last 24h — Aug 15, 6:45 AM EDT
 
- 75  [  13h]  ManTech — Associate BI Analytics Engineer
-            posted Aug 13, 2026, 6:24 PM EDT
-            Herndon, VA
-            https://mantech.avature.net/en_US/careers/JobDetail/64747
-
- 70  [today]  California Department of Public Health — RESEARCH DATA ANALYST I JC-528434
-            posted Aug 13, 2026 (date only)
-            Sacramento, CA, United States
-            https://jobright.ai/jobs/info/6a7e51e60cd4a0703257f3cc?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  PURE Insurance — Associate Data Analyst
-            posted Aug 13, 2026 (date only)
-            Boston, MA, United States
-            https://jobright.ai/jobs/info/6a7e2750e2030208f2767eaa?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  Sparks Wiz Limited — Junior Data Analyst
+            posted Aug 14, 2026 (date only)
+            Los Angeles, CA, United States
+            https://jobright.ai/jobs/info/6a5eb9c2f3674a0545d2ab07?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  DHL Supply Chain — Business Data Analyst II
-            posted Aug 13, 2026 (date only)
+            posted Aug 14, 2026 (date only)
             China Grove, NC, United States
             https://jobright.ai/jobs/info/6a6cd417acb0a61f9dbc7589?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [   7h]  Johns Hopkins Applied Physics Laboratory — Modeler and Data Analyst - PhD Graduate
-            posted Aug 13, 2026, 11:59 PM EDT
-            Laurel, MD
-            https://careers.jhuapl.edu/jobs/58102?icims=1
+ 70  [today]  Morgan Stanley — Junior Data Analyst
+            posted Aug 14, 2026 (date only)
+            Dallas, TX, United States
+            https://jobright.ai/jobs/info/6a7f4daaad9ff00c26bad70a?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  CodeVertex Operations — Entry-Level Data Analyst
+            posted Aug 14, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6a7fbcd6e2030208f277113e?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  CodeVertex System — Entry-Level Data Analyst
+            posted Aug 14, 2026 (date only)
+            California, United States
+            https://jobright.ai/jobs/info/6a7f6adab56bea5779c0b133?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  University of Kentucky — Institutional Data Analyst Associate
+            posted Aug 14, 2026 (date only)
+            Lexington, KY, United States
+            https://jobright.ai/jobs/info/6a7f7d03927c79391ad099fd?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Daily Management Resorts — Data Analyst
             posted Aug 14, 2026 (date only)
@@ -35,42 +40,37 @@ Top 15 of 46 — last 24h — Aug 14, 7:47 AM EDT
             Idaho, United States
             https://jobright.ai/jobs/info/6a7ec833179e4f7b7e8d86e3?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [   6h]  EMCOR Group — Business Data Analyst - Construction
-            posted Aug 14, 2026, 12:57 AM EDT
-            Baltimore, MD
-            https://careers-emcorgroup.icims.com/jobs/1763/job?mobile=true&needsRedirect=false
+ 67  [today]  North Carolina Department of Agriculture and Consumer Services — Data Analyst
+            posted Aug 14, 2026 (date only)
+            Warrensburg, MO, United States
+            https://jobright.ai/jobs/info/6a7f970ee2030208f276f9e0?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [   7h]  Arcfield — Data Analyst / Applied Mathematician
-            posted Aug 14, 2026, 12:03 AM EDT
-            Chesterbrook, PA
-            https://careers.arcfield.com/jobs/8469?icims=1
-
- 67  [today]  Dollar Tree Stores — Customer Insights & Analytics Analyst
-            posted Aug 13, 2026 (date only)
-            Chesapeake, VA, United States
-            https://jobright.ai/jobs/info/6a642cf48d53603449605c66?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Ryerson — Data & Business Intelligence Analyst
-            posted Aug 13, 2026 (date only)
-            Downers Grove, IL, United States
-            https://jobright.ai/jobs/info/6a7eaac8e51a1e18a240ebb6?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [   7h]  Chenega Corporation — Data Analyst
-            posted Aug 14, 2026, 12:01 AM EDT
-            Alexandria, VA
-            https://careers.chenega.com/jobs/41163?icims=1
-
- 67  [   7h]  Chenega Corporation — Data Analyst
-            posted Aug 14, 2026, 12:01 AM EDT
-            Alexandria, VA
-            https://careers.chenega.com/jobs/41371?icims=1
-
- 67  [today]  Enova International — Analytics Analyst - Fraud
-            posted Aug 13, 2026 (date only)
+ 67  [today]  Publicis Digital Experience — Data Analyst
+            posted Aug 14, 2026 (date only)
             Chicago, IL, United States
-            https://jobright.ai/jobs/info/6a6137d97196365a6f009849?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a7f8ce4e51a1e18a2413d21?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  iHeartMedia — Digital Data Analyst
-            posted Aug 13, 2026 (date only)
-            New York, NY (55th St), US
-            https://jobright.ai/jobs/info/6a0b739b963f7a67d95cfe20?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  WebMD — Data Analyst
+            posted Aug 14, 2026 (date only)
+            Newark, NJ, United States
+            https://jobright.ai/jobs/info/6a7f76c5ad9ff00c26bae5ae?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Medscape — Data Analyst
+            posted Aug 14, 2026 (date only)
+            Newark, NJ, United States
+            https://jobright.ai/jobs/info/6a7f3d93ad9ff00c26bad338?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Publicis Digital Experience — Data Analyst
+            posted Aug 14, 2026 (date only)
+            West Chicago, IL, United States
+            https://jobright.ai/jobs/info/6a7f322fb56bea5779c093c2?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Publicis Canada — Data Analyst
+            posted Aug 14, 2026 (date only)
+            West Chicago, IL, United States
+            https://jobright.ai/jobs/info/6a7f28a8b56bea5779c08f1e?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Publicis Groupe — Data Analyst
+            posted Aug 14, 2026 (date only)
+            West Chicago, IL, United States
+            https://jobright.ai/jobs/info/6a7f2899e51a1e18a2410954?utm_campaign=Data%20Analysis&utm_source=1103
