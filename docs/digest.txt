@@ -1,4 +1,24 @@
-Top 15 of 27 — last 24h — Aug 25, 6:57 AM EDT
+Top 15 of 38 — last 24h — Aug 25, 7:32 AM EDT
+
+ 72  [  15h]  Cloudflare — Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)
+            posted Aug 24, 2026, 4:06 PM EDT
+            Hybrid | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801
+
+ 72  [  15h]  Cloudflare — Distributed Systems Engineer - Data Platform - Logs and Audit Logs
+            posted Aug 24, 2026, 4:06 PM EDT
+            Hybrid | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/7462802?gh_jid=7462802
+
+ 72  [  15h]  Cloudflare — Distributed Systems Engineer - Data Platform - Analytics and Alerts
+            posted Aug 24, 2026, 4:06 PM EDT
+            Hybrid | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/7462803?gh_jid=7462803
+
+ 72  [  17h]  Verkada — Software Engineer - Data Platform
+            posted Aug 24, 2026, 2:08 PM EDT
+            San Mateo, CA United States
+            https://job-boards.greenhouse.io/verkada/jobs/4129304007
 
  70  [today]  Targeted Approach LLC — Data Analyst - Junior (Active Secret Clearance Required)
             posted Aug 24, 2026 (date only)
@@ -15,16 +35,6 @@ Top 15 of 27 — last 24h — Aug 25, 6:57 AM EDT
             Houston, TX, United States
             https://jobright.ai/jobs/info/6a8ca9861d96e6541c8c23b2?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Smartly Technologies — Junior Data Analyst
-            posted Aug 24, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a8beea34afae74a08351c3b?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Dinamic AS Group — Junior Data Analyst
-            posted Aug 24, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a8bfcbecde3717f9e9bb767?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  Try3Crew — Data Analyst
             posted Aug 25, 2026 (date only)
             United States
@@ -40,16 +50,6 @@ Top 15 of 27 — last 24h — Aug 25, 6:57 AM EDT
             United States
             https://jobright.ai/jobs/info/6a8d4cd725fc4e7ae3dbbaaa?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Constellis — Data Analyst
-            posted Aug 24, 2026 (date only)
-            Philadelphia, PA, United States
-            https://jobright.ai/jobs/info/6a509de4d5d2a327b664c16f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  [Cawley & Bergmann, LLC.](www.cawleyandbergmann.com) — Mid-Level Data Analyst
-            posted Aug 24, 2026 (date only)
-            Newark, NJ, United States
-            https://jobright.ai/jobs/info/6a8caac025fc4e7ae3db9bd1?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  North Carolina Department of Agriculture and Consumer Services — Departmental Analyst 9-12 (Data Reporting Analyst)
             posted Aug 24, 2026 (date only)
             Lansing, MI, United States
@@ -60,17 +60,17 @@ Top 15 of 27 — last 24h — Aug 25, 6:57 AM EDT
             Lakewood, CO, United States
             https://jobright.ai/jobs/info/6a8c173425fc4e7ae3db6db3?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [  10h]  Pryzm — Federal Data Analyst
+ 67  [today]  Constellis — Data Analyst
+            posted Aug 24, 2026 (date only)
+            Philadelphia, PA, United States
+            https://jobright.ai/jobs/info/6a509de4d5d2a327b664c16f?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  [Cawley & Bergmann, LLC.](www.cawleyandbergmann.com) — Mid-Level Data Analyst
+            posted Aug 24, 2026 (date only)
+            Newark, NJ, United States
+            https://jobright.ai/jobs/info/6a8caac025fc4e7ae3db9bd1?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [  11h]  Pryzm — Federal Data Analyst
             posted Aug 24, 2026, 8:04 PM EDT
             Boston, MA
             https://jobs.ashbyhq.com/pryzm/2c40f0bb-e559-49b3-9831-81d7484cc6dc/application?embed=true
-
- 66  [   7h]  Emory Healthcare — Associate AI Engineer
-            posted Aug 24, 2026, 11:07 PM EDT
-            Atlanta, GA
-            https://non-clinical-emory.icims.com/jobs/170743/job?hub=14&mobile=true&needsRedirect=false
-
- 66  [  10h]  ByteDance — Machine Learning Engineer Graduate - E-Commerce Risk Control - PhD
-            posted Aug 24, 2026, 8:29 PM EDT
-            San Jose, CA | H1B 1800
-            https://jobs.bytedance.com/en/position/7675473897004861749/detail
