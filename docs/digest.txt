@@ -1,76 +1,76 @@
-Top 15 of 50 — last 24h — Aug 26, 7:33 AM EDT
+Top 15 of 27 — last 24h — Aug 27, 4:37 PM EDT
 
- 78  [   6h]  Snowflake — Senior Data Engineer
-            posted Aug 26, 2026, 12:51 AM EDT
-            IN-Pune | H1B 219
-            https://jobs.ashbyhq.com/snowflake/b045d3f3-d718-480c-8c18-2b0ee91c84af
+ 72  [  19h]  True Anomaly — Data Engineer 1
+            posted Aug 26, 2026, 9:27 PM EDT
+            Long Beach, CA, Denver, CO
+            https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007
 
- 75  [  10h]  TikTok — Data Engineer Graduate - Data Platform E-commerce
-            posted Aug 25, 2026, 8:34 PM EDT
-            San Jose, CA | H1B 1800
-            https://lifeattiktok.com/search/7676253726624024837
+ 70  [today]  Legend Biotech — Associate CMC Process Data Analyst
+            posted Aug 27, 2026 (date only)
+            Raritan, NJ, United States
+            https://jobright.ai/jobs/info/6a904f007c32860d14cf8936?utm_campaign=Data%20Analysis&utm_source=1103
 
- 75  [  10h]  TikTok — Data Engineer Graduate - Data Platform Global Live
-            posted Aug 25, 2026, 8:34 PM EDT
-            San Jose, CA | H1B 1800
-            https://lifeattiktok.com/search/7678120538997098805
+ 70  [today]  DHL Supply Chain — Business Data Analyst II
+            posted Aug 26, 2026 (date only)
+            Wichita, KS, United States
+            https://jobright.ai/jobs/info/6a76286abb6ca93ae5611416?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  [  11h]  Cloudflare — Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)
-            posted Aug 25, 2026, 8:21 PM EDT
-            Hybrid | H1B 126
-            https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801
+ 70  [today]  The Henry M. Jackson Foundation for the Advancement of Military Medicine — Data Analyst I - PED
+            posted Aug 26, 2026 (date only)
+            Bethesda, MD, United States
+            https://jobright.ai/jobs/info/6a8f3eabd7c91d0cf446e4d2?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  [  11h]  Cloudflare — Distributed Systems Engineer - Data Platform - Logs and Audit Logs
-            posted Aug 25, 2026, 8:22 PM EDT
-            Hybrid | H1B 126
-            https://boards.greenhouse.io/cloudflare/jobs/7462802?gh_jid=7462802
+ 67  [today]  AAA-The Auto Club Group — Business Intelligence Support Analyst
+            posted Aug 27, 2026 (date only)
+            MI-Admin Office Building (AOB), United States of America
+            https://jobright.ai/jobs/info/6a593f1763a8f619507c12ad?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  [  11h]  Cloudflare — Distributed Systems Engineer - Data Platform - Analytics and Alerts
-            posted Aug 25, 2026, 8:20 PM EDT
-            Hybrid | H1B 126
-            https://boards.greenhouse.io/cloudflare/jobs/7462803?gh_jid=7462803
+ 67  [today]  Lockton — Pharmacy Data Analyst
+            posted Aug 27, 2026 (date only)
+            MN-Minneapolis
+            https://jobright.ai/jobs/info/6a73a0841ce9647cdbca9598?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  [  13h]  Elastic — Platform Engineer - Kubernetes
-            posted Aug 25, 2026, 5:42 PM EDT
-            United States | H1B 6
-            https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349
+ 67  [today]  Eviction Defense Collaborative, Inc. — Data Analyst
+            posted Aug 27, 2026 (date only)
+            San Francisco, CA, United States
+            https://jobright.ai/jobs/info/6a8fe3950bd89e205d24802a?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  2ndWave LLC — Data Analyst I
-            posted Aug 25, 2026 (date only)
-            Washington, DC, United States
-            https://jobright.ai/jobs/info/6a8dbf2725fc4e7ae3dbd68f?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Publicis Groupe — Data Analyst
+            posted Aug 26, 2026 (date only)
+            West Chicago, IL, United States
+            https://jobright.ai/jobs/info/6a7f2899e51a1e18a2410954?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Lansing Building Products — Junior Business Intelligence Analyst
-            posted Aug 25, 2026 (date only)
-            Richmond, VA, United States
-            https://jobright.ai/jobs/info/6a67c6da5d2a117fb9ced469?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  JBS USA — BUSINESS INTELLIGENCE ANALYST
+            posted Aug 26, 2026 (date only)
+            Greeley, CO, United States
+            https://jobright.ai/jobs/info/6a722a34e2b7476e7b2119f6?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Chenega Corporation — Junior Data Analyst
-            posted Aug 25, 2026 (date only)
-            Georgia, United States
-            https://jobright.ai/jobs/info/6a8df8e3581f2d7bfdfea3fa?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Manulife — Data & Reporting Analyst
+            posted Aug 26, 2026 (date only)
+            Boston, MA, United States
+            https://jobright.ai/jobs/info/6a906d6fa1988648667610f9?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Chenega MIOS SBU — Junior Data Analyst
-            posted Aug 25, 2026 (date only)
-            Georgia, United States
-            https://jobright.ai/jobs/info/6a8ded03a5639a481032889a?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  CFA Institute — Data Analyst
+            posted Aug 26, 2026 (date only)
+            Remote, VA, United States
+            https://jobright.ai/jobs/info/6a8f05bba10ee661e24d6096?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Chenega Professional Services Strategic Business Unit — Junior Data Analyst
-            posted Aug 25, 2026 (date only)
-            Georgia, United States
-            https://jobright.ai/jobs/info/6a8df88f581f2d7bfdfea3e7?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  DaVita Kidney Care — Analytics and Reporting Analyst (IKC)
+            posted Aug 26, 2026 (date only)
+            California, United States
+            https://jobright.ai/jobs/info/6a8ecfcbf841e649a718f37f?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Signal Travel & Tours, Inc. — Reporting Analyst
-            posted Aug 25, 2026 (date only)
-            Ohio, United States
-            https://jobright.ai/jobs/info/6a8e4c83e3efd719bf57cf90?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Signal Travel & Tours, Inc. — Data Analyst
-            posted Aug 25, 2026 (date only)
-            Atlanta, GA, United States
-            https://jobright.ai/jobs/info/6a8e3f51c137ff2317e68c3f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Signal Travel & Tours, Inc. — Reporting Analyst
-            posted Aug 25, 2026 (date only)
+ 67  [today]  Aflac — Data Analyst
+            posted Aug 26, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6a8e3d3eb93d14258ab45095?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a8ef64ea10ee661e24d5a33?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [  20h]  Jabil — Business Intelligence Analyst and Developer 1
+            posted Aug 26, 2026, 8:00 PM EDT
+            Tampa, FL, St. Petersburg, FL
+            https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Business-Intelligence-Analyst-and-Developer-I_J2462394
+
+ 66  [  20h]  TikTok — Machine Learning Engineer Graduate - E-Commerce Recommendation Video
+            posted Aug 26, 2026, 8:36 PM EDT
+            Seattle, WA | H1B 1800
+            https://lifeattiktok.com/search/7678145401619237173
