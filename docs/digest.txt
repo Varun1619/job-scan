@@ -1,4 +1,4 @@
-Top 15 of 33 — last 24h — Aug 28, 5:12 PM EDT
+Top 15 of 35 — last 24h — Aug 28, 5:20 PM EDT
 
  75  [  23h]  Hatch IT — Junior Data Engineer - DEA
             posted Aug 27, 2026, 6:06 PM EDT
@@ -20,15 +20,20 @@ Top 15 of 33 — last 24h — Aug 28, 5:12 PM EDT
             Laurel, MD
             https://careers.jhuapl.edu/jobs/59858?icims=1
 
+ 70  [today]  National Radio Astronomy Observatory — Scientific Data Analyst I or II
+            posted Aug 27, 2026 (date only)
+            Green Bank, WV, United States
+            https://jobright.ai/jobs/info/6a91a3cf8e59685453376af0?utm_campaign=Data%20Analysis&utm_source=1103
+
  70  [today]  Legend Biotech — Associate CMC Process Data Analyst
             posted Aug 27, 2026 (date only)
             Raritan, NJ, United States
             https://jobright.ai/jobs/info/6a904f007c32860d14cf8936?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  National Radio Astronomy Observatory — Scientific Data Analyst I or II
-            posted Aug 27, 2026 (date only)
-            Green Bank, WV, United States
-            https://jobright.ai/jobs/info/6a91a3cf8e59685453376af0?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Cognizant — Mapping Data Analyst
+            posted Aug 28, 2026 (date only)
+            Bothell, WA, United States
+            https://jobright.ai/jobs/info/6a91da258e596854533781b7?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Publicis Groupe — Data Analyst
             posted Aug 28, 2026 (date only)
@@ -40,20 +45,25 @@ Top 15 of 33 — last 24h — Aug 28, 5:12 PM EDT
             Maple Grove, MN, United States
             https://jobright.ai/jobs/info/6a46f32d8204a812e98caa15?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Cognizant — Mapping Data Analyst
-            posted Aug 28, 2026 (date only)
-            Bothell, WA, United States
-            https://jobright.ai/jobs/info/6a91da258e596854533781b7?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  AAA-The Auto Club Group — Business Intelligence Support Analyst
             posted Aug 27, 2026 (date only)
             MI-Admin Office Building (AOB), United States of America
             https://jobright.ai/jobs/info/6a593f1763a8f619507c12ad?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [today]  Compassionate Home Caregivers — BI Analyst, Data & Analytics
+            posted Aug 27, 2026 (date only)
+            Melville, NY, United States
+            https://jobright.ai/jobs/info/6a919a9ea27a2d3c98488d1f?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  Stanford University — Research Data Analyst (12-Month Fixed-Term)
             posted Aug 27, 2026 (date only)
             Stanford, CA, United States
             https://jobright.ai/jobs/info/6a6920cab22f1b56a602ae49?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Performance Team — Data Analyst - Hopedale, MA
+            posted Aug 27, 2026 (date only)
+            Hopedale, MA, United States
+            https://jobright.ai/jobs/info/6a90b13bd96ad228f1262c1e?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Lockton — Pharmacy Data Analyst
             posted Aug 27, 2026 (date only)
@@ -64,13 +74,3 @@ Top 15 of 33 — last 24h — Aug 28, 5:12 PM EDT
             posted Aug 27, 2026 (date only)
             San Francisco, CA, United States
             https://jobright.ai/jobs/info/6a8fe3950bd89e205d24802a?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Compassionate Home Caregivers — BI Analyst, Data & Analytics
-            posted Aug 27, 2026 (date only)
-            Melville, NY, United States
-            https://jobright.ai/jobs/info/6a919a9ea27a2d3c98488d1f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Performance Team — Data Analyst - Hopedale, MA
-            posted Aug 27, 2026 (date only)
-            Hopedale, MA, United States
-            https://jobright.ai/jobs/info/6a90b13bd96ad228f1262c1e?utm_campaign=Data%20Analysis&utm_source=1103
