@@ -1,74 +1,59 @@
-Top 15 of 18 — last 24h — Aug 29, 11:08 AM EDT
+Top 12 of 12 — last 24h — Aug 30, 10:54 AM EDT
 
- 75  [  16h]  Solace Health — Associate Data Engineer - College Grad
-            posted Aug 28, 2026, 6:45 PM EDT
-            Redwood City, CA
-            https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba/application?embed=true
-
- 72  [today]  Together AI — GTM Data Analytics Engineer
-            posted Aug 28, 2026 (date only)
-            San Francisco, CA, United States
-            https://jobright.ai/jobs/info/6a922b7d9864261ccd2a0676?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  U.S. Department of Transportation — RESEARCH DATA ANALYST II
-            posted Aug 28, 2026 (date only)
-            San Diego, CA, United States
-            https://jobright.ai/jobs/info/6a91d2988e59685453377f84?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Blu Omega — Junior Data Analyst
-            posted Aug 28, 2026 (date only)
-            Ashburn, VA, United States
-            https://jobright.ai/jobs/info/6a91b1cac12c90443efc76b4?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  U.S. Department of Transportation — RESEARCH DATA ANALYST II
-            posted Aug 28, 2026 (date only)
-            Sacramento, CA, United States
-            https://jobright.ai/jobs/info/6a924c43a27a2d3c9848b971?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [  16h]  Solace Health — Associate Data Analyst
-            posted Aug 28, 2026, 6:45 PM EDT
-            Redwood City, CA
-            https://jobs.ashbyhq.com/solace/9256b9e8-36cd-45de-bae9-caa846f50934/application?embed=true
-
- 70  [  18h]  Johns Hopkins Applied Physics Laboratory — Modeler and Data Analyst New Grad
-            posted Aug 28, 2026, 4:47 PM EDT
-            Laurel, MD
-            https://careers.jhuapl.edu/jobs/59858?icims=1
+ 67  [today]  Encompass Supply Chain Solutions — Web Analytics Analyst
+            posted Aug 29, 2026 (date only)
+            Lawrenceville, GA, United States
+            https://jobright.ai/jobs/info/6a5ba4ac63a8f619507cba62?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Performance Team — Data Analyst - Hopedale, MA
             posted Aug 29, 2026 (date only)
             Hopedale, MA, United States
             https://jobright.ai/jobs/info/6a90b13bd96ad228f1262c1e?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Cognizant — Mapping Data Analyst
-            posted Aug 28, 2026 (date only)
-            Bothell, WA, United States
-            https://jobright.ai/jobs/info/6a91da258e596854533781b7?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  GigFinder.ai — Data Analyst (Remote, US, 31999)
+            posted Aug 29, 2026 (date only)
+            Indiana, United States
+            https://jobright.ai/jobs/info/6a93bedb8e5968545337c25b?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Publicis Groupe — Data Analyst
-            posted Aug 28, 2026 (date only)
-            West Chicago, IL, United States
-            https://jobright.ai/jobs/info/6a7f2899e51a1e18a2410954?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [  16h]  Koch Industries — Business Data Analyst
+            posted Aug 29, 2026, 6:26 PM EDT
+            Wichita, KS, Tulsa, OK
+            https://koch.avature.net/en_US/careers/JobDetail/193502
 
- 67  [today]  Pace® Analytical Services — Chromatography Data Analyst
-            posted Aug 28, 2026 (date only)
-            Maple Grove, MN, United States
-            https://jobright.ai/jobs/info/6a46f32d8204a812e98caa15?utm_campaign=Data%20Analysis&utm_source=1103
+ 63  [today]  Esri — Data Scientist I
+            posted Aug 29, 2026 (date only)
+            St. Louis, MO, United States
+            https://jobright.ai/jobs/info/6a3c3518882f121f56a33ce8?utm_campaign=Data%20Analysis&utm_source=1103
 
- 66  [  14h]  TikTok — Machine Learning Engineer Graduate - E-Commerce Knowledge Graph
-            posted Aug 28, 2026, 8:31 PM EDT
-            San Jose, CA | H1B 1800
-            https://lifeattiktok.com/search/7679156878833682693
+ 59  [today]  MANTECH — Data Scientist
+            posted Aug 30, 2026 (date only)
+            Ashburn, VA, United States
+            https://jobright.ai/jobs/info/6a69134ab22f1b56a602a918?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [today]  Amplify — Associate Data Scientist
-            posted Aug 28, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a58f9ad4da96a42cfd8e4d7?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [today]  Figma — Data Scientist, Core Data - PhD (2026)
+            posted Aug 30, 2026 (date only)
+            San Francisco, CA, United States
+            https://jobright.ai/jobs/info/6a5208ec8ef95364ead8c8a2?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [  16h]  Solace Health — Associate Data Scientist
-            posted Aug 28, 2026, 6:45 PM EDT
-            Redwood City, CA
-            https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443/application?embed=true
+ 59  [today]  Booz Allen Hamilton — Data Scientist
+            posted Aug 29, 2026 (date only)
+            Washington, DC, United States
+            https://jobright.ai/jobs/info/6a8dc5d8d34f700f87fd5d4b?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  Procter & Gamble — Data Scientist
+            posted Aug 29, 2026 (date only)
+            Cincinnati, OH, United States
+            https://jobright.ai/jobs/info/6a90b5ffd96ad228f1262d77?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  FanDuel — Data Scientist, Experimentation
+            posted Aug 29, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6a3d8b8d122f340d29cf12c6?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  Military Spouse Jobs — Data Scientist (TS/SCI w/ poly) - Chantilly, VA
+            posted Aug 29, 2026 (date only)
+            Chantilly, VA, United States
+            https://jobright.ai/jobs/info/6a930f5a9864261ccd2a21a2?utm_campaign=Data%20Analysis&utm_source=1103
 
  59  [today]  Booz Allen Hamilton — Data Scientist
             posted Aug 29, 2026 (date only)
