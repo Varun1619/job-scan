@@ -1,4 +1,4 @@
-Top 12 of 12 — last 24h — Aug 31, 1:40 PM EDT
+Top 15 of 21 — last 24h — Aug 31, 1:57 PM EDT
 
  70  [today]  WebFX — Jr. Business Data Analyst
             posted Aug 31, 2026 (date only)
@@ -10,6 +10,11 @@ Top 12 of 12 — last 24h — Aug 31, 1:40 PM EDT
             Dallas, TX, United States
             https://jobright.ai/jobs/info/6a7f4daaad9ff00c26bad70a?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [today]  Avalore.ai — Data Analyst
+            posted Aug 31, 2026 (date only)
+            Arlington, VA, United States
+            https://jobright.ai/jobs/info/6a958de8f28891320e85c5d3?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  Stanford University — Research Data Analyst (12-Month Fixed-Term)
             posted Aug 31, 2026 (date only)
             Stanford, CA, United States
@@ -20,20 +25,15 @@ Top 12 of 12 — last 24h — Aug 31, 1:40 PM EDT
             United States
             https://jobright.ai/jobs/info/6a9594e1f28891320e85c91f?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Avalore.ai — Data Analyst
-            posted Aug 31, 2026 (date only)
+ 67  [today]  Avalore.ai — Business Intelligence Analyst
+            posted Aug 30, 2026 (date only)
             Arlington, VA, United States
-            https://jobright.ai/jobs/info/6a958de8f28891320e85c5d3?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a95968b9fcec5442372dd3d?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Tactile Medical — Data Analyst
             posted Aug 30, 2026 (date only)
             New Brighton, MN, United States
             https://jobright.ai/jobs/info/6a5a60f4c8e3a473cb8ab71c?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Avalore.ai — Business Intelligence Analyst
-            posted Aug 30, 2026 (date only)
-            Arlington, VA, United States
-            https://jobright.ai/jobs/info/6a95968b9fcec5442372dd3d?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [  17h]  Mass General Brigham — Research Data Analyst
             posted Aug 30, 2026, 8:00 PM EDT
@@ -45,6 +45,26 @@ Top 12 of 12 — last 24h — Aug 31, 1:40 PM EDT
             Pleasanton, CA
             https://roche.wd3.myworkdayjobs.com/roche-ext/job/Pleasanton/Rotational-Program---Finance-Insights---Data-Analyst_202608-120691
 
+ 62  [   2h]  Databricks — AI Engineer — GTM Analytics
+            posted Aug 31, 2026, 11:47 AM EDT
+            United States | H1B 385
+            https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002
+
+ 62  [   5h]  GitLab — AI Engineer
+            posted Aug 31, 2026, 8:28 AM EDT
+            Remote, Bangalore
+            https://job-boards.greenhouse.io/gitlab/jobs/8556658002
+
+ 61  [   5h]  GitLab — Senior People Analytics Analyst
+            posted Aug 31, 2026, 8:28 AM EDT
+            Remote, United States
+            https://job-boards.greenhouse.io/gitlab/jobs/8617615002
+
+ 61  [   5h]  GitLab — Senior Revenue Analytics Analyst
+            posted Aug 31, 2026, 8:28 AM EDT
+            Remote, Canada; Remote, US
+            https://job-boards.greenhouse.io/gitlab/jobs/8616308002
+
  59  [today]  Avalore.ai — Data Scientist
             posted Aug 31, 2026 (date only)
             Arlington, VA, United States
@@ -54,8 +74,3 @@ Top 12 of 12 — last 24h — Aug 31, 1:40 PM EDT
             posted Aug 30, 2026 (date only)
             Ashburn, VA, United States
             https://jobright.ai/jobs/info/6a69134ab22f1b56a602a918?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  Figma — Data Scientist, Core Data - PhD (2026)
-            posted Aug 30, 2026 (date only)
-            San Francisco, CA, United States
-            https://jobright.ai/jobs/info/6a5208ec8ef95364ead8c8a2?utm_campaign=Data%20Analysis&utm_source=1103
