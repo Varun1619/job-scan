@@ -1,6 +1,6 @@
-Top 15 of 32 — last 24h — Sep 1, 11:00 AM EDT
+Top 15 of 40 — last 24h — Sep 1, 11:26 AM EDT
 
- 75  [  19h]  CapTech Consulting — Data Engineering Associate Consultant - Multiple Teams
+ 75  [  20h]  CapTech Consulting — Data Engineering Associate Consultant - Multiple Teams
             posted Aug 31, 2026, 3:02 PM EDT
             Philadelphia, PA, Richmond, VA, Charlotte, NC, Reston, VA, Columbus, OH, Denver, CO, Atlanta, GA
             https://jobs.smartrecruiters.com/CapTechConsulting/744000146448860
@@ -25,52 +25,52 @@ Top 15 of 32 — last 24h — Sep 1, 11:00 AM EDT
             Boston, MA, United States
             https://jobright.ai/jobs/info/6a967abb26613756de6d847c?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  WebFX — Jr. Business Data Analyst
-            posted Aug 31, 2026 (date only)
-            Harrisburg, PA
-            https://jobright.ai/jobs/info/68974d2373b3a600fe8967eb?utm_campaign=Data%20Analysis&utm_source=1103
-
  70  [today]  Booz Allen Hamilton — Data Analyst, Junior
             posted Aug 31, 2026 (date only)
             Washington, DC, United States
             https://jobright.ai/jobs/info/6a95dec4c8763a3a87ffcaff?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  WebFX — Jr. Business Data Analyst
+            posted Aug 31, 2026 (date only)
+            Harrisburg, PA
+            https://jobright.ai/jobs/info/68974d2373b3a600fe8967eb?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  CNH — Purchasing Data Analyst
             posted Sep 1, 2026 (date only)
             Oak Brook, IL, United States
             https://jobright.ai/jobs/info/6a967852455eaf6a08c179ab?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [   9h]  Avalore — Data Analyst
+ 67  [  10h]  Avalore — Data Analyst
             posted Sep 1, 2026, 1:01 AM EDT
             Arlington County, Arlington, VA
             https://apply.workable.com/avalore/j/EDADB6562A/apply
-
- 67  [today]  Stanford University — Research Data Analyst (12-Month Fixed-Term)
-            posted Aug 31, 2026 (date only)
-            Stanford, CA, United States
-            https://jobright.ai/jobs/info/6a6920cab22f1b56a602ae49?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Amivero — Data Analyst
-            posted Aug 31, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a9594e1f28891320e85c91f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  iHeartMedia — Digital Data Analyst
-            posted Aug 31, 2026 (date only)
-            New York, NY (55th St), US
-            https://jobright.ai/jobs/info/6a0b739b963f7a67d95cfe20?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Indiana University Bloomington — Data Analyst, Office of Admissions Operations
-            posted Aug 31, 2026 (date only)
-            Bloomington, IN, United States
-            https://jobright.ai/jobs/info/6a964c079fcec54423732246?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Mass General Brigham — Research Data Analyst
             posted Aug 31, 2026 (date only)
             Belmont, MA, United States
             https://jobright.ai/jobs/info/6a95b4b84c22023a0793546d?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [today]  Stanford University — Research Data Analyst (12-Month Fixed-Term)
+            posted Aug 31, 2026 (date only)
+            Stanford, CA, United States
+            https://jobright.ai/jobs/info/6a6920cab22f1b56a602ae49?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  Verdantas — Data Analyst
             posted Aug 31, 2026 (date only)
             Yarmouth, ME, United States
             https://jobright.ai/jobs/info/6a95d8c79fcec5442372f90b?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Amivero — Data Analyst
+            posted Aug 31, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6a9594e1f28891320e85c91f?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Indiana University Bloomington — Data Analyst, Office of Admissions Operations
+            posted Aug 31, 2026 (date only)
+            Bloomington, IN, United States
+            https://jobright.ai/jobs/info/6a964c079fcec54423732246?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  iHeartMedia — Digital Data Analyst
+            posted Aug 31, 2026 (date only)
+            New York, NY (55th St), US
+            https://jobright.ai/jobs/info/6a0b739b963f7a67d95cfe20?utm_campaign=Data%20Analysis&utm_source=1103
