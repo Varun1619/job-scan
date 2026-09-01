@@ -1,19 +1,49 @@
-Top 15 of 21 — last 24h — Aug 31, 1:57 PM EDT
+Top 15 of 32 — last 24h — Sep 1, 11:00 AM EDT
+
+ 75  [  19h]  CapTech Consulting — Data Engineering Associate Consultant - Multiple Teams
+            posted Aug 31, 2026, 3:02 PM EDT
+            Philadelphia, PA, Richmond, VA, Charlotte, NC, Reston, VA, Columbus, OH, Denver, CO, Atlanta, GA
+            https://jobs.smartrecruiters.com/CapTechConsulting/744000146448860
+
+ 72  [  15h]  Travelers — Engineering Development Program - Data Engineering
+            posted Aug 31, 2026, 8:00 PM EDT
+            Hunt Valley, Cockeysville, MD, Hartford, CT, Atlanta, GA, St Paul, MN
+            https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-52272
+
+ 70  [today]  National Radio Astronomy Observatory — Scientific Data Analyst I or II
+            posted Sep 1, 2026 (date only)
+            Green Bank, WV, United States
+            https://jobright.ai/jobs/info/6a96878e69b865490a6327f2?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Commonwealth of Massachusetts — IT Data Analyst I
+            posted Sep 1, 2026 (date only)
+            Boston, MA, United States
+            https://jobright.ai/jobs/info/6a967cd5e4e60e4b8da591ed?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  The Massachusetts Executive Office of Labor and Workforce Development (EOLWD) — IT Data Analyst I
+            posted Sep 1, 2026 (date only)
+            Boston, MA, United States
+            https://jobright.ai/jobs/info/6a967abb26613756de6d847c?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  WebFX — Jr. Business Data Analyst
             posted Aug 31, 2026 (date only)
             Harrisburg, PA
             https://jobright.ai/jobs/info/68974d2373b3a600fe8967eb?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Morgan Stanley — Junior Data Analyst
-            posted Aug 30, 2026 (date only)
-            Dallas, TX, United States
-            https://jobright.ai/jobs/info/6a7f4daaad9ff00c26bad70a?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Avalore.ai — Data Analyst
+ 70  [today]  Booz Allen Hamilton — Data Analyst, Junior
             posted Aug 31, 2026 (date only)
-            Arlington, VA, United States
-            https://jobright.ai/jobs/info/6a958de8f28891320e85c5d3?utm_campaign=Data%20Analysis&utm_source=1103
+            Washington, DC, United States
+            https://jobright.ai/jobs/info/6a95dec4c8763a3a87ffcaff?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  CNH — Purchasing Data Analyst
+            posted Sep 1, 2026 (date only)
+            Oak Brook, IL, United States
+            https://jobright.ai/jobs/info/6a967852455eaf6a08c179ab?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [   9h]  Avalore — Data Analyst
+            posted Sep 1, 2026, 1:01 AM EDT
+            Arlington County, Arlington, VA
+            https://apply.workable.com/avalore/j/EDADB6562A/apply
 
  67  [today]  Stanford University — Research Data Analyst (12-Month Fixed-Term)
             posted Aug 31, 2026 (date only)
@@ -25,52 +55,22 @@ Top 15 of 21 — last 24h — Aug 31, 1:57 PM EDT
             United States
             https://jobright.ai/jobs/info/6a9594e1f28891320e85c91f?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Avalore.ai — Business Intelligence Analyst
-            posted Aug 30, 2026 (date only)
-            Arlington, VA, United States
-            https://jobright.ai/jobs/info/6a95968b9fcec5442372dd3d?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Tactile Medical — Data Analyst
-            posted Aug 30, 2026 (date only)
-            New Brighton, MN, United States
-            https://jobright.ai/jobs/info/6a5a60f4c8e3a473cb8ab71c?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [  17h]  Mass General Brigham — Research Data Analyst
-            posted Aug 30, 2026, 8:00 PM EDT
-            Belmont, MA
-            https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Belmont-MA/Research-Data-Analyst_RQ4077629
-
- 67  [  17h]  Roche — Finance Insights & Data Analyst Rotational Program
-            posted Aug 30, 2026, 8:00 PM EDT
-            Pleasanton, CA
-            https://roche.wd3.myworkdayjobs.com/roche-ext/job/Pleasanton/Rotational-Program---Finance-Insights---Data-Analyst_202608-120691
-
- 62  [   2h]  Databricks — AI Engineer — GTM Analytics
-            posted Aug 31, 2026, 11:47 AM EDT
-            United States | H1B 385
-            https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002
-
- 62  [   5h]  GitLab — AI Engineer
-            posted Aug 31, 2026, 8:28 AM EDT
-            Remote, Bangalore
-            https://job-boards.greenhouse.io/gitlab/jobs/8556658002
-
- 61  [   5h]  GitLab — Senior People Analytics Analyst
-            posted Aug 31, 2026, 8:28 AM EDT
-            Remote, United States
-            https://job-boards.greenhouse.io/gitlab/jobs/8617615002
-
- 61  [   5h]  GitLab — Senior Revenue Analytics Analyst
-            posted Aug 31, 2026, 8:28 AM EDT
-            Remote, Canada; Remote, US
-            https://job-boards.greenhouse.io/gitlab/jobs/8616308002
-
- 59  [today]  Avalore.ai — Data Scientist
+ 67  [today]  iHeartMedia — Digital Data Analyst
             posted Aug 31, 2026 (date only)
-            Arlington, VA, United States
-            https://jobright.ai/jobs/info/6a959683cabc9f6703e189c7?utm_campaign=Data%20Analysis&utm_source=1103
+            New York, NY (55th St), US
+            https://jobright.ai/jobs/info/6a0b739b963f7a67d95cfe20?utm_campaign=Data%20Analysis&utm_source=1103
 
- 59  [today]  MANTECH — Data Scientist
-            posted Aug 30, 2026 (date only)
-            Ashburn, VA, United States
-            https://jobright.ai/jobs/info/6a69134ab22f1b56a602a918?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Indiana University Bloomington — Data Analyst, Office of Admissions Operations
+            posted Aug 31, 2026 (date only)
+            Bloomington, IN, United States
+            https://jobright.ai/jobs/info/6a964c079fcec54423732246?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Mass General Brigham — Research Data Analyst
+            posted Aug 31, 2026 (date only)
+            Belmont, MA, United States
+            https://jobright.ai/jobs/info/6a95b4b84c22023a0793546d?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Verdantas — Data Analyst
+            posted Aug 31, 2026 (date only)
+            Yarmouth, ME, United States
+            https://jobright.ai/jobs/info/6a95d8c79fcec5442372f90b?utm_campaign=Data%20Analysis&utm_source=1103
