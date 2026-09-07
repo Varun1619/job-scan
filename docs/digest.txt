@@ -1,9 +1,14 @@
-Top 14 of 14 — last 24h — Sep 7, 11:57 AM EDT
+Top 15 of 15 — last 24h — Sep 7, 12:20 PM EDT
 
  75  [   7h]  TikTok — Data Engineer Graduate
             posted Sep 7, 2026, 4:28 AM EDT
             San Jose, CA | H1B 1800
             https://lifeattiktok.com/search/7681779180341709109
+
+ 72  [  <1h]  Cloudflare — Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)
+            posted Sep 7, 2026, 11:20 AM EDT
+            Hybrid | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801
 
  67  [today]  Constellis — Data Analyst
             posted Sep 7, 2026 (date only)
@@ -15,6 +20,11 @@ Top 14 of 14 — last 24h — Sep 7, 11:57 AM EDT
             Philadelphia, PA, United States
             https://jobright.ai/jobs/info/6a9ea44df6ea002358296259?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [today]  A Full Renovation LLC — Data Analyst
+            posted Sep 6, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6a9e1b7475edfa11b47105b0?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  Gotion Inc. — Data Analyst
             posted Sep 6, 2026 (date only)
             Manteno, IL, United States
@@ -25,10 +35,10 @@ Top 14 of 14 — last 24h — Sep 7, 11:57 AM EDT
             United States
             https://jobright.ai/jobs/info/6a9e492968f82b40367398cb?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  A Full Renovation LLC — Data Analyst
+ 63  [today]  IBM — Federal Associate Data Scientist 2027
             posted Sep 6, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a9e1b7475edfa11b47105b0?utm_campaign=Data%20Analysis&utm_source=1103
+            Herndon, VA, United States | H1B 1000
+            https://jobright.ai/jobs/info/6a9e2ad668f82b4036738c6c?utm_campaign=Data%20Analysis&utm_source=1103
 
  63  [today]  TikTok — Data Scientist Graduate (Multimedia) - 2027 Start
             posted Sep 6, 2026 (date only)
@@ -39,11 +49,6 @@ Top 14 of 14 — last 24h — Sep 7, 11:57 AM EDT
             posted Sep 6, 2026 (date only)
             Hamilton Township, NJ, United States
             https://jobright.ai/jobs/info/6a4422ccef17a815538a3064?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  IBM — Federal Associate Data Scientist 2027
-            posted Sep 6, 2026 (date only)
-            Herndon, VA, United States | H1B 1000
-            https://jobright.ai/jobs/info/6a9e2ad668f82b4036738c6c?utm_campaign=Data%20Analysis&utm_source=1103
 
  59  [today]  Kearney — Kearney Activate - Data Scientist
             posted Sep 7, 2026 (date only)
