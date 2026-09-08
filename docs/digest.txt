@@ -1,14 +1,19 @@
-Top 15 of 15 — last 24h — Sep 7, 12:20 PM EDT
+Top 15 of 19 — last 24h — Sep 8, 10:39 AM EDT
 
- 75  [   7h]  TikTok — Data Engineer Graduate
-            posted Sep 7, 2026, 4:28 AM EDT
-            San Jose, CA | H1B 1800
-            https://lifeattiktok.com/search/7681779180341709109
-
- 72  [  <1h]  Cloudflare — Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)
+ 72  [  23h]  Cloudflare — Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)
             posted Sep 7, 2026, 11:20 AM EDT
             Hybrid | H1B 126
             https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801
+
+ 70  [today]  Barclays — 2027 Quantitative Analytics Analyst Graduate Program New York
+            posted Sep 7, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6a9c363ea7ba386c5d66e15f?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [  <1h]  Accenture — AI & Data Analyst
+            posted Sep 8, 2026, 10:25 AM EDT
+            Washington, DC | H1B 2000
+            https://boards.greenhouse.io/accenturefederalservices/jobs/4711195006
 
  67  [today]  Constellis — Data Analyst
             posted Sep 7, 2026 (date only)
@@ -20,57 +25,52 @@ Top 15 of 15 — last 24h — Sep 7, 12:20 PM EDT
             Philadelphia, PA, United States
             https://jobright.ai/jobs/info/6a9ea44df6ea002358296259?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  A Full Renovation LLC — Data Analyst
-            posted Sep 6, 2026 (date only)
+ 67  [today]  A Helping Hand Renovation LLC — Data Analyst
+            posted Sep 7, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6a9e1b7475edfa11b47105b0?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Gotion Inc. — Data Analyst
-            posted Sep 6, 2026 (date only)
-            Manteno, IL, United States
-            https://jobright.ai/jobs/info/6a51b48357513b72e0c664ca?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a9fafd0f6ea002358298c36?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  A Helping Hand Renovation LLC — Data Analyst
-            posted Sep 6, 2026 (date only)
+            posted Sep 7, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6a9e492968f82b40367398cb?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a9faa21a7ba386c5d6759f8?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [today]  IBM — Federal Associate Data Scientist 2027
-            posted Sep 6, 2026 (date only)
-            Herndon, VA, United States | H1B 1000
-            https://jobright.ai/jobs/info/6a9e2ad668f82b4036738c6c?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  A Helping Hand Renovation LLC — Data Analyst
+            posted Sep 7, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6a9fa241f6ea002358298a7c?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  A Helping Hand Renovation LLC — Data Analyst
+            posted Sep 7, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6a9f98daa7ba386c5d67579b?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  A Full Renovation LLC — Data Analyst
+            posted Sep 7, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6a9f7135a7ba386c5d6751ff?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  A Full Renovation LLC — Data Analyst
+            posted Sep 7, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6a9f8f96352f093fc756e9e4?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  A Full Renovation LLC — Data Analyst
+            posted Sep 7, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6a9f87e468f82b403673d424?utm_campaign=Data%20Analysis&utm_source=1103
 
  63  [today]  TikTok — Data Scientist Graduate (Multimedia) - 2027 Start
-            posted Sep 6, 2026 (date only)
+            posted Sep 8, 2026 (date only)
             San Jose, CA, United States | H1B 1800
             https://jobright.ai/jobs/info/6a7fcfcfb56bea5779c0f6d7?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [today]  Billtrust — Associate Data Scientist
-            posted Sep 6, 2026 (date only)
-            Hamilton Township, NJ, United States
-            https://jobright.ai/jobs/info/6a4422ccef17a815538a3064?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  Kearney — Kearney Activate - Data Scientist
-            posted Sep 7, 2026 (date only)
-            Washington, DC, United States
-            https://jobright.ai/jobs/info/6a6d9cf757120971bf3b0a27?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  The Voleon Group — Data Scientist
-            posted Sep 7, 2026 (date only)
-            Berkeley, CA, United States
-            https://jobright.ai/jobs/info/6a2703fa7d827633afff8006?utm_campaign=Data%20Analysis&utm_source=1103
+ 63  [  <1h]  ID.me — Data Scientist New Grad
+            posted Sep 8, 2026, 10:19 AM EDT
+            Mountain View, CA
+            https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003
 
  59  [today]  Booz Allen Hamilton — Data Scientist
-            posted Sep 6, 2026 (date only)
+            posted Sep 8, 2026 (date only)
             Fort Meade, MD, United States
             https://jobright.ai/jobs/info/6a9b4e36d5ff1f3f1c39ec0a?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  Akina, Inc — Data Scientist 1 - (R, Python, Statistics)
-            posted Sep 6, 2026 (date only)
-            Annapolis Junction, MD, United States
-            https://jobright.ai/jobs/info/6a9de53dc1d6f91bc3886513?utm_campaign=Data%20Analysis&utm_source=1103
-
- 53  [today]  Nasdaq — Senior Data Scientist
-            posted Sep 6, 2026 (date only)
-            USA - Boston - Massachusetts, United States of America
-            https://jobright.ai/jobs/info/6a546954d007ee02d95feaf3?utm_campaign=Data%20Analysis&utm_source=1103
