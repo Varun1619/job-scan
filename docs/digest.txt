@@ -1,69 +1,54 @@
-Top 15 of 31 — last 24h — Sep 9, 10:42 AM EDT
+Top 15 of 36 — last 24h — Sep 9, 11:03 AM EDT
 
  72  [today]  PepsiCo — Analytics Platform Engineer
             posted Sep 8, 2026 (date only)
             New York, NY, United States
             https://jobright.ai/jobs/info/6aa0083d500b01124c77670c?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Goldbelt Professional Services — Data Analyst I (SB)
-            posted Sep 8, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa0443a5b2d5633ef3bd8c5?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Goldbelt Tram — Data Analyst I (ERIB Communications)
-            posted Sep 8, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa04bb2500b01124c778194?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Goldbelt, Incorporated — Data Analyst I (ERIB Communications)
-            posted Sep 8, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa047d03b5aa83237b08212?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Goldbelt Tram — Data Analyst I (SB)
-            posted Sep 8, 2026 (date only)
-            Remote, United States
-            https://jobright.ai/jobs/info/6aa038c7500b01124c7776ce?utm_campaign=Data%20Analysis&utm_source=1103
+ 72  [  21h]  Verkada — Software Engineer - Data Platform
+            posted Sep 8, 2026, 1:44 PM EDT
+            San Mateo, CA United States
+            https://job-boards.greenhouse.io/verkada/jobs/4129304007
 
  70  [today]  Goldbelt, Incorporated — Data Analyst I (MPSB)
             posted Sep 8, 2026 (date only)
             United States
             https://jobright.ai/jobs/info/6aa033a6ea127c3794695703?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Goldbelt Tram — Data Analyst I (MPSB)
+ 70  [today]  Goldbelt Tram — Data Analyst I (ERIB Communications)
             posted Sep 8, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6aa02fcd5b2d5633ef3bccfa?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6aa04bb2500b01124c778194?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Wize Solutions — Associate Data Analyst
             posted Sep 8, 2026 (date only)
             Sandy, UT, United States
             https://jobright.ai/jobs/info/6aa069cc3b5aa83237b08ea3?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Gotion Inc. — Data Analyst
-            posted Sep 8, 2026 (date only)
-            Manteno, IL, United States
-            https://jobright.ai/jobs/info/6a51b48357513b72e0c664ca?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  A Full Renovation LLC — Data Analyst
+ 70  [today]  Goldbelt, Incorporated — Data Analyst I (ERIB Communications)
             posted Sep 8, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6aa0c3b83b5aa83237b0af6f?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6aa047d03b5aa83237b08212?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  A Full Renovation LLC — Data Analyst
+ 70  [today]  Goldbelt Tram — Data Analyst I (MPSB)
             posted Sep 8, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6aa0bd28a2266b538d23213d?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6aa02fcd5b2d5633ef3bccfa?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Goldbelt Tram — Data Analyst I (SB)
+            posted Sep 8, 2026 (date only)
+            Remote, United States
+            https://jobright.ai/jobs/info/6aa038c7500b01124c7776ce?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Goldbelt Professional Services — Data Analyst I (SB)
+            posted Sep 8, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6aa0443a5b2d5633ef3bd8c5?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  A Full Renovation LLC — Data Analyst
             posted Sep 8, 2026 (date only)
             United States
             https://jobright.ai/jobs/info/6aa0b13b500b01124c77a9f9?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  A Full Renovation LLC — Data Analyst
-            posted Sep 8, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa0af075b2d5633ef3c01e9?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  AEG — Data Analyst
             posted Sep 8, 2026 (date only)
@@ -74,3 +59,18 @@ Top 15 of 31 — last 24h — Sep 9, 10:42 AM EDT
             posted Sep 8, 2026 (date only)
             Los Angeles, CA, United States
             https://jobright.ai/jobs/info/6aa043b1a2266b538d22f4a0?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  A Full Renovation LLC — Data Analyst
+            posted Sep 8, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6aa0af075b2d5633ef3c01e9?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  A Full Renovation LLC — Data Analyst
+            posted Sep 8, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6aa0c3b83b5aa83237b0af6f?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Gotion Inc. — Data Analyst
+            posted Sep 8, 2026 (date only)
+            Manteno, IL, United States
+            https://jobright.ai/jobs/info/6a51b48357513b72e0c664ca?utm_campaign=Data%20Analysis&utm_source=1103
