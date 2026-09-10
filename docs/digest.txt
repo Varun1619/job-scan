@@ -1,4 +1,19 @@
-Top 15 of 28 — last 24h — Sep 10, 10:32 AM EDT
+Top 15 of 45 — last 24h — Sep 10, 10:55 AM EDT
+
+ 81  [   4h]  Snowflake — Analytics Engineer - Finance
+            posted Sep 10, 2026, 6:11 AM EDT
+            IN-Pune | H1B 219
+            https://jobs.ashbyhq.com/snowflake/6ced2190-98f0-4ca0-b128-ef655e38d0be
+
+ 75  [   2h]  Axon — Senior Data Engineer II (Hybrid)
+            posted Sep 10, 2026, 8:10 AM EDT
+            Scottsdale, Arizona, United States
+            https://job-boards.greenhouse.io/axon/jobs/7516357003
+
+ 70  [today]  Brewster Ambulance Service — Junior Business Intelligence Analyst
+            posted Sep 9, 2026 (date only)
+            Weymouth, MA, United States
+            https://jobright.ai/jobs/info/6aa1b42def23570cae245b58?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Goldbelt Tram — Data Analyst II (MPSB)
             posted Sep 9, 2026 (date only)
@@ -15,11 +30,6 @@ Top 15 of 28 — last 24h — Sep 10, 10:32 AM EDT
             Pensacola, FL, United States
             https://jobright.ai/jobs/info/6aa1632eef23570cae2439e1?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Brewster Ambulance Service — Junior Business Intelligence Analyst
-            posted Sep 9, 2026 (date only)
-            Weymouth, MA, United States
-            https://jobright.ai/jobs/info/6aa1b42def23570cae245b58?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  A Helping Hand Renovation LLC — Data Analyst
             posted Sep 10, 2026 (date only)
             United States
@@ -30,35 +40,20 @@ Top 15 of 28 — last 24h — Sep 10, 10:32 AM EDT
             Tempe, AZ
             https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10993
 
+ 67  [today]  Burlington Stores, Inc. — Real Estate Strategy Data Analyst
+            posted Sep 9, 2026 (date only)
+            Burlington, VT, United States
+            https://jobright.ai/jobs/info/6aa1d23c0ffb3d4fea6b750c?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  Stanford University — Research Data Analyst (12-Month Fixed-Term)
             posted Sep 9, 2026 (date only)
             Stanford, CA, United States
             https://jobright.ai/jobs/info/6a6920cab22f1b56a602ae49?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  A Helping Hand Renovation LLC — Data Analyst
-            posted Sep 9, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa253081ba58d0180051369?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  A Helping Hand Renovation LLC — Data Analyst
-            posted Sep 9, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa28b0c9d7b4b411c80a9ac?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  Axos Bank — JBATA - Data Analyst
             posted Sep 9, 2026 (date only)
             San Diego, CA, United States
             https://jobright.ai/jobs/info/6aa1eb2adbc0e60e37e143e7?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  A Full Renovation LLC — Data Analyst
-            posted Sep 9, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa206be554ed250b2363cec?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  A Full Renovation LLC — Data Analyst
-            posted Sep 9, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa23b4e44e34250dc0cb9a0?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  A Full Renovation LLC — Data Analyst
             posted Sep 9, 2026 (date only)
@@ -70,7 +65,12 @@ Top 15 of 28 — last 24h — Sep 10, 10:32 AM EDT
             United States
             https://jobright.ai/jobs/info/6aa1fd5ddbc0e60e37e14a29?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Burlington Stores, Inc. — Real Estate Strategy Data Analyst
+ 67  [today]  A Full Renovation LLC — Data Analyst
             posted Sep 9, 2026 (date only)
-            Burlington, VT, United States
-            https://jobright.ai/jobs/info/6aa1d23c0ffb3d4fea6b750c?utm_campaign=Data%20Analysis&utm_source=1103
+            United States
+            https://jobright.ai/jobs/info/6aa206be554ed250b2363cec?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Amivero — Business Data Analyst
+            posted Sep 9, 2026 (date only)
+            Crystal City, VA, United States
+            https://jobright.ai/jobs/info/6a7c97f2a346cb6c8d5ee9ac?utm_campaign=Data%20Analysis&utm_source=1103
