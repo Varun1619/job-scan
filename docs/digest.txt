@@ -1,29 +1,49 @@
-Top 15 of 23 — last 24h — Sep 11, 10:31 AM EDT
+Top 15 of 33 — last 24h — Sep 11, 10:55 AM EDT
 
- 75  [  15h]  Rackner — Associate Data Engineer
+ 75  [  16h]  Rackner — Associate Data Engineer
             posted Sep 10, 2026, 6:35 PM EDT
             Remote in USA
             https://job-boards.greenhouse.io/rackner/jobs/4732844005
 
- 70  [today]  Dominion Energy — Associate Business Intelligence Analyst/Business Intelligence Analyst (Richmond, Hybrid)
-            posted Sep 10, 2026 (date only)
-            Richmond, VA, United States
-            https://jobright.ai/jobs/info/6aa3a1d5c5a856ac7e33a91a?utm_campaign=Data%20Analysis&utm_source=1103
+ 72  [  14h]  Elastic — Platform Engineer - Kubernetes
+            posted Sep 10, 2026, 8:07 PM EDT
+            United States | H1B 6
+            https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349
 
- 70  [today]  Goldbelt Professional Services — Data Analyst I (MPSB Antibiotics)
-            posted Sep 10, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa37f9f959a10d7230d1ea1?utm_campaign=Data%20Analysis&utm_source=1103
+ 72  [  17h]  Verkada — Software Engineer - Data Platform
+            posted Sep 10, 2026, 5:49 PM EDT
+            San Mateo, CA United States
+            https://job-boards.greenhouse.io/verkada/jobs/4129304007
 
  70  [today]  RigUp — Data Analyst I or II
             posted Sep 10, 2026 (date only)
             Midland, TX, United States
             https://jobright.ai/jobs/info/6aa39efc5c11cce360365357?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 70  [today]  Goldbelt Professional Services — Data Analyst I (MPSB Antibiotics)
+            posted Sep 10, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6aa37f9f959a10d7230d1ea1?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Dominion Energy — Associate Business Intelligence Analyst/Business Intelligence Analyst (Richmond, Hybrid)
+            posted Sep 10, 2026 (date only)
+            Richmond, VA, United States
+            https://jobright.ai/jobs/info/6aa3a1d5c5a856ac7e33a91a?utm_campaign=Data%20Analysis&utm_source=1103
+
  70  [  16h]  Dominion Energy — Associate Business Intelligence Analyst/Business Intelligence Analyst
             posted Sep 10, 2026, 6:07 PM EDT
             Richmond, VA
             https://careers.dominionenergy.com/job/RICHMOND-Associate-Business-Intelligence-AnalystBusiness-Intelligence-Analyst-(Richmond,-Hybrid)-VA-23219/1428545300/?ats=successfactors
+
+ 67  [today]  Amivero — Data Analyst
+            posted Sep 10, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6a7de5c7b56bea5779c0244b?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Navitus Health Solutions — Business Intelligence Developer - Navitus
+            posted Sep 10, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6aa3b9544238ea18d430dba7?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Stanford University — Research Data Analyst (12-Month Fixed-Term)
             posted Sep 10, 2026 (date only)
@@ -35,6 +55,11 @@ Top 15 of 23 — last 24h — Sep 11, 10:31 AM EDT
             United States
             https://jobright.ai/jobs/info/6aa2569444e34250dc0cba27?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [today]  BusinessLoans.com — Data Analyst
+            posted Sep 10, 2026 (date only)
+            Charleston, SC, United States
+            https://jobright.ai/jobs/info/6aa389174233a2201a2b1e8d?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  Amazon — Business Intelligence Engineer, WWPS Reporting and Analytics Center of Excellence (RACE)
             posted Sep 10, 2026 (date only)
             Arlington, VA, United States | H1B 15524
@@ -45,32 +70,7 @@ Top 15 of 23 — last 24h — Sep 11, 10:31 AM EDT
             United States
             https://jobright.ai/jobs/info/6aa3e205c1928370a285b0bf?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Navitus Health Solutions — Business Intelligence Developer - Navitus
-            posted Sep 10, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa3b9544238ea18d430dba7?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Amivero — Data Analyst
-            posted Sep 10, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a7de5c7b56bea5779c0244b?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  BusinessLoans.com — Data Analyst
-            posted Sep 10, 2026 (date only)
-            Charleston, SC, United States
-            https://jobright.ai/jobs/info/6aa389174233a2201a2b1e8d?utm_campaign=Data%20Analysis&utm_source=1103
-
- 66  [  16h]  Tesla — Senior Data Engineer - Datawarehouse - Service & Tools
-            posted Sep 10, 2026, 6:26 PM EDT
-            Fremont, CA
-            https://www.tesla.com/careers/search/job/282948
-
- 63  [today]  Booz Allen Hamilton — Data Scientist, Junior
-            posted Sep 10, 2026 (date only)
-            San Antonio, TX, United States
-            https://jobright.ai/jobs/info/6a8619d04afae74a08343743?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  Gartner — Associate Data Scientist
-            posted Sep 10, 2026 (date only)
-            Stamford, CT, United States
-            https://jobright.ai/jobs/info/6a908e320bd89e205d24af83?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [  16h]  Gusto — CX Business Intelligence Analyst
+            posted Sep 10, 2026, 6:07 PM EDT
+            Chicago, IL - Remote; Denver, CO - Hybrid; Las Vegas, NV - Remote; New York, New York, United States; Phoenix, AZ - Remote; San Francisco, CA - Hybrid
+            https://job-boards.greenhouse.io/gusto/jobs/8119978
