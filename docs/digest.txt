@@ -1,6 +1,11 @@
-Top 15 of 43 — last 24h — Sep 16, 11:05 AM EDT
+Top 15 of 40 — last 24h — Sep 16, 11:22 AM EDT
 
- 72  [  16h]  Texas Instruments — Data Engineer - Career Accelerator Program
+ 72  [   2h]  Cloudflare — Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)
+            posted Sep 16, 2026, 9:11 AM EDT
+            Hybrid | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801
+
+ 72  [  17h]  Texas Instruments — Data Engineer - Career Accelerator Program
             posted Sep 15, 2026, 6:16 PM EDT
             Richardson, TX
             https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015894
@@ -30,12 +35,12 @@ Top 15 of 43 — last 24h — Sep 16, 11:05 AM EDT
             Hurlburt Field, FL, United States
             https://jobright.ai/jobs/info/6aa96492eff87f571fc997db?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [  16h]  Saalex — Junior Systems Developer and Data Analyst
+ 70  [  17h]  Saalex — Junior Systems Developer and Data Analyst
             posted Sep 15, 2026, 6:20 PM EDT
             Ridgecrest, CA
             https://apply.workable.com/saalex/j/758C0628C9/apply
 
- 70  [  16h]  Astrion — Junior Data Analyst
+ 70  [  17h]  Astrion — Junior Data Analyst
             posted Sep 15, 2026, 6:17 PM EDT
             Eglin AFB, FL
             https://careers.astrion.us/jobs/25011?icims=1
@@ -44,6 +49,11 @@ Top 15 of 43 — last 24h — Sep 16, 11:05 AM EDT
             posted Sep 16, 2026 (date only)
             McLean, VA, United States
             https://jobright.ai/jobs/info/6a84ac5a2f4f0014cae221a8?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  NTT DATA North America — Business Intelligence Analyst
+            posted Sep 15, 2026 (date only)
+            Los Angeles, CA, United States
+            https://jobright.ai/jobs/info/6aa9e84e28e24cb38513d2f9?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Blueberry Hill LitCon — Data Analyst
             posted Sep 15, 2026 (date only)
@@ -55,22 +65,12 @@ Top 15 of 43 — last 24h — Sep 16, 11:05 AM EDT
             United States
             https://jobright.ai/jobs/info/6aa93179eff87f571fc98878?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  NTT DATA North America — Business Intelligence Analyst
-            posted Sep 15, 2026 (date only)
-            Los Angeles, CA, United States
-            https://jobright.ai/jobs/info/6aa9e84e28e24cb38513d2f9?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  NTT DATA — Business Intelligence Analyst
-            posted Sep 15, 2026 (date only)
-            Los Angeles, CA, United States
-            https://jobright.ai/jobs/info/6aa9e87109ae03adcace0210?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  Abel Womack, Inc. — Power BI Data Analyst
             posted Sep 15, 2026 (date only)
             Lawrence, MA, United States
             https://jobright.ai/jobs/info/6aa9da8f28e24cb38513cbde?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [  14h]  L3Harris Technologies — Business Intelligence Analyst
-            posted Sep 15, 2026, 9:05 PM EDT
-            Palm Bay, FL
-            https://jobs.l3harris.com/job/Palm-Bay-Senior-Associate,-Business-Intelligence-Analyst-FL-32905/1430419400/?ats=successfactors
+ 67  [today]  NTT DATA — Business Intelligence Analyst
+            posted Sep 15, 2026 (date only)
+            Los Angeles, CA, United States
+            https://jobright.ai/jobs/info/6aa9e87109ae03adcace0210?utm_campaign=Data%20Analysis&utm_source=1103
