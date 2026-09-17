@@ -1,6 +1,6 @@
-Top 15 of 37 — last 24h — Sep 17, 11:07 AM EDT
+Top 15 of 41 — last 24h — Sep 17, 11:28 AM EDT
 
- 75  [  <1h]  VML — Associate Data Engineer
+ 75  [   1h]  VML — Associate Data Engineer
             posted Sep 17, 2026, 10:08 AM EDT
             Austin, TX
             https://job-boards.greenhouse.io/map/jobs/8816124002
@@ -10,40 +10,50 @@ Top 15 of 37 — last 24h — Sep 17, 11:07 AM EDT
             Vernon Hills, IL, United States
             https://jobright.ai/jobs/info/6aa466308275e3a211760376?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Morgan Stanley — Junior Data Analyst
-            posted Sep 16, 2026 (date only)
-            Dallas, TX, United States
-            https://jobright.ai/jobs/info/6a7f4daaad9ff00c26bad70a?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Gupta Media — Data Analyst I
-            posted Sep 16, 2026 (date only)
-            Boston, MA, United States
-            https://jobright.ai/jobs/info/6a7b5195ecfd2977075382c4?utm_campaign=Data%20Analysis&utm_source=1103
-
  70  [today]  The Walt Disney Company — Associate Data Analyst
             posted Sep 16, 2026 (date only)
             Burbank, CA, United States
             https://jobright.ai/jobs/info/6aaafcaff6bd9d2d17c1ab8c?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Morgan Stanley — Junior Data Analyst
+            posted Sep 16, 2026 (date only)
+            Dallas, TX, United States
+            https://jobright.ai/jobs/info/6a7f4daaad9ff00c26bad70a?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  The Walt Disney Studios — Associate Data Analyst
             posted Sep 16, 2026 (date only)
             Burbank, CA, United States
             https://jobright.ai/jobs/info/6aab772976707040fb0855e3?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 70  [today]  Gupta Media — Data Analyst I
+            posted Sep 16, 2026 (date only)
+            Boston, MA, United States
+            https://jobright.ai/jobs/info/6a7b5195ecfd2977075382c4?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  DaVita Kidney Care — Analytics and Reporting Analyst (IKC)
             posted Sep 17, 2026 (date only)
             California, United States
             https://jobright.ai/jobs/info/6a8ecfcbf841e649a718f37f?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Chenega Defense & Aerospace Solutions — Data Analyst
+            posted Sep 17, 2026 (date only)
+            Alexandria, VA, United States
+            https://jobright.ai/jobs/info/6aabbcd00d36a75ba5bb0e2d?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Brewster Ambulance Service — Business Intelligence Analyst
             posted Sep 17, 2026 (date only)
             Weymouth, MA, United States
             https://jobright.ai/jobs/info/6aabd0353dbb1f8967ce7866?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Chenega Defense & Aerospace Solutions — Data Analyst
-            posted Sep 17, 2026 (date only)
-            Alexandria, VA, United States
-            https://jobright.ai/jobs/info/6aabbcd00d36a75ba5bb0e2d?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Amazon — Business Intelligence Engineer, Amazon Advertising, Ads Finance
+            posted Sep 16, 2026 (date only)
+            New York, NY, United States | H1B 15524
+            https://jobright.ai/jobs/info/6aaadbadf6bd9d2d17c1a014?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Tower Research Capital — Data Analyst
+            posted Sep 16, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6aab03af40807b73bd3935cd?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Stanford University — Research Data Analyst (12-Month Fixed-Term)
             posted Sep 16, 2026 (date only)
@@ -55,22 +65,12 @@ Top 15 of 37 — last 24h — Sep 17, 11:07 AM EDT
             McLean, VA, United States
             https://jobright.ai/jobs/info/6a84ac5a2f4f0014cae221a8?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Tactile Medical — Business Intelligence Analyst
+ 67  [today]  Chenega Professional Services Strategic Business Unit — Data Analyst
             posted Sep 16, 2026 (date only)
-            Minneapolis, MN, United States
-            https://jobright.ai/jobs/info/6a8df5d8a5639a4810328b9a?utm_campaign=Data%20Analysis&utm_source=1103
+            Alexandria, VA, United States
+            https://jobright.ai/jobs/info/6aab09a1f6bd9d2d17c1b124?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Amazon — Business Intelligence Engineer, Amazon Advertising, Ads Finance
+ 67  [today]  Chenega Corporation — Data Analyst
             posted Sep 16, 2026 (date only)
-            New York, NY, United States | H1B 15524
-            https://jobright.ai/jobs/info/6aaadbadf6bd9d2d17c1a014?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Texas Association of School Boards — RM Business Intelligence Analyst
-            posted Sep 16, 2026 (date only)
-            Austin, TX, United States
-            https://jobright.ai/jobs/info/6aab29d076707040fb08472d?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Tower Research Capital — Data Analyst
-            posted Sep 16, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6aab03af40807b73bd3935cd?utm_campaign=Data%20Analysis&utm_source=1103
+            Alexandria, VA, United States
+            https://jobright.ai/jobs/info/6aaaf4b740807b73bd392f50?utm_campaign=Data%20Analysis&utm_source=1103
