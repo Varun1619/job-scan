@@ -1,76 +1,56 @@
-Top 15 of 29 — last 24h — Sep 19, 9:57 AM EDT
-
- 75  [  15h]  SteerBridge — Junior Data Engineer
-            posted Sep 18, 2026, 6:18 PM EDT
-            Vienna, VA
-            https://jobs.lever.co/steerbridge/a49cfd8c-c7ec-4378-9233-412eb16dd96a/apply
-
- 75  [  15h]  AHEAD — Associate Data Engineer
-            posted Sep 18, 2026, 6:19 PM EDT
-            Chicago, IL
-            https://jobs.lever.co/thinkahead/14fefcf2-720f-4333-8bcc-ff3ba62d3b8e/apply
+Top 11 of 11 — last 24h — Sep 20, 10:17 AM EDT
 
  72  [today]  Together AI — GTM Data Analytics Engineer
             posted Sep 19, 2026 (date only)
             San Francisco, CA, United States
             https://jobright.ai/jobs/info/6aa87c4a3a9f0a4fe6f19a13?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  [  23h]  EXL — Data Engineer
-            posted Sep 18, 2026, 10:20 AM EDT
-            Jersey City, NJ
-            https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/20370
-
- 70  [today]  Shiseido — Data Analyst I, Master Data
-            posted Sep 18, 2026 (date only)
-            East Windsor, NJ, United States
-            https://jobright.ai/jobs/info/6aa9b01aeff87f571fc9aa98?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  DHL Supply Chain — Business Data Analyst II
-            posted Sep 18, 2026 (date only)
-            Westerville, OH, United States
-            https://jobright.ai/jobs/info/6aad34932e757fcb5c8b72e6?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Oakton College — Data Quality & Reporting Analyst
-            posted Sep 18, 2026 (date only)
-            Des Plaines, IL, United States
-            https://jobright.ai/jobs/info/6aacd5890a4ce9becc77a909?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Tekmerion Capital Management, LP — Data Analyst
-            posted Sep 18, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6a88c5a6e8b6601d12908a6b?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  DRW — Data Analyst, Exploration
-            posted Sep 18, 2026 (date only)
-            Chicago, IL, United States
-            https://jobright.ai/jobs/info/6aada20c3dbb1f8967ceeaf8?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  TikTok — Data Analyst Graduate (Supply Chain and Logistics- Fulfillment Centers Operations) - 2027 Start
+            posted Sep 19, 2026 (date only)
+            Fontana, CA, United States | H1B 1800
+            https://jobright.ai/jobs/info/6a84f9b058ded76ad8fea2ce?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Blue Ridge Area Food Bank — Data Analyst
-            posted Sep 18, 2026 (date only)
+            posted Sep 19, 2026 (date only)
             Verona, VA, United States
             https://jobright.ai/jobs/info/6aada2cb3dbb1f8967ceeb5c?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  NYCM Insurance — Business Data Analyst (Hybrid)
-            posted Sep 18, 2026 (date only)
-            Edmeston, NY, United States
-            https://jobright.ai/jobs/info/6aad31a8ea4712a195b146c3?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  TikTok — Business Intelligence Technical Analyst - Trust and Safety
+            posted Sep 19, 2026 (date only)
+            San Jose, CA, United States | H1B 1800
+            https://jobright.ai/jobs/info/6a69d6efc63ba56308f50183?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [  15h]  Sundt — Business Intelligence Analyst 1
-            posted Sep 18, 2026, 6:17 PM EDT
-            Tempe, AZ
-            https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11289
+ 63  [today]  Esri — Data Scientist I
+            posted Sep 19, 2026 (date only)
+            St. Louis, MO, United States
+            https://jobright.ai/jobs/info/6a3c3518882f121f56a33ce8?utm_campaign=Data%20Analysis&utm_source=1103
 
- 66  [  15h]  TikTok — Machine Learning Engineer Graduate - E-Commerce Recommendation Video
-            posted Sep 18, 2026, 6:29 PM EDT
-            San Jose, CA | H1B 1800
-            https://lifeattiktok.com/search/7686999927260105013
+ 63  [today]  Knowesis Inc. — Data Scientist I
+            posted Sep 19, 2026 (date only)
+            Hulbert Field, FL, United States
+            https://jobright.ai/jobs/info/6a51ccdb78e364789ca5cfad?utm_campaign=Data%20Analysis&utm_source=1103
 
- 66  [  15h]  AHEAD — Associate AI Engineer
-            posted Sep 18, 2026, 6:19 PM EDT
-            Chicago, IL
-            https://jobs.lever.co/thinkahead/1ebcedcb-82ba-4d19-ac88-aa73a812dd81/apply
+ 59  [today]  Citadel — Sector Data Scientist, Central Team
+            posted Sep 19, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6a67bb80d0fb4c3df393e6b9?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [today]  IBM — Entry level Data Scientist: Systems Assurance Data Analytics - 2027
-            posted Sep 18, 2026 (date only)
-            Durham, NC, United States | H1B 1000
-            https://jobright.ai/jobs/info/6aa433c6f7baf881567cdbd6?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [today]  GE Vernova — Data Scientist
+            posted Sep 19, 2026 (date only)
+            Greenville, SC, United States
+            https://jobright.ai/jobs/info/6aa3968b5c11cce360364fcb?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  HAVI — Data Scientist Job Details / HAVI
+            posted Sep 19, 2026 (date only)
+            Chicago, IL, United States
+            https://jobright.ai/jobs/info/6a76ec404817aa4307049b7a?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  Procter & Gamble — Data Scientist
+            posted Sep 19, 2026 (date only)
+            Cincinnati, OH, United States
+            https://jobright.ai/jobs/info/6a90b5ffd96ad228f1262d77?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  FanDuel — Data Scientist, Experimentation
+            posted Sep 19, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6a3d8b8d122f340d29cf12c6?utm_campaign=Data%20Analysis&utm_source=1103
