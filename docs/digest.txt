@@ -1,56 +1,76 @@
-Top 11 of 11 — last 24h — Sep 20, 10:17 AM EDT
+Top 15 of 15 — last 24h — Sep 21, 12:31 PM EDT
 
- 72  [today]  Together AI — GTM Data Analytics Engineer
-            posted Sep 19, 2026 (date only)
-            San Francisco, CA, United States
-            https://jobright.ai/jobs/info/6aa87c4a3a9f0a4fe6f19a13?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  TikTok — Data Analyst Graduate (Supply Chain and Logistics- Fulfillment Centers Operations) - 2027 Start
-            posted Sep 19, 2026 (date only)
-            Fontana, CA, United States | H1B 1800
-            https://jobright.ai/jobs/info/6a84f9b058ded76ad8fea2ce?utm_campaign=Data%20Analysis&utm_source=1103
+ 72  [today]  BD — Commercial Analytics Engineer Business Decision Intelligence
+            posted Sep 20, 2026 (date only)
+            Vernon Hills, IL, United States
+            https://jobright.ai/jobs/info/6aa466308275e3a211760376?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Blue Ridge Area Food Bank — Data Analyst
-            posted Sep 19, 2026 (date only)
+            posted Sep 21, 2026 (date only)
             Verona, VA, United States
             https://jobright.ai/jobs/info/6aada2cb3dbb1f8967ceeb5c?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  TikTok — Business Intelligence Technical Analyst - Trust and Safety
-            posted Sep 19, 2026 (date only)
+ 67  [today]  Constellis — Data Analyst
+            posted Sep 21, 2026 (date only)
+            Philadelphia, PA, United States
+            https://jobright.ai/jobs/info/6a509de4d5d2a327b664c16f?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Moog Inc. — Data Analyst
+            posted Sep 21, 2026 (date only)
+            East Aurora, NY, United States
+            https://jobright.ai/jobs/info/6ab138f032552369083e0ba4?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Navy Federal Credit Union — Business Intelligence Analyst – Supply Chain & Operations Analytic
+            posted Sep 21, 2026 (date only)
+            Vienna, VA, United States
+            https://jobright.ai/jobs/info/6ab131bfd43eb922ca0bd58a?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Constellis — Data Analyst
+            posted Sep 21, 2026 (date only)
+            Lakewood, CO, United States
+            https://jobright.ai/jobs/info/6ab106592cb79aa4979f53b3?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Amazon — Business Intelligence Engineer, Amazon Advertising, Ads Finance
+            posted Sep 20, 2026 (date only)
+            New York, NY, United States | H1B 15524
+            https://jobright.ai/jobs/info/6aaadbadf6bd9d2d17c1a014?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Tactile Medical — Data Analyst
+            posted Sep 20, 2026 (date only)
+            New Brighton, MN, United States
+            https://jobright.ai/jobs/info/6a5a60f4c8e3a473cb8ab71c?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 63  [today]  TikTok — Data Scientist Graduate (Multimedia) - 2027 Start
+            posted Sep 20, 2026 (date only)
             San Jose, CA, United States | H1B 1800
-            https://jobright.ai/jobs/info/6a69d6efc63ba56308f50183?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a7fcfcfb56bea5779c0f6d7?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [today]  Esri — Data Scientist I
-            posted Sep 19, 2026 (date only)
-            St. Louis, MO, United States
-            https://jobright.ai/jobs/info/6a3c3518882f121f56a33ce8?utm_campaign=Data%20Analysis&utm_source=1103
+ 63  [today]  Billtrust — Associate Data Scientist
+            posted Sep 20, 2026 (date only)
+            Hamilton Township, NJ, United States
+            https://jobright.ai/jobs/info/6a4422ccef17a815538a3064?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [today]  Knowesis Inc. — Data Scientist I
-            posted Sep 19, 2026 (date only)
-            Hulbert Field, FL, United States
-            https://jobright.ai/jobs/info/6a51ccdb78e364789ca5cfad?utm_campaign=Data%20Analysis&utm_source=1103
+ 63  [today]  TikTok — Data Scientist Graduate (Multimedia) - 2027 Start
+            posted Sep 20, 2026 (date only)
+            San Jose, CA, United States | H1B 1800
+            https://jobright.ai/jobs/info/6a7d6bb283621355407ae12e?utm_campaign=Data%20Analysis&utm_source=1103
 
- 59  [today]  Citadel — Sector Data Scientist, Central Team
-            posted Sep 19, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6a67bb80d0fb4c3df393e6b9?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [today]  AppLovin — Data Scientist – Analytics
+            posted Sep 21, 2026 (date only)
+            Palo Alto, CA, United States
+            https://jobright.ai/jobs/info/6aa09a8a5b2d5633ef3bf9c9?utm_campaign=Data%20Analysis&utm_source=1103
 
- 59  [today]  GE Vernova — Data Scientist
-            posted Sep 19, 2026 (date only)
-            Greenville, SC, United States
-            https://jobright.ai/jobs/info/6aa3968b5c11cce360364fcb?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [today]  Kearney — Kearney Activate - Data Scientist
+            posted Sep 21, 2026 (date only)
+            Washington, DC, United States
+            https://jobright.ai/jobs/info/6a6d9cf757120971bf3b0a27?utm_campaign=Data%20Analysis&utm_source=1103
 
- 59  [today]  HAVI — Data Scientist Job Details / HAVI
-            posted Sep 19, 2026 (date only)
-            Chicago, IL, United States
-            https://jobright.ai/jobs/info/6a76ec404817aa4307049b7a?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [today]  Figma — Data Scientist, Core Data - PhD (2026)
+            posted Sep 20, 2026 (date only)
+            San Francisco, CA, United States
+            https://jobright.ai/jobs/info/6a5208ec8ef95364ead8c8a2?utm_campaign=Data%20Analysis&utm_source=1103
 
  59  [today]  Procter & Gamble — Data Scientist
-            posted Sep 19, 2026 (date only)
+            posted Sep 20, 2026 (date only)
             Cincinnati, OH, United States
             https://jobright.ai/jobs/info/6a90b5ffd96ad228f1262d77?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  FanDuel — Data Scientist, Experimentation
-            posted Sep 19, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6a3d8b8d122f340d29cf12c6?utm_campaign=Data%20Analysis&utm_source=1103
