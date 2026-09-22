@@ -1,9 +1,29 @@
-Top 15 of 21 — last 24h — Sep 21, 12:53 PM EDT
+Top 15 of 33 — last 24h — Sep 22, 11:04 AM EDT
 
- 72  [today]  BD — Commercial Analytics Engineer Business Decision Intelligence
-            posted Sep 20, 2026 (date only)
-            Vernon Hills, IL, United States
-            https://jobright.ai/jobs/info/6aa466308275e3a211760376?utm_campaign=Data%20Analysis&utm_source=1103
+ 72  [today]  Children's Mercy — Research Data Platform Specialist
+            posted Sep 21, 2026 (date only)
+            Kansas City, MO, United States
+            https://jobright.ai/jobs/info/6ab19681f9692ca98b04a83e?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 72  [  15h]  Tyson Foods — Data Engineer 1
+            posted Sep 21, 2026, 8:00 PM EDT
+            Springdale, AR
+            https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-I_R0483830-1
+
+ 70  [today]  F5 — Data Analyst I
+            posted Sep 21, 2026 (date only)
+            Seattle, WA, United States
+            https://jobright.ai/jobs/info/6ab19698d43eb922ca0bfdd8?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Google — Business Data Analyst I, Google Global Infrastructure, Strategy and Operations
+            posted Sep 21, 2026 (date only)
+            Austin, TX, United States | H1B 4181
+            https://jobright.ai/jobs/info/6ab1593ed43eb922ca0be396?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Torentify — Data Analyst: Reports & Insights -WFH
+            posted Sep 22, 2026 (date only)
+            Scottsdale, AZ, United States
+            https://jobright.ai/jobs/info/6ab2307b191d8c340dbdddf4?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Blue Ridge Area Food Bank — Data Analyst
             posted Sep 21, 2026 (date only)
@@ -30,47 +50,27 @@ Top 15 of 21 — last 24h — Sep 21, 12:53 PM EDT
             East Aurora, NY, United States
             https://jobright.ai/jobs/info/6ab138f032552369083e0ba4?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Amazon — Business Intelligence Engineer, Amazon Advertising, Ads Finance
-            posted Sep 20, 2026 (date only)
-            New York, NY, United States | H1B 15524
-            https://jobright.ai/jobs/info/6aaadbadf6bd9d2d17c1a014?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Tactile Medical — Data Analyst
-            posted Sep 20, 2026 (date only)
-            New Brighton, MN, United States
-            https://jobright.ai/jobs/info/6a5a60f4c8e3a473cb8ab71c?utm_campaign=Data%20Analysis&utm_source=1103
-
- 66  [   4h]  Gusto — Senior Data Engineer
-            posted Sep 21, 2026, 8:30 AM EDT
-            Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid
-            https://job-boards.greenhouse.io/gusto/jobs/8099751
-
- 63  [today]  TikTok — Data Scientist Graduate (Multimedia) - 2027 Start
-            posted Sep 20, 2026 (date only)
-            San Jose, CA, United States | H1B 1800
-            https://jobright.ai/jobs/info/6a7fcfcfb56bea5779c0f6d7?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  Billtrust — Associate Data Scientist
-            posted Sep 20, 2026 (date only)
-            Hamilton Township, NJ, United States
-            https://jobright.ai/jobs/info/6a4422ccef17a815538a3064?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  TikTok — Data Scientist Graduate (Multimedia) - 2027 Start
-            posted Sep 20, 2026 (date only)
-            San Jose, CA, United States | H1B 1800
-            https://jobright.ai/jobs/info/6a7d6bb283621355407ae12e?utm_campaign=Data%20Analysis&utm_source=1103
-
- 62  [  <1h]  Databricks — AI Engineer – Forward Deployed Engineering (AI FDE)
-            posted Sep 21, 2026, 12:37 PM EDT
-            United States | H1B 385
-            https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002
-
- 62  [   4h]  Gusto — Enterprise Application AI Engineer
-            posted Sep 21, 2026, 8:30 AM EDT
-            San Francisco, CA, United States
-            https://job-boards.greenhouse.io/gusto/jobs/7369003
-
- 59  [today]  AppLovin — Data Scientist – Analytics
+ 67  [today]  Mass General Brigham — Data Analyst TMS
             posted Sep 21, 2026 (date only)
-            Palo Alto, CA, United States
-            https://jobright.ai/jobs/info/6aa09a8a5b2d5633ef3bf9c9?utm_campaign=Data%20Analysis&utm_source=1103
+            Boston, MA, United States
+            https://jobright.ai/jobs/info/6ab175a6d2a93d5a97ebace7?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Jeeter - a DreamFields Brand — Business Intelligence Analyst - Remote
+            posted Sep 21, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6ab15d77d43eb922ca0be593?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Bikky — Data Analyst - Data Operations
+            posted Sep 21, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6ab15fbed2a93d5a97eba3fd?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Bikky — Data Analyst - Data Operations
+            posted Sep 21, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6ab15fbfd2a93d5a97eba3fe?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [  16h]  Howmet Aerospace — Manufacturing Data Analyst - Training Program
+            posted Sep 21, 2026, 6:09 PM EDT
+            Dover, NJ, Whitehall, MI, Hampton, VA, Morristown, TN, La Porte, IN, Wichita Falls, TX
+            https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118740
