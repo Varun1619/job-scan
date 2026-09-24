@@ -1,4 +1,24 @@
-Top 15 of 19 — last 24h — Sep 24, 11:19 AM EDT
+Top 15 of 24 — last 24h — Sep 24, 11:45 AM EDT
+
+ 75  [  19h]  Axon — Senior Data Engineer II
+            posted Sep 23, 2026, 4:24 PM EDT
+            Scottsdale, Arizona, United States
+            https://job-boards.greenhouse.io/axon/jobs/8002445003
+
+ 75  [  19h]  Axon — Senior Data Engineer II
+            posted Sep 23, 2026, 4:24 PM EDT
+            Boston, Massachusetts, United States
+            https://job-boards.greenhouse.io/axon/jobs/8002442003
+
+ 75  [  19h]  Axon — Senior Data Engineer II
+            posted Sep 23, 2026, 4:24 PM EDT
+            Seattle, Washington, United States
+            https://job-boards.greenhouse.io/axon/jobs/8002446003
+
+ 75  [  19h]  Axon — Senior Data Engineer II
+            posted Sep 23, 2026, 4:24 PM EDT
+            New York, New York, United States
+            https://job-boards.greenhouse.io/axon/jobs/8002444003
 
  70  [today]  Google — Business Data Analyst I, Google Global Infrastructure, Strategy and Operations
             posted Sep 23, 2026 (date only)
@@ -15,62 +35,42 @@ Top 15 of 19 — last 24h — Sep 24, 11:19 AM EDT
             Boston, MA, United States
             https://jobright.ai/jobs/info/6aac124a95c707f49dfef4eb?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Amivero — Business Data Analyst
+ 67  [today]  HCLTech — Data Analyst
             posted Sep 23, 2026 (date only)
-            Crystal City, VA, United States
-            https://jobright.ai/jobs/info/6a7c97f2a346cb6c8d5ee9ac?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Apex Fintech Solutions — Data Analyst (Tax & Cost Basis)
-            posted Sep 23, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6a974330f5337b2cf7321354?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  CVS Health — Encounter Data Analyst- DSNP (Dual Eligible Special Needs Plan)
-            posted Sep 23, 2026 (date only)
-            Pennsylvania, United States
-            https://jobright.ai/jobs/info/6ab43b637bd0813713316760?utm_campaign=Data%20Analysis&utm_source=1103
+            San Diego, CA, United States
+            https://jobright.ai/jobs/info/6ab3fcfdd2f5fbd604be0a1c?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Noblis — Data Analyst (Multiple Levels)
             posted Sep 23, 2026 (date only)
             McLean, VA, United States
             https://jobright.ai/jobs/info/6a9e3848dacf777321a90c99?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  HCLTech — Data Analyst
+ 67  [today]  Amivero — Business Data Analyst
             posted Sep 23, 2026 (date only)
-            San Diego, CA, United States
-            https://jobright.ai/jobs/info/6ab3fcfdd2f5fbd604be0a1c?utm_campaign=Data%20Analysis&utm_source=1103
+            Crystal City, VA, United States
+            https://jobright.ai/jobs/info/6a7c97f2a346cb6c8d5ee9ac?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [  16h]  American Express — Data & Analytics Analyst - Enterprise Technology Services
+ 67  [today]  CVS Health — Encounter Data Analyst- DSNP (Dual Eligible Special Needs Plan)
+            posted Sep 23, 2026 (date only)
+            Pennsylvania, United States
+            https://jobright.ai/jobs/info/6ab43b637bd0813713316760?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Apex Fintech Solutions — Data Analyst (Tax & Cost Basis)
+            posted Sep 23, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6a974330f5337b2cf7321354?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [  17h]  American Express — Data & Analytics Analyst - Enterprise Technology Services
             posted Sep 23, 2026, 6:20 PM EDT
             Charlotte, NC
             https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013679
 
- 66  [  16h]  iManage — Applied AI Engineer New Grad
+ 66  [  17h]  iManage — Applied AI Engineer New Grad
             posted Sep 23, 2026, 6:21 PM EDT
             Chicago, IL
             https://imanagecom.applytojob.com/apply/r4huAJvEWl/Applied-AI-Engineer-New-Or-Recent-Grad
 
- 63  [   1h]  IPT Global — Junior Data Scientist - Petroleum Engineering & Well Integrity
-            posted Sep 24, 2026, 10:05 AM EDT
-            Houston, TX
-            https://jobs.smartrecruiters.com/IPTGlobal/744000151598799
-
- 63  [today]  Parsons Corporation — Data Scientist I
-            posted Sep 23, 2026 (date only)
-            Washington, DC, United States
-            https://jobright.ai/jobs/info/6ab3067d326574570a004986?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  Creative Artists Agency — Jr. Data Scientist
-            posted Sep 23, 2026 (date only)
-            Los Angeles, CA, United States
-            https://jobright.ai/jobs/info/6a9754bed13b4819f39e09ee?utm_campaign=Data%20Analysis&utm_source=1103
-
- 62  [  16h]  Klaviyo — AI Engineer 1
-            posted Sep 23, 2026, 6:21 PM EDT
-            Boston, MA
-            https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003
-
- 59  [today]  Torentify — Data Scientist - WFH
-            posted Sep 24, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6ab4d06c2dd8a22b0fefd534?utm_campaign=Data%20Analysis&utm_source=1103
+ 64  [  20h]  Ramp — Machine Learning Engineer
+            posted Sep 23, 2026, 3:39 PM EDT
+            New York, NY (HQ) | H1B 80
+            https://jobs.ashbyhq.com/ramp/2888b101-b1da-4e53-a02e-1bb9b1b5a951
