@@ -1,4 +1,9 @@
-Top 15 of 29 — last 24h — Sep 25, 11:22 AM EDT
+Top 15 of 33 — last 24h — Sep 25, 11:46 AM EDT
+
+ 72  [  12h]  Verkada — Software Engineer - Data Platform
+            posted Sep 24, 2026, 11:30 PM EDT
+            San Mateo, CA United States
+            https://job-boards.greenhouse.io/verkada/jobs/4129304007
 
  70  [today]  The Henry M. Jackson Foundation for the Advancement of Military Medicine — Data Analyst I - PED
             posted Sep 24, 2026 (date only)
@@ -10,10 +15,10 @@ Top 15 of 29 — last 24h — Sep 25, 11:22 AM EDT
             Dallas, TX, United States
             https://jobright.ai/jobs/info/6a7f4daaad9ff00c26bad70a?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  adMarketplace — Graduate Data Analyst
+ 70  [today]  Goldbelt, Incorporated — Junior Data Analyst
             posted Sep 24, 2026 (date only)
-            New York, New York, United States
-            https://jobright.ai/jobs/info/6ab588344873fd3fd852a2f8?utm_campaign=Data%20Analysis&utm_source=1103
+            Falls Church, VA, United States
+            https://jobright.ai/jobs/info/6ab551f2b3db59402d0fbf9c?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  The Cadmus Group — Junior Energy Data Analyst
             posted Sep 24, 2026 (date only)
@@ -30,12 +35,12 @@ Top 15 of 29 — last 24h — Sep 25, 11:22 AM EDT
             Falls Church, VA, United States
             https://jobright.ai/jobs/info/6ab567da4873fd3fd852954e?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Goldbelt, Incorporated — Junior Data Analyst
+ 70  [today]  adMarketplace — Graduate Data Analyst
             posted Sep 24, 2026 (date only)
-            Falls Church, VA, United States
-            https://jobright.ai/jobs/info/6ab551f2b3db59402d0fbf9c?utm_campaign=Data%20Analysis&utm_source=1103
+            New York, New York, United States
+            https://jobright.ai/jobs/info/6ab588344873fd3fd852a2f8?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [  16h]  Cadmus — Junior Energy Data Analyst
+ 70  [  17h]  Cadmus — Junior Energy Data Analyst
             posted Sep 24, 2026, 6:23 PM EDT
             NYC, Portland, OR, Boulder, CO
             https://careers-cadmusgroup.icims.com/jobs/3241/job?mobile=true&needsRedirect=false
@@ -43,12 +48,17 @@ Top 15 of 29 — last 24h — Sep 25, 11:22 AM EDT
  70  [  17h]  Goldbelt — Junior Data Analyst
             posted Sep 24, 2026, 6:08 PM EDT
             Falls Church, VA
-            https://talent.goldbelt.com/jobs/20717?icims=1
+            https://careers-goldbeltapex.icims.com/jobs/20717/job?mobile=true&needsRedirect=false
 
  70  [  17h]  Goldbelt — Junior Data Analyst
             posted Sep 24, 2026, 6:08 PM EDT
             Falls Church, VA
-            https://careers-goldbeltapex.icims.com/jobs/20717/job?mobile=true&needsRedirect=false
+            https://talent.goldbelt.com/jobs/20717?icims=1
+
+ 67  [today]  ZT Systems — Business Intelligence Data Analyst
+            posted Sep 24, 2026 (date only)
+            Secaucus, NJ, United States
+            https://jobright.ai/jobs/info/6ab563209d4843569fe496c7?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Guidehouse — Data Analyst (Dashboard Developer)
             posted Sep 24, 2026 (date only)
@@ -64,13 +74,3 @@ Top 15 of 29 — last 24h — Sep 25, 11:22 AM EDT
             posted Sep 24, 2026 (date only)
             Stanford, CA, United States
             https://jobright.ai/jobs/info/6a6920cab22f1b56a602ae49?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Target — Data Analyst - Retail Accounting
-            posted Sep 24, 2026 (date only)
-            Brooklyn Park, MN, United States
-            https://jobright.ai/jobs/info/6ab3fec87bd0813713314eb7?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Remex, Inc. — Data Analyst
-            posted Sep 24, 2026 (date only)
-            Princeton, NJ 08540
-            https://jobright.ai/jobs/info/68d6eb0b894705799a2eebc7?utm_campaign=Data%20Analysis&utm_source=1103
