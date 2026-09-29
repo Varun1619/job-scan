@@ -1,51 +1,76 @@
-Top 10 of 10 — last 24h — Sep 28, 2:32 PM EDT
+Top 15 of 33 — last 24h — Sep 29, 12:34 PM EDT
+
+ 75  [  10h]  OneImaging — Associate Data Engineer
+            posted Sep 29, 2026, 2:16 AM EDT
+            Miami, FL
+            https://job-boards.greenhouse.io/oneimaging/jobs/4423646009
+
+ 72  [today]  BD — Commercial Analytics Engineer Business Decision Intelligence
+            posted Sep 28, 2026 (date only)
+            Vernon Hills, IL, United States
+            https://jobright.ai/jobs/info/6aa466308275e3a211760376?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 72  [today]  Together AI — GTM Data Analytics Engineer
+            posted Sep 28, 2026 (date only)
+            San Francisco, CA, United States
+            https://jobright.ai/jobs/info/6aa87c4a3a9f0a4fe6f19a13?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Tech-Marine Business, Inc. (TMB) — Jr. Data Analyst
+            posted Sep 29, 2026 (date only)
+            Washington, DC, United States
+            https://jobright.ai/jobs/info/6abbc98b7119e56191ce934c?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Morgan Stanley — Junior Data Analyst
+            posted Sep 28, 2026 (date only)
+            Dallas, TX, United States
+            https://jobright.ai/jobs/info/6a7f4daaad9ff00c26bad70a?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Google — Business Data Analyst I, Google Global Infrastructure, Strategy and Operations
             posted Sep 28, 2026 (date only)
             Austin, TX, United States | H1B 4181
             https://jobright.ai/jobs/info/6ab1593ed43eb922ca0be396?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 70  [today]  Hydromax USA — Data Analyst I - W
+            posted Sep 28, 2026 (date only)
+            Louisville, KY 40207, United States
+            https://jobright.ai/jobs/info/6abad205be5f1e93251178b6?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Pryzm — Federal Data Analyst
+            posted Sep 29, 2026 (date only)
+            Boston, MA, United States
+            https://jobright.ai/jobs/info/6abbce5db23c6fb2b81a3168?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Fusable — Data Analyst
+            posted Sep 29, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6abbb487b23c6fb2b81a29a9?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Torentify — Data Analyst - Remote Work
+            posted Sep 29, 2026 (date only)
+            California, MO, United States
+            https://jobright.ai/jobs/info/6abb8d66f7c0be4619eb1423?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [  10h]  Anduril — Data Analyst - Quality
+            posted Sep 29, 2026, 2:20 AM EDT
+            Ashville, OH
+            https://boards.greenhouse.io/andurilindustries/jobs/5251234007
+
+ 67  [today]  TikTok — Business Intelligence Technical Analyst - Trust and Safety
+            posted Sep 28, 2026 (date only)
+            San Jose, CA, United States | H1B 1800
+            https://jobright.ai/jobs/info/6a69d6efc63ba56308f50183?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  Clark Associates — Data Analyst
             posted Sep 28, 2026 (date only)
             Lititz, PA, United States
             https://jobright.ai/jobs/info/6aba5de0ad8589219ef7cfa5?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Publicis Digital Experience — Data Analyst
-            posted Sep 27, 2026 (date only)
-            Chicago, IL, United States
-            https://jobright.ai/jobs/info/6a7f8ce4e51a1e18a2413d21?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Target — Data Analyst - Retail Accounting
-            posted Sep 27, 2026 (date only)
-            Brooklyn Park, MN, United States
-            https://jobright.ai/jobs/info/6ab3fec87bd0813713314eb7?utm_campaign=Data%20Analysis&utm_source=1103
-
- 66  [   1h]  Chainguard — Senior Analytics Engineer
-            posted Sep 28, 2026, 12:42 PM EDT
-            United States - Remote
-            https://job-boards.greenhouse.io/chainguard/jobs/4711370006
-
- 59  [today]  Booz Allen Hamilton — Data Scientist
+ 67  [today]  Amivero — Data Analyst
             posted Sep 28, 2026 (date only)
-            Fort Meade, MD, United States
-            https://jobright.ai/jobs/info/6a9b4dd4fe45b8490f607efb?utm_campaign=Data%20Analysis&utm_source=1103
+            United States
+            https://jobright.ai/jobs/info/6a9594e1f28891320e85c91f?utm_campaign=Data%20Analysis&utm_source=1103
 
- 59  [today]  The Voleon Group — Data Scientist
-            posted Sep 27, 2026 (date only)
-            Berkeley, CA, United States
-            https://jobright.ai/jobs/info/6a2703fa7d827633afff8006?utm_campaign=Data%20Analysis&utm_source=1103
-
- 53  [today]  Nasdaq — Senior Data Scientist
+ 67  [today]  Anduril Industries — Data Analyst, Quality
             posted Sep 28, 2026 (date only)
-            USA - Boston - Massachusetts, United States of America
-            https://jobright.ai/jobs/info/6a546954d007ee02d95feaf3?utm_campaign=Data%20Analysis&utm_source=1103
-
- 48  [  <1h]  Duolingo — Senior/Software Engineer II, Android
-            posted Sep 28, 2026, 2:12 PM EDT
-            Pittsburgh, PA
-            https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002
-
- 48  [  <1h]  Duolingo — Senior/Software Engineer II, Android
-            posted Sep 28, 2026, 2:12 PM EDT
-            New York, NY
-            https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002
+            Ashville, OH, United States
+            https://jobright.ai/jobs/info/6abb152b7220f52e62aea10c?utm_campaign=Data%20Analysis&utm_source=1103
