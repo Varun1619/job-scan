@@ -1,4 +1,4 @@
-Top 15 of 33 — last 24h — Sep 29, 12:34 PM EDT
+Top 15 of 43 — last 24h — Sep 29, 12:50 PM EDT
 
  75  [  10h]  OneImaging — Associate Data Engineer
             posted Sep 29, 2026, 2:16 AM EDT
@@ -15,10 +15,25 @@ Top 15 of 33 — last 24h — Sep 29, 12:34 PM EDT
             San Francisco, CA, United States
             https://jobright.ai/jobs/info/6aa87c4a3a9f0a4fe6f19a13?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 72  [  18h]  Verkada — Software Engineer - Data Platform
+            posted Sep 28, 2026, 6:36 PM EDT
+            San Mateo, CA United States
+            https://job-boards.greenhouse.io/verkada/jobs/4129304007
+
+ 72  [  20h]  Rubrik — Cloud Platform Engineer
+            posted Sep 28, 2026, 4:30 PM EDT
+            Palo Alto, CA
+            https://www.rubrik.com/company/careers/departments/job.8209928?gh_jid=8209928
+
  70  [today]  Tech-Marine Business, Inc. (TMB) — Jr. Data Analyst
             posted Sep 29, 2026 (date only)
             Washington, DC, United States
             https://jobright.ai/jobs/info/6abbc98b7119e56191ce934c?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Hydromax USA — Data Analyst I - W
+            posted Sep 28, 2026 (date only)
+            Louisville, KY 40207, United States
+            https://jobright.ai/jobs/info/6abad205be5f1e93251178b6?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Morgan Stanley — Junior Data Analyst
             posted Sep 28, 2026 (date only)
@@ -30,47 +45,32 @@ Top 15 of 33 — last 24h — Sep 29, 12:34 PM EDT
             Austin, TX, United States | H1B 4181
             https://jobright.ai/jobs/info/6ab1593ed43eb922ca0be396?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Hydromax USA — Data Analyst I - W
-            posted Sep 28, 2026 (date only)
-            Louisville, KY 40207, United States
-            https://jobright.ai/jobs/info/6abad205be5f1e93251178b6?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Pryzm — Federal Data Analyst
+ 67  [today]  Torentify — Data Analyst - Remote Work
             posted Sep 29, 2026 (date only)
-            Boston, MA, United States
-            https://jobright.ai/jobs/info/6abbce5db23c6fb2b81a3168?utm_campaign=Data%20Analysis&utm_source=1103
+            California, MO, United States
+            https://jobright.ai/jobs/info/6abb8d66f7c0be4619eb1423?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Fusable — Data Analyst
             posted Sep 29, 2026 (date only)
             United States
             https://jobright.ai/jobs/info/6abbb487b23c6fb2b81a29a9?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Torentify — Data Analyst - Remote Work
+ 67  [today]  Pryzm — Federal Data Analyst
             posted Sep 29, 2026 (date only)
-            California, MO, United States
-            https://jobright.ai/jobs/info/6abb8d66f7c0be4619eb1423?utm_campaign=Data%20Analysis&utm_source=1103
+            Boston, MA, United States
+            https://jobright.ai/jobs/info/6abbce5db23c6fb2b81a3168?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [  10h]  Anduril — Data Analyst - Quality
             posted Sep 29, 2026, 2:20 AM EDT
             Ashville, OH
             https://boards.greenhouse.io/andurilindustries/jobs/5251234007
 
+ 67  [today]  United Airlines — Analyst - Cargo Business Intelligence
+            posted Sep 28, 2026 (date only)
+            Chicago, IL, United States
+            https://jobright.ai/jobs/info/6abaedb4be5f1e93251182fe?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  TikTok — Business Intelligence Technical Analyst - Trust and Safety
             posted Sep 28, 2026 (date only)
             San Jose, CA, United States | H1B 1800
             https://jobright.ai/jobs/info/6a69d6efc63ba56308f50183?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Clark Associates — Data Analyst
-            posted Sep 28, 2026 (date only)
-            Lititz, PA, United States
-            https://jobright.ai/jobs/info/6aba5de0ad8589219ef7cfa5?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Amivero — Data Analyst
-            posted Sep 28, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a9594e1f28891320e85c91f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Anduril Industries — Data Analyst, Quality
-            posted Sep 28, 2026 (date only)
-            Ashville, OH, United States
-            https://jobright.ai/jobs/info/6abb152b7220f52e62aea10c?utm_campaign=Data%20Analysis&utm_source=1103
