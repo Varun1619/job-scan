@@ -1,29 +1,9 @@
-Top 15 of 46 — last 24h — Sep 30, 12:44 PM EDT
-
- 79  [  20h]  Snowflake — Software Engineer - SnowConvert AI
-            posted Sep 29, 2026, 4:36 PM EDT
-            US-CA-Menlo Park | H1B 219
-            https://jobs.ashbyhq.com/snowflake/2a928b93-a5d4-4285-a92c-032fb389faa2
-
- 75  [  17h]  KEEN Footwear — Junior Analytics Engineer
-            posted Sep 29, 2026, 6:49 PM EDT
-            Portland, OR
-            https://www.keenfootwear.com/careers-list.html?4737702005&gh_jid=4737702005
-
- 75  [  18h]  Capgemini — Associate Data Engineer
-            posted Sep 29, 2026, 6:19 PM EDT
-            Philadelphia, PA, Reading, PA
-            https://careers.capgemini.com/job/Pittsburg-Associate-Data-Engineer-AR/1442511233/?ats=successfactors
+Top 15 of 30 — last 24h — Oct 1, 1:04 PM EDT
 
  72  [today]  PepsiCo — Analytics Platform Engineer
             posted Sep 30, 2026 (date only)
             New York, NY, United States
             https://jobright.ai/jobs/info/6aa0083d500b01124c77670c?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  DHL Supply Chain — Business Data Analyst II
-            posted Sep 30, 2026 (date only)
-            Rincon, GA, United States
-            https://jobright.ai/jobs/info/6abc7c88fbb3359bcc7d20e3?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  DHL Supply Chain — Business Data Analyst I
             posted Sep 30, 2026 (date only)
@@ -40,15 +20,25 @@ Top 15 of 46 — last 24h — Sep 30, 12:44 PM EDT
             United States
             https://jobright.ai/jobs/info/6aa0443a5b2d5633ef3bd8c5?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Tech-Marine Business, Inc. (TMB) — Jr. Data Analyst
-            posted Sep 29, 2026 (date only)
-            Washington, DC, United States
-            https://jobright.ai/jobs/info/6abbc98b7119e56191ce934c?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  PCS Wireless — Junior Data Analyst
+            posted Sep 30, 2026 (date only)
+            Florham Park, NJ, United States
+            https://jobright.ai/jobs/info/6abd92d7372c01f6cd7215c2?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Renaissance Learning — Data Analyst I
-            posted Sep 29, 2026 (date only)
+ 70  [today]  Hydromax USA — Data Analyst I - W
+            posted Sep 30, 2026 (date only)
+            Louisville, KY 40207, United States
+            https://jobright.ai/jobs/info/6abd75304ac55253f5d5d850?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Recidiviz — Data Analyst (Entry-Level)
+            posted Sep 30, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6abd50dd0e027c0f3b394f83?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Le'Fant LLC — Data Analyst- Junior/Mid-Level
+            posted Sep 30, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6abc71d4bf15c0ae50138e0d?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6abd75be4ac55253f5d5d876?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  New York State Office of Mental Health — Data Analyst 1
             posted Sep 30, 2026 (date only)
@@ -60,17 +50,27 @@ Top 15 of 46 — last 24h — Sep 30, 12:44 PM EDT
             North Carolina, United States
             https://jobright.ai/jobs/info/6abd02fa372c01f6cd71dd2c?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Navitus Health Solutions — Business Intelligence Developer - Navitus
-            posted Sep 29, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa93179eff87f571fc98878?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Teradyne — Business Intelligence Professional (Teradyne, North Reading, MA) Job Details / Teradyne
+            posted Sep 30, 2026 (date only)
+            North Reading, MA, United States
+            https://jobright.ai/jobs/info/6abde8e20e027c0f3b397641?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  AIG — 2027 Early Careers: Analyst, Data Office: Business Intelligence – United States, Multiple Cities
-            posted Sep 29, 2026 (date only)
-            Atlanta, GA, United States
-            https://jobright.ai/jobs/info/6abc34143217d1d13329dcfd?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  North Carolina Department of Agriculture and Consumer Services — Police Data Analyst
+            posted Sep 30, 2026 (date only)
+            Louisville, KY, United States
+            https://jobright.ai/jobs/info/6abde1f74ac55253f5d5f124?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  CACI International Inc — eDiscovery Data Analyst
-            posted Sep 29, 2026 (date only)
-            Alexandria, VA, United States
-            https://jobright.ai/jobs/info/6aba8d037220f52e62ae6d16?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  MUFG — Business Data Analyst
+            posted Sep 30, 2026 (date only)
+            Jersey City, NJ, United States
+            https://jobright.ai/jobs/info/6abda3f4372c01f6cd7218c3?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Teradyne — Business Intelligence Professional (Teradyne, North Reading, MA)
+            posted Sep 30, 2026 (date only)
+            North Reading, MA, United States
+            https://jobright.ai/jobs/info/6abd7834d9621c5b2838c61a?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 66  [  18h]  iManage — Applied AI Engineer New Grad
+            posted Sep 30, 2026, 6:18 PM EDT
+            Chicago, IL
+            https://imanagecom.applytojob.com/apply/2sEdqwy08T/Applied-AI-Engineer-New-Or-Recent-Grad
