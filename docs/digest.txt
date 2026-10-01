@@ -1,9 +1,19 @@
-Top 15 of 30 — last 24h — Oct 1, 1:04 PM EDT
+Top 15 of 47 — last 24h — Oct 1, 1:19 PM EDT
+
+ 72  [  <1h]  Elastic — Platform Engineer - Kubernetes
+            posted Oct 1, 2026, 12:57 PM EDT
+            United States | H1B 6
+            https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349
 
  72  [today]  PepsiCo — Analytics Platform Engineer
             posted Sep 30, 2026 (date only)
             New York, NY, United States
             https://jobright.ai/jobs/info/6aa0083d500b01124c77670c?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Le'Fant LLC — Data Analyst- Junior/Mid-Level
+            posted Sep 30, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6abd75be4ac55253f5d5d876?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  DHL Supply Chain — Business Data Analyst I
             posted Sep 30, 2026 (date only)
@@ -15,30 +25,30 @@ Top 15 of 30 — last 24h — Oct 1, 1:04 PM EDT
             Fontana, CA, United States | H1B 1800
             https://jobright.ai/jobs/info/6a84f9b058ded76ad8fea2ce?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Goldbelt Professional Services — Data Analyst I (SB)
+ 70  [today]  Recidiviz — Data Analyst (Entry-Level)
             posted Sep 30, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa0443a5b2d5633ef3bd8c5?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  PCS Wireless — Junior Data Analyst
-            posted Sep 30, 2026 (date only)
-            Florham Park, NJ, United States
-            https://jobright.ai/jobs/info/6abd92d7372c01f6cd7215c2?utm_campaign=Data%20Analysis&utm_source=1103
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6abd50dd0e027c0f3b394f83?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Hydromax USA — Data Analyst I - W
             posted Sep 30, 2026 (date only)
             Louisville, KY 40207, United States
             https://jobright.ai/jobs/info/6abd75304ac55253f5d5d850?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Recidiviz — Data Analyst (Entry-Level)
+ 70  [today]  PCS Wireless — Junior Data Analyst
             posted Sep 30, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6abd50dd0e027c0f3b394f83?utm_campaign=Data%20Analysis&utm_source=1103
+            Florham Park, NJ, United States
+            https://jobright.ai/jobs/info/6abd92d7372c01f6cd7215c2?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Le'Fant LLC — Data Analyst- Junior/Mid-Level
+ 70  [today]  Goldbelt Professional Services — Data Analyst I (SB)
             posted Sep 30, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6abd75be4ac55253f5d5d876?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6aa0443a5b2d5633ef3bd8c5?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Teradyne — Business Intelligence Professional (Teradyne, North Reading, MA)
+            posted Sep 30, 2026 (date only)
+            North Reading, MA, United States
+            https://jobright.ai/jobs/info/6abd7834d9621c5b2838c61a?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  New York State Office of Mental Health — Data Analyst 1
             posted Sep 30, 2026 (date only)
@@ -50,27 +60,17 @@ Top 15 of 30 — last 24h — Oct 1, 1:04 PM EDT
             North Carolina, United States
             https://jobright.ai/jobs/info/6abd02fa372c01f6cd71dd2c?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Teradyne — Business Intelligence Professional (Teradyne, North Reading, MA) Job Details / Teradyne
+ 67  [today]  MUFG — Business Data Analyst
             posted Sep 30, 2026 (date only)
-            North Reading, MA, United States
-            https://jobright.ai/jobs/info/6abde8e20e027c0f3b397641?utm_campaign=Data%20Analysis&utm_source=1103
+            Jersey City, NJ, United States
+            https://jobright.ai/jobs/info/6abda3f4372c01f6cd7218c3?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  North Carolina Department of Agriculture and Consumer Services — Police Data Analyst
             posted Sep 30, 2026 (date only)
             Louisville, KY, United States
             https://jobright.ai/jobs/info/6abde1f74ac55253f5d5f124?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  MUFG — Business Data Analyst
-            posted Sep 30, 2026 (date only)
-            Jersey City, NJ, United States
-            https://jobright.ai/jobs/info/6abda3f4372c01f6cd7218c3?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Teradyne — Business Intelligence Professional (Teradyne, North Reading, MA)
+ 67  [today]  Teradyne — Business Intelligence Professional (Teradyne, North Reading, MA) Job Details / Teradyne
             posted Sep 30, 2026 (date only)
             North Reading, MA, United States
-            https://jobright.ai/jobs/info/6abd7834d9621c5b2838c61a?utm_campaign=Data%20Analysis&utm_source=1103
-
- 66  [  18h]  iManage — Applied AI Engineer New Grad
-            posted Sep 30, 2026, 6:18 PM EDT
-            Chicago, IL
-            https://imanagecom.applytojob.com/apply/2sEdqwy08T/Applied-AI-Engineer-New-Or-Recent-Grad
+            https://jobright.ai/jobs/info/6abde8e20e027c0f3b397641?utm_campaign=Data%20Analysis&utm_source=1103
