@@ -1,4 +1,14 @@
-Top 15 of 30 — last 24h — Oct 2, 12:18 PM EDT
+Top 15 of 39 — last 24h — Oct 2, 12:33 PM EDT
+
+ 86  [  16h]  Snowflake — Business Intelligence Analyst
+            posted Oct 1, 2026, 7:48 PM EDT
+            US-CA-Menlo Park | H1B 219
+            https://jobs.ashbyhq.com/snowflake/4557ced6-d472-45c7-ab02-15c2024e8936
+
+ 74  [  21h]  Snowflake — Senior AI Engineer, Enterprise
+            posted Oct 1, 2026, 2:51 PM EDT
+            US-CA-Menlo Park | H1B 219
+            https://jobs.ashbyhq.com/snowflake/c055c3da-4924-4e63-bcd2-bef2b2710db8
 
  72  [  23h]  Elastic — Platform Engineer - Kubernetes
             posted Oct 1, 2026, 12:57 PM EDT
@@ -15,6 +25,11 @@ Top 15 of 30 — last 24h — Oct 2, 12:18 PM EDT
             Chicago, IL, United States
             https://jobright.ai/jobs/info/6ab59b84c6fe0dec811a2895?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 70  [today]  American Red Cross — Data Analyst I BI, Supply Management * Work from home
+            posted Oct 1, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6abec0e98ff3fb9b3bc75880?utm_campaign=Data%20Analysis&utm_source=1103
+
  70  [today]  Navy Federal Credit Union — Summer Associate (Business Intelligence & Data Analytics)
             posted Oct 1, 2026 (date only)
             Pensacola, FL, United States
@@ -29,16 +44,6 @@ Top 15 of 30 — last 24h — Oct 2, 12:18 PM EDT
             posted Oct 1, 2026 (date only)
             New York, NY, United States
             https://jobright.ai/jobs/info/6abf1076372c01f6cd7271d1?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  American Red Cross — Data Analyst I BI, Supply Management * Work from home
-            posted Oct 1, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6abec0e98ff3fb9b3bc75880?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Navitus Health Solutions — Business Intelligence Developer - Navitus
-            posted Oct 2, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa3b9544238ea18d430dba7?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Torentify — Virtual Data Analyst - Full Time
             posted Oct 2, 2026 (date only)
@@ -55,22 +60,17 @@ Top 15 of 30 — last 24h — Oct 2, 12:18 PM EDT
             Menlo Park, CA, United States | H1B 219
             https://jobright.ai/jobs/info/6abf0b44d9621c5b28392d20?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Hunter Strategy — Data Analyst
-            posted Oct 1, 2026 (date only)
+ 67  [today]  Navitus Health Solutions — Business Intelligence Developer - Navitus
+            posted Oct 2, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6a87573025fc4e7ae3dacaea?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Electronic Arts (EA) — Data Analyst (Ads & Sponsorships)
-            posted Oct 1, 2026 (date only)
-            Kirkland, WA, United States
-            https://jobright.ai/jobs/info/6abee1874ac55253f5d63657?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Pinnacle Treatment Centers, Inc. — Business Intelligence (BI) Analyst
-            posted Oct 1, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6abed86e0e027c0f3b39b5d1?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6aa3b9544238ea18d430dba7?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  ECS — Data Analyst - GEOINT SME
             posted Oct 1, 2026 (date only)
             Wright-Patterson Air Force Base, Dayton, OH 45433, United States
             https://jobright.ai/jobs/info/6abec7ce0e027c0f3b39af68?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Electronic Arts (EA) — Data Analyst (Ads & Sponsorships)
+            posted Oct 1, 2026 (date only)
+            Kirkland, WA, United States
+            https://jobright.ai/jobs/info/6abee1874ac55253f5d63657?utm_campaign=Data%20Analysis&utm_source=1103
