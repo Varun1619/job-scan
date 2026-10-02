@@ -1,76 +1,76 @@
-Top 15 of 47 — last 24h — Oct 1, 1:19 PM EDT
+Top 15 of 30 — last 24h — Oct 2, 12:18 PM EDT
 
- 72  [  <1h]  Elastic — Platform Engineer - Kubernetes
+ 72  [  23h]  Elastic — Platform Engineer - Kubernetes
             posted Oct 1, 2026, 12:57 PM EDT
             United States | H1B 6
             https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349
 
- 72  [today]  PepsiCo — Analytics Platform Engineer
-            posted Sep 30, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6aa0083d500b01124c77670c?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [   2h]  L3Harris Technologies — Senior Associate, Business Intelligence Analyst
+            posted Oct 2, 2026, 10:07 AM EDT
+            Palm Bay, FL
+            https://jobs.l3harris.com/job/Palm-Bay-Senior-Associate,-Business-Intel-Analyst-FL-32905/1436168100/?ats=successfactors
 
- 70  [today]  Le'Fant LLC — Data Analyst- Junior/Mid-Level
-            posted Sep 30, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6abd75be4ac55253f5d5d876?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  NORC at the University of Chicago — SAS Data Analyst I or II – Health Data Research
+            posted Oct 1, 2026 (date only)
+            Chicago, IL, United States
+            https://jobright.ai/jobs/info/6ab59b84c6fe0dec811a2895?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  DHL Supply Chain — Business Data Analyst I
-            posted Sep 30, 2026 (date only)
-            Northlake, TX, United States
-            https://jobright.ai/jobs/info/6a6da29066158d7ef887e55c?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  TikTok — Data Analyst Graduate (Supply Chain and Logistics- Fulfillment Centers Operations) - 2027 Start
-            posted Sep 30, 2026 (date only)
-            Fontana, CA, United States | H1B 1800
-            https://jobright.ai/jobs/info/6a84f9b058ded76ad8fea2ce?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Recidiviz — Data Analyst (Entry-Level)
-            posted Sep 30, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6abd50dd0e027c0f3b394f83?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Hydromax USA — Data Analyst I - W
-            posted Sep 30, 2026 (date only)
-            Louisville, KY 40207, United States
-            https://jobright.ai/jobs/info/6abd75304ac55253f5d5d850?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  Navy Federal Credit Union — Summer Associate (Business Intelligence & Data Analytics)
+            posted Oct 1, 2026 (date only)
+            Pensacola, FL, United States
+            https://jobright.ai/jobs/info/6aa1632eef23570cae2439e1?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  PCS Wireless — Junior Data Analyst
-            posted Sep 30, 2026 (date only)
+            posted Oct 1, 2026 (date only)
             Florham Park, NJ, United States
             https://jobright.ai/jobs/info/6abd92d7372c01f6cd7215c2?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Goldbelt Professional Services — Data Analyst I (SB)
-            posted Sep 30, 2026 (date only)
+ 70  [today]  SeatGeek — Data Analyst - New Grad
+            posted Oct 1, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6abf1076372c01f6cd7271d1?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  American Red Cross — Data Analyst I BI, Supply Management * Work from home
+            posted Oct 1, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6aa0443a5b2d5633ef3bd8c5?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6abec0e98ff3fb9b3bc75880?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Teradyne — Business Intelligence Professional (Teradyne, North Reading, MA)
-            posted Sep 30, 2026 (date only)
-            North Reading, MA, United States
-            https://jobright.ai/jobs/info/6abd7834d9621c5b2838c61a?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Navitus Health Solutions — Business Intelligence Developer - Navitus
+            posted Oct 2, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6aa3b9544238ea18d430dba7?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  New York State Office of Mental Health — Data Analyst 1
-            posted Sep 30, 2026 (date only)
-            Albany, NY, United States
-            https://jobright.ai/jobs/info/6abd07f7064da25272dfb0e7?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Torentify — Virtual Data Analyst - Full Time
+            posted Oct 2, 2026 (date only)
+            Florida, United States
+            https://jobright.ai/jobs/info/6abfbc2c372c01f6cd72873c?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Carolina Population Center — Data-Driven EnviroLab Temporary Research Specialist/Data Analyst
-            posted Sep 30, 2026 (date only)
-            North Carolina, United States
-            https://jobright.ai/jobs/info/6abd02fa372c01f6cd71dd2c?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Torentify — Data Analyst - Work From Home
+            posted Oct 2, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6abfb08f064da25272e057a0?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  MUFG — Business Data Analyst
-            posted Sep 30, 2026 (date only)
-            Jersey City, NJ, United States
-            https://jobright.ai/jobs/info/6abda3f4372c01f6cd7218c3?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Snowflake — Business Intelligence Analyst
+            posted Oct 2, 2026 (date only)
+            Menlo Park, CA, United States | H1B 219
+            https://jobright.ai/jobs/info/6abf0b44d9621c5b28392d20?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  North Carolina Department of Agriculture and Consumer Services — Police Data Analyst
-            posted Sep 30, 2026 (date only)
-            Louisville, KY, United States
-            https://jobright.ai/jobs/info/6abde1f74ac55253f5d5f124?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Hunter Strategy — Data Analyst
+            posted Oct 1, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6a87573025fc4e7ae3dacaea?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Teradyne — Business Intelligence Professional (Teradyne, North Reading, MA) Job Details / Teradyne
-            posted Sep 30, 2026 (date only)
-            North Reading, MA, United States
-            https://jobright.ai/jobs/info/6abde8e20e027c0f3b397641?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Electronic Arts (EA) — Data Analyst (Ads & Sponsorships)
+            posted Oct 1, 2026 (date only)
+            Kirkland, WA, United States
+            https://jobright.ai/jobs/info/6abee1874ac55253f5d63657?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Pinnacle Treatment Centers, Inc. — Business Intelligence (BI) Analyst
+            posted Oct 1, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6abed86e0e027c0f3b39b5d1?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  ECS — Data Analyst - GEOINT SME
+            posted Oct 1, 2026 (date only)
+            Wright-Patterson Air Force Base, Dayton, OH 45433, United States
+            https://jobright.ai/jobs/info/6abec7ce0e027c0f3b39af68?utm_campaign=Data%20Analysis&utm_source=1103
