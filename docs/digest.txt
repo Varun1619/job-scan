@@ -1,49 +1,64 @@
-Top 15 of 39 — last 24h — Oct 2, 12:33 PM EDT
-
- 86  [  16h]  Snowflake — Business Intelligence Analyst
-            posted Oct 1, 2026, 7:48 PM EDT
-            US-CA-Menlo Park | H1B 219
-            https://jobs.ashbyhq.com/snowflake/4557ced6-d472-45c7-ab02-15c2024e8936
-
- 74  [  21h]  Snowflake — Senior AI Engineer, Enterprise
-            posted Oct 1, 2026, 2:51 PM EDT
-            US-CA-Menlo Park | H1B 219
-            https://jobs.ashbyhq.com/snowflake/c055c3da-4924-4e63-bcd2-bef2b2710db8
-
- 72  [  23h]  Elastic — Platform Engineer - Kubernetes
-            posted Oct 1, 2026, 12:57 PM EDT
-            United States | H1B 6
-            https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349
-
- 70  [   2h]  L3Harris Technologies — Senior Associate, Business Intelligence Analyst
-            posted Oct 2, 2026, 10:07 AM EDT
-            Palm Bay, FL
-            https://jobs.l3harris.com/job/Palm-Bay-Senior-Associate,-Business-Intel-Analyst-FL-32905/1436168100/?ats=successfactors
+Top 15 of 32 — last 24h — Oct 3, 10:46 AM EDT
 
  70  [today]  NORC at the University of Chicago — SAS Data Analyst I or II – Health Data Research
-            posted Oct 1, 2026 (date only)
+            posted Oct 2, 2026 (date only)
             Chicago, IL, United States
             https://jobright.ai/jobs/info/6ab59b84c6fe0dec811a2895?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  American Red Cross — Data Analyst I BI, Supply Management * Work from home
-            posted Oct 1, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6abec0e98ff3fb9b3bc75880?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  DHL Supply Chain — Business Data Analyst II
+            posted Oct 2, 2026 (date only)
+            Westerville, OH, United States
+            https://jobright.ai/jobs/info/6aad34932e757fcb5c8b72e6?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Navy Federal Credit Union — Summer Associate (Business Intelligence & Data Analytics)
-            posted Oct 1, 2026 (date only)
-            Pensacola, FL, United States
-            https://jobright.ai/jobs/info/6aa1632eef23570cae2439e1?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Target — Data Analyst - Guest & Household Insights
+            posted Oct 3, 2026 (date only)
+            Minneapolis, MN, United States
+            https://jobright.ai/jobs/info/6abfedead9621c5b283954e2?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  PCS Wireless — Junior Data Analyst
-            posted Oct 1, 2026 (date only)
-            Florham Park, NJ, United States
-            https://jobright.ai/jobs/info/6abd92d7372c01f6cd7215c2?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  DRW — Data Analyst, Exploration
+            posted Oct 2, 2026 (date only)
+            Chicago, IL, United States
+            https://jobright.ai/jobs/info/6aada20c3dbb1f8967ceeaf8?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  SeatGeek — Data Analyst - New Grad
-            posted Oct 1, 2026 (date only)
+ 67  [today]  Snowflake — Business Intelligence Analyst
+            posted Oct 2, 2026 (date only)
+            Menlo Park, CA, United States | H1B 219
+            https://jobright.ai/jobs/info/6abf0b44d9621c5b28392d20?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Electronic Arts (EA) — Data Analyst (Ads & Sponsorships)
+            posted Oct 2, 2026 (date only)
+            Kirkland, WA, United States
+            https://jobright.ai/jobs/info/6abee1874ac55253f5d63657?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Amazon — Business Intelligence Engineer, WWPS Reporting and Analytics Center of Excellence (RACE)
+            posted Oct 2, 2026 (date only)
+            Arlington, VA, United States | H1B 15524
+            https://jobright.ai/jobs/info/6a870ab625fc4e7ae3daae92?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Tekmerion Capital Management, LP — Data Analyst
+            posted Oct 2, 2026 (date only)
             New York, NY, United States
-            https://jobright.ai/jobs/info/6abf1076372c01f6cd7271d1?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6a88c5a6e8b6601d12908a6b?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  AlohaCare — Data Analyst
+            posted Oct 2, 2026 (date only)
+            Honolulu, HI, United States
+            https://jobright.ai/jobs/info/6ac081d80e027c0f3b3a1623?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Rockline Industries, people who make it right — Supply Chain BI Analyst
+            posted Oct 2, 2026 (date only)
+            Springdale, AR, United States
+            https://jobright.ai/jobs/info/6ac01cd24ac55253f5d67ae7?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Gundersen Health System — Business Intelligence Developer / Finance
+            posted Oct 2, 2026 (date only)
+            Onalaska, WI, United States
+            https://jobright.ai/jobs/info/6ac00f268ff3fb9b3bc7a6c6?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Navitus Health Solutions — Business Intelligence Developer - Navitus
+            posted Oct 2, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6aa381925c11cce3603645c9?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Torentify — Virtual Data Analyst - Full Time
             posted Oct 2, 2026 (date only)
@@ -55,22 +70,7 @@ Top 15 of 39 — last 24h — Oct 2, 12:33 PM EDT
             United States
             https://jobright.ai/jobs/info/6abfb08f064da25272e057a0?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Snowflake — Business Intelligence Analyst
-            posted Oct 2, 2026 (date only)
-            Menlo Park, CA, United States | H1B 219
-            https://jobright.ai/jobs/info/6abf0b44d9621c5b28392d20?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  Navitus Health Solutions — Business Intelligence Developer - Navitus
             posted Oct 2, 2026 (date only)
             United States
             https://jobright.ai/jobs/info/6aa3b9544238ea18d430dba7?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  ECS — Data Analyst - GEOINT SME
-            posted Oct 1, 2026 (date only)
-            Wright-Patterson Air Force Base, Dayton, OH 45433, United States
-            https://jobright.ai/jobs/info/6abec7ce0e027c0f3b39af68?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Electronic Arts (EA) — Data Analyst (Ads & Sponsorships)
-            posted Oct 1, 2026 (date only)
-            Kirkland, WA, United States
-            https://jobright.ai/jobs/info/6abee1874ac55253f5d63657?utm_campaign=Data%20Analysis&utm_source=1103
