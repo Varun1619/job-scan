@@ -1,9 +1,19 @@
-Top 15 of 28 — last 24h — Oct 6, 12:52 PM EDT
+Top 15 of 34 — last 24h — Oct 6, 1:05 PM EDT
 
- 75  [  18h]  Atlassian — Data Engineer New Grad
+ 75  [  19h]  Atlassian — Data Engineer New Grad
             posted Oct 5, 2026, 6:03 PM EDT
             Seattle, WA
             https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job
+
+ 72  [  16h]  Elastic — Analytics Engineer, HR Analytics
+            posted Oct 5, 2026, 8:51 PM EDT
+            United States | H1B 6
+            https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449
+
+ 70  [today]  Fidelity Investments — Associate Investment Data Analyst
+            posted Oct 6, 2026 (date only)
+            Greenwood Village, CO, United States
+            https://jobright.ai/jobs/info/6ac509438ff3fb9b3bc872ac?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Steampunk, Inc. — Junior Data Analyst- UTEP
             posted Oct 6, 2026 (date only)
@@ -14,11 +24,6 @@ Top 15 of 28 — last 24h — Oct 6, 12:52 PM EDT
             posted Oct 6, 2026 (date only)
             El Paso, TX, United States
             https://jobright.ai/jobs/info/6ac50ad84ac55253f5d741a4?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Fidelity Investments — Associate Investment Data Analyst
-            posted Oct 6, 2026 (date only)
-            Greenwood Village, CO, United States
-            https://jobright.ai/jobs/info/6ac509438ff3fb9b3bc872ac?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [  10h]  Astera Labs — Data Analyst New Grad
             posted Oct 6, 2026, 2:17 AM EDT
@@ -40,10 +45,20 @@ Top 15 of 28 — last 24h — Oct 6, 12:52 PM EDT
             Oakland, CA
             https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7278
 
+ 67  [today]  Fetch Pet Insurance — Business Intelligence Analyst
+            posted Oct 5, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6ac3e284d9621c5b2839e681?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  Instacart — Data Analyst, Platform Excellence Ops Analytics
             posted Oct 5, 2026 (date only)
             United States
             https://jobright.ai/jobs/info/6ac006d00e027c0f3b39f656?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  ScoutBetter — Data Analyst(mouhamedzz)
+            posted Oct 5, 2026 (date only)
+            Ashville, OH, United States
+            https://jobright.ai/jobs/info/6ac40a750e027c0f3b3a8e01?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Electronic Arts (EA) — Data Analyst (Ads & Sponsorships)
             posted Oct 5, 2026 (date only)
@@ -55,22 +70,7 @@ Top 15 of 28 — last 24h — Oct 6, 12:52 PM EDT
             Arizona, United States
             https://jobright.ai/jobs/info/6ac429f14ac55253f5d714cb?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  ScoutBetter — Data Analyst(mouhamedzz)
-            posted Oct 5, 2026 (date only)
-            Ashville, OH, United States
-            https://jobright.ai/jobs/info/6ac40a750e027c0f3b3a8e01?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Fetch Pet Insurance — Business Intelligence Analyst
-            posted Oct 5, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6ac3e284d9621c5b2839e681?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [  10h]  Mayo Clinic — Limited Tenure Associate Data Scientist Analyst - Dr. Helgeson Lab
-            posted Oct 6, 2026, 2:15 AM EDT
-            Jacksonville, FL
-            https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392455
-
- 63  [today]  Mayo Clinic — Limited Tenure Associate Data Scientist Analyst - Dr. Helgeson Lab
-            posted Oct 5, 2026 (date only)
-            Jacksonville, FL, United States
-            https://jobright.ai/jobs/info/6ac423db372c01f6cd7342c2?utm_campaign=Data%20Analysis&utm_source=1103
+ 66  [  23h]  Gusto — Senior Data Engineer
+            posted Oct 5, 2026, 1:22 PM EDT
+            Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid
+            https://job-boards.greenhouse.io/gusto/jobs/8099751
