@@ -1,76 +1,76 @@
-Top 15 of 34 — last 24h — Oct 6, 1:05 PM EDT
+Top 15 of 31 — last 24h — Oct 7, 1:28 PM EDT
 
- 75  [  19h]  Atlassian — Data Engineer New Grad
-            posted Oct 5, 2026, 6:03 PM EDT
-            Seattle, WA
-            https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job
-
- 72  [  16h]  Elastic — Analytics Engineer, HR Analytics
-            posted Oct 5, 2026, 8:51 PM EDT
-            United States | H1B 6
-            https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449
-
- 70  [today]  Fidelity Investments — Associate Investment Data Analyst
-            posted Oct 6, 2026 (date only)
-            Greenwood Village, CO, United States
-            https://jobright.ai/jobs/info/6ac509438ff3fb9b3bc872ac?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  RigUp — Data Analyst I - Scanner/Indexer
+            posted Oct 7, 2026 (date only)
+            Spring, TX, United States
+            https://jobright.ai/jobs/info/6ac65a0c372c01f6cd73cb60?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Steampunk, Inc. — Junior Data Analyst- UTEP
             posted Oct 6, 2026 (date only)
             El Paso, TX, United States
             https://jobright.ai/jobs/info/6aa173bf0ffb3d4fea6b4cb1?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Steampunk, Inc. — Junior Data Analyst
+ 70  [today]  Goldbelt Professional Services — Data Analyst I (SB)
             posted Oct 6, 2026 (date only)
-            El Paso, TX, United States
-            https://jobright.ai/jobs/info/6ac50ad84ac55253f5d741a4?utm_campaign=Data%20Analysis&utm_source=1103
+            United States
+            https://jobright.ai/jobs/info/6aa0443a5b2d5633ef3bd8c5?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [  10h]  Astera Labs — Data Analyst New Grad
-            posted Oct 6, 2026, 2:17 AM EDT
-            San Jose, CA
-            https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005
-
- 70  [today]  Gupta Media — Data Analyst I
-            posted Oct 5, 2026 (date only)
-            Boston, MA, United States
-            https://jobright.ai/jobs/info/6a7b5195ecfd2977075382c4?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Prestige Consumer Healthcare — Data Analyst
+ 70  [today]  Tech Jobs for Good — Data Analyst (Entry-Level)
             posted Oct 6, 2026 (date only)
-            Lynchburg, VA, United States
-            https://jobright.ai/jobs/info/6ac4e8e7064da25272e13cb6?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [  10h]  UCSF — Research Data Analyst 1
-            posted Oct 6, 2026, 2:14 AM EDT
-            Oakland, CA
-            https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7278
-
- 67  [today]  Fetch Pet Insurance — Business Intelligence Analyst
-            posted Oct 5, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6ac3e284d9621c5b2839e681?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6ac5c3b68ff3fb9b3bc8b192?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Instacart — Data Analyst, Platform Excellence Ops Analytics
-            posted Oct 5, 2026 (date only)
+ 70  [today]  Fortitude Re — Associate, End User Services Data Analyst
+            posted Oct 6, 2026 (date only)
+            Nashville, TN, United States
+            https://jobright.ai/jobs/info/6ac542a40e027c0f3b3add05?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Leaf Home — Data Analyst I
+            posted Oct 6, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6ac006d00e027c0f3b39f656?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6ab2a9a030340229a322ed36?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  ScoutBetter — Data Analyst(mouhamedzz)
-            posted Oct 5, 2026 (date only)
-            Ashville, OH, United States
-            https://jobright.ai/jobs/info/6ac40a750e027c0f3b3a8e01?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Tactile Medical — Business Intelligence Analyst
+            posted Oct 7, 2026 (date only)
+            Minneapolis, MN, United States
+            https://jobright.ai/jobs/info/6a8df5d8a5639a4810328b9a?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Electronic Arts (EA) — Data Analyst (Ads & Sponsorships)
-            posted Oct 5, 2026 (date only)
-            Kirkland, WA, United States
-            https://jobright.ai/jobs/info/6abee1874ac55253f5d63657?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Canoe Intelligence — Data Analyst, Private Markets
+            posted Oct 7, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6ac63ea9372c01f6cd73c290?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Tower Research Capital — Data Analyst
+            posted Oct 6, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6ab2983a1508734c1530a76b?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Gotion Inc. — Data Analyst
+            posted Oct 6, 2026 (date only)
+            Manteno, IL, United States
+            https://jobright.ai/jobs/info/6a51b48357513b72e0c664ca?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  CVS Health — Reporting Analyst
-            posted Oct 5, 2026 (date only)
+            posted Oct 6, 2026 (date only)
             Arizona, United States
             https://jobright.ai/jobs/info/6ac429f14ac55253f5d714cb?utm_campaign=Data%20Analysis&utm_source=1103
 
- 66  [  23h]  Gusto — Senior Data Engineer
-            posted Oct 5, 2026, 1:22 PM EDT
-            Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid
-            https://job-boards.greenhouse.io/gusto/jobs/8099751
+ 67  [today]  Fulcrum Digital Inc — Business Intelligence Analyst
+            posted Oct 6, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6ac645fe372c01f6cd73c3fc?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Wilson Elser — Data Analyst
+            posted Oct 6, 2026 (date only)
+            Dallas, TX, United States
+            https://jobright.ai/jobs/info/6ac5335f4ac55253f5d7528c?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Torentify — Data Analyst - Remote
+            posted Oct 6, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6ac51e5f4ac55253f5d74918?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [  19h]  General Dynamics — Configuration and Logistics Data Analyst 1 - Multiple Teams
+            posted Oct 6, 2026, 6:22 PM EDT
+            Brunswick, ME
+            https://careers-gdbiw.icims.com/jobs/5403/job?mobile=true&needsRedirect=false
