@@ -1,4 +1,4 @@
-Top 15 of 41 — last 24h — Oct 9, 1:06 PM EDT
+Top 15 of 43 — last 24h — Oct 9, 1:23 PM EDT
 
  75  [  18h]  66 Degrees — Associate Data Engineer - Gradient Specialist
             posted Oct 8, 2026, 6:28 PM EDT
@@ -35,6 +35,11 @@ Top 15 of 41 — last 24h — Oct 9, 1:06 PM EDT
             United States
             https://jobright.ai/jobs/info/6ac006d00e027c0f3b39f656?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [today]  STERIS — Quality Analytics Analyst
+            posted Oct 8, 2026 (date only)
+            Mentor, OH, United States
+            https://jobright.ai/jobs/info/6ac801d7fcdafb60c6a4722a?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  DaVita Kidney Care — Analytics and Reporting Analyst (IKC)
             posted Oct 8, 2026 (date only)
             California, United States
@@ -45,32 +50,27 @@ Top 15 of 41 — last 24h — Oct 9, 1:06 PM EDT
             New York, NY, United States
             https://jobright.ai/jobs/info/6ab2983a1508734c1530a76b?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Freddie Mac — Single Family Data Analyst
+ 67  [today]  Delta Air Lines — Delta Vacations - Business Intelligence Analyst
             posted Oct 8, 2026 (date only)
-            McLean, VA, United States
-            https://jobright.ai/jobs/info/6a84ac5a2f4f0014cae221a8?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  APTNEXUS — Business Data Analyst
-            posted Oct 8, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6ac6d073372c01f6cd73f588?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Navitus Health Solutions — Business Intelligence Developer - Navitus
-            posted Oct 8, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa381925c11cce3603645c9?utm_campaign=Data%20Analysis&utm_source=1103
+            Minot, ND, United States
+            https://jobright.ai/jobs/info/6ac7e431a444ac5d36f867b2?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Command Holdings, a Pequot Company — Data Analyst - Administrative
             posted Oct 8, 2026 (date only)
             Fort Worth, TX, United States
             https://jobright.ai/jobs/info/6ac83017a444ac5d36f88031?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  STERIS — Quality Analytics Analyst
+ 67  [today]  Command Holdings, a Pequot Company — Data Analyst - Operations Management (DEA)
             posted Oct 8, 2026 (date only)
-            Mentor, OH, United States
-            https://jobright.ai/jobs/info/6ac801d7fcdafb60c6a4722a?utm_campaign=Data%20Analysis&utm_source=1103
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6ac7bf8d44d6e65604a03f5f?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  A Full Renovation – Project Services — Data Analyst
+ 67  [today]  Freddie Mac — Single Family Data Analyst
             posted Oct 8, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6ac8150dfcdafb60c6a477b0?utm_campaign=Data%20Analysis&utm_source=1103
+            McLean, VA, United States
+            https://jobright.ai/jobs/info/6a84ac5a2f4f0014cae221a8?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  AlTi Tiedemann Global — Data Operations and Reporting Analyst
+            posted Oct 8, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6aa49e9fc1928370a285eb6d?utm_campaign=Data%20Analysis&utm_source=1103
