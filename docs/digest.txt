@@ -1,29 +1,39 @@
-Top 15 of 37 — last 24h — Oct 8, 1:47 PM EDT
+Top 15 of 41 — last 24h — Oct 9, 1:06 PM EDT
+
+ 75  [  18h]  66 Degrees — Associate Data Engineer - Gradient Specialist
+            posted Oct 8, 2026, 6:28 PM EDT
+            Chicago, IL
+            https://job-boards.greenhouse.io/66degrees/jobs/6220280004
+
+ 72  [  18h]  Veryable — Data Engineer
+            posted Oct 8, 2026, 6:34 PM EDT
+            Dallas, TX
+            https://ats.rippling.com/veryable-careers/jobs/71ecdaea-d356-46b0-9b5e-1325cadb0a48
+
+ 70  [today]  Employment Development Department — RESEARCH DATA ANALYST II
+            posted Oct 8, 2026 (date only)
+            Sacramento, CA, United States
+            https://jobright.ai/jobs/info/6ac7bbfd44d6e65604a03de3?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Legend Biotech — Associate CMC Process Data Analyst
             posted Oct 8, 2026 (date only)
             Raritan, NJ, United States
             https://jobright.ai/jobs/info/6ac7b0c2a444ac5d36f853bf?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Goldbelt, Incorporated — Data Analyst I (ERIB)
-            posted Oct 7, 2026 (date only)
-            Massachusetts, United States
-            https://jobright.ai/jobs/info/6ac6937d0e027c0f3b3b332c?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Navitus Health Solutions — Business Intelligence Developer - Navitus
+            posted Oct 9, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6aa3b9544238ea18d430dba7?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Cisco — Data Analyst I (Full Time) - United States
-            posted Oct 7, 2026 (date only)
-            San Jose, CA, United States | H1B 1249
-            https://jobright.ai/jobs/info/6ac694d8064da25272e1b423?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Unum — Assoc Business Intelligence Analyst
+            posted Oct 9, 2026 (date only)
+            Chattanooga, TN, United States
+            https://jobright.ai/jobs/info/6ac902e3fcdafb60c6a4a437?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Goldbelt Professional Services — Data Analyst I (ERIB)
-            posted Oct 7, 2026 (date only)
-            Massachusetts, United States
-            https://jobright.ai/jobs/info/6ac6aac88ff3fb9b3bc8e744?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  RigUp — Data Analyst I - Scanner/Indexer
-            posted Oct 7, 2026 (date only)
-            Spring, TX, United States
-            https://jobright.ai/jobs/info/6ac65a0c372c01f6cd73cb60?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Instacart — Data Analyst, Platform Excellence Ops Analytics
+            posted Oct 8, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6ac006d00e027c0f3b39f656?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  DaVita Kidney Care — Analytics and Reporting Analyst (IKC)
             posted Oct 8, 2026 (date only)
@@ -45,32 +55,22 @@ Top 15 of 37 — last 24h — Oct 8, 1:47 PM EDT
             United States
             https://jobright.ai/jobs/info/6ac6d073372c01f6cd73f588?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Texas Association of School Boards — RM Business Intelligence Analyst
+ 67  [today]  Navitus Health Solutions — Business Intelligence Developer - Navitus
             posted Oct 8, 2026 (date only)
-            Austin, TX, United States
-            https://jobright.ai/jobs/info/6ab5c9884873fd3fd852bd34?utm_campaign=Data%20Analysis&utm_source=1103
+            United States
+            https://jobright.ai/jobs/info/6aa381925c11cce3603645c9?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Stanford University — Research Data Analyst (12-Month Fixed-Term)
-            posted Oct 7, 2026 (date only)
-            Stanford, CA, United States
-            https://jobright.ai/jobs/info/6a6920cab22f1b56a602ae49?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Command Holdings, a Pequot Company — Data Analyst - Administrative
+            posted Oct 8, 2026 (date only)
+            Fort Worth, TX, United States
+            https://jobright.ai/jobs/info/6ac83017a444ac5d36f88031?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Tetra Tech — Data Analyst
-            posted Oct 7, 2026 (date only)
-            Washington, DC, United States
-            https://jobright.ai/jobs/info/6abea3760e027c0f3b399e7a?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  STERIS — Quality Analytics Analyst
+            posted Oct 8, 2026 (date only)
+            Mentor, OH, United States
+            https://jobright.ai/jobs/info/6ac801d7fcdafb60c6a4722a?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Tactile Medical — Business Intelligence Analyst
-            posted Oct 7, 2026 (date only)
-            Minneapolis, MN, United States
-            https://jobright.ai/jobs/info/6a8df5d8a5639a4810328b9a?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Amazon — Business Intelligence Engineer, WWPS Reporting and Analytics Center of Excellence (RACE)
-            posted Oct 7, 2026 (date only)
-            Arlington, VA, United States | H1B 15524
-            https://jobright.ai/jobs/info/6a870ab625fc4e7ae3daae92?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Canoe Intelligence — Data Analyst, Private Markets
-            posted Oct 7, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6ac63ea9372c01f6cd73c290?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  A Full Renovation – Project Services — Data Analyst
+            posted Oct 8, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6ac8150dfcdafb60c6a477b0?utm_campaign=Data%20Analysis&utm_source=1103
