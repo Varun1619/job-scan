@@ -1,24 +1,69 @@
-Top 15 of 43 — last 24h — Oct 9, 1:23 PM EDT
+Top 15 of 33 — last 24h — Oct 10, 11:54 AM EDT
 
- 75  [  18h]  66 Degrees — Associate Data Engineer - Gradient Specialist
-            posted Oct 8, 2026, 6:28 PM EDT
-            Chicago, IL
-            https://job-boards.greenhouse.io/66degrees/jobs/6220280004
+ 75  [  17h]  Circle Logistics — Entry Level Data Engineer
+            posted Oct 9, 2026, 6:12 PM EDT
+            Fort Wayne, IN
+            https://jobs.smartrecruiters.com/CircleLogistics1/3743990016023696
 
- 72  [  18h]  Veryable — Data Engineer
-            posted Oct 8, 2026, 6:34 PM EDT
-            Dallas, TX
-            https://ats.rippling.com/veryable-careers/jobs/71ecdaea-d356-46b0-9b5e-1325cadb0a48
+ 72  [today]  City and County of San Francisco — Data Analytics Engineer (Snowflake/DBT) (1042) - Controller's Office - (168329)
+            posted Oct 9, 2026 (date only)
+            San Francisco, CA, United States
+            https://jobright.ai/jobs/info/6ab700a1d7fde2c08ec8a7b4?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Employment Development Department — RESEARCH DATA ANALYST II
-            posted Oct 8, 2026 (date only)
-            Sacramento, CA, United States
-            https://jobright.ai/jobs/info/6ac7bbfd44d6e65604a03de3?utm_campaign=Data%20Analysis&utm_source=1103
+ 72  [  17h]  America's Tire — Data Engineer 1
+            posted Oct 9, 2026, 6:19 PM EDT
+            South Bend, IN
+            https://discounttire.jibeapply.com/jobs/19242?icims=1
 
- 70  [today]  Legend Biotech — Associate CMC Process Data Analyst
-            posted Oct 8, 2026 (date only)
-            Raritan, NJ, United States
-            https://jobright.ai/jobs/info/6ac7b0c2a444ac5d36f853bf?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  Shiseido — Data Analyst I, Master Data
+            posted Oct 10, 2026 (date only)
+            East Windsor, NJ, United States
+            https://jobright.ai/jobs/info/6aa9b01aeff87f571fc9aa98?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  IBM — Reporting Analyst Entry Level 2027
+            posted Oct 10, 2026 (date only)
+            Poughkeepsie, New York, United States | H1B 1000
+            https://jobright.ai/jobs/info/6aa463a51d92e2d05d114968?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Cisco — Data Analyst I (Full Time) - United States
+            posted Oct 9, 2026 (date only)
+            San Jose, CA, United States | H1B 1249
+            https://jobright.ai/jobs/info/6ac694d8064da25272e1b423?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Sparks Wiz Limited — Junior Data Analyst
+            posted Oct 9, 2026 (date only)
+            Los Angeles, CA, United States
+            https://jobright.ai/jobs/info/6a5eb9c2f3674a0545d2ab07?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  A Full Renovation – Project Services — Junior Data Analyst
+            posted Oct 9, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6ac9d1e2ab9efaee043a02ae?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Texas Department Of Criminal Justice — TDCJ - Data Analyst I-IV - Information Technology
+            posted Oct 9, 2026 (date only)
+            Huntsville, TX, United States
+            https://jobright.ai/jobs/info/6ac914b0c3a8af9c54a09013?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  DRW — Data Analyst, Exploration
+            posted Oct 10, 2026 (date only)
+            Chicago, IL, United States
+            https://jobright.ai/jobs/info/6aada20c3dbb1f8967ceeaf8?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  AlTi Tiedemann Global — Data Operations and Reporting Analyst
+            posted Oct 10, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6aa49e9fc1928370a285eb6d?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  STERIS — Quality Analytics Analyst
+            posted Oct 9, 2026 (date only)
+            Mentor, OH, United States
+            https://jobright.ai/jobs/info/6ac801d7fcdafb60c6a4722a?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Daily Management Resorts — Data Analyst
+            posted Oct 9, 2026 (date only)
+            Miami, FL, United States
+            https://jobright.ai/jobs/info/6a53f737c8eb0843027ae4df?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Navitus Health Solutions — Business Intelligence Developer - Navitus
             posted Oct 9, 2026 (date only)
@@ -29,48 +74,3 @@ Top 15 of 43 — last 24h — Oct 9, 1:23 PM EDT
             posted Oct 9, 2026 (date only)
             Chattanooga, TN, United States
             https://jobright.ai/jobs/info/6ac902e3fcdafb60c6a4a437?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Instacart — Data Analyst, Platform Excellence Ops Analytics
-            posted Oct 8, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6ac006d00e027c0f3b39f656?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  STERIS — Quality Analytics Analyst
-            posted Oct 8, 2026 (date only)
-            Mentor, OH, United States
-            https://jobright.ai/jobs/info/6ac801d7fcdafb60c6a4722a?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  DaVita Kidney Care — Analytics and Reporting Analyst (IKC)
-            posted Oct 8, 2026 (date only)
-            California, United States
-            https://jobright.ai/jobs/info/6a8ecfcbf841e649a718f37f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Tower Research Capital — Data Analyst
-            posted Oct 8, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6ab2983a1508734c1530a76b?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Delta Air Lines — Delta Vacations - Business Intelligence Analyst
-            posted Oct 8, 2026 (date only)
-            Minot, ND, United States
-            https://jobright.ai/jobs/info/6ac7e431a444ac5d36f867b2?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Command Holdings, a Pequot Company — Data Analyst - Administrative
-            posted Oct 8, 2026 (date only)
-            Fort Worth, TX, United States
-            https://jobright.ai/jobs/info/6ac83017a444ac5d36f88031?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Command Holdings, a Pequot Company — Data Analyst - Operations Management (DEA)
-            posted Oct 8, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6ac7bf8d44d6e65604a03f5f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Freddie Mac — Single Family Data Analyst
-            posted Oct 8, 2026 (date only)
-            McLean, VA, United States
-            https://jobright.ai/jobs/info/6a84ac5a2f4f0014cae221a8?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  AlTi Tiedemann Global — Data Operations and Reporting Analyst
-            posted Oct 8, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6aa49e9fc1928370a285eb6d?utm_campaign=Data%20Analysis&utm_source=1103
