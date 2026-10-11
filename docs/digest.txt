@@ -1,19 +1,4 @@
-Top 15 of 33 — last 24h — Oct 10, 11:54 AM EDT
-
- 75  [  17h]  Circle Logistics — Entry Level Data Engineer
-            posted Oct 9, 2026, 6:12 PM EDT
-            Fort Wayne, IN
-            https://jobs.smartrecruiters.com/CircleLogistics1/3743990016023696
-
- 72  [today]  City and County of San Francisco — Data Analytics Engineer (Snowflake/DBT) (1042) - Controller's Office - (168329)
-            posted Oct 9, 2026 (date only)
-            San Francisco, CA, United States
-            https://jobright.ai/jobs/info/6ab700a1d7fde2c08ec8a7b4?utm_campaign=Data%20Analysis&utm_source=1103
-
- 72  [  17h]  America's Tire — Data Engineer 1
-            posted Oct 9, 2026, 6:19 PM EDT
-            South Bend, IN
-            https://discounttire.jibeapply.com/jobs/19242?icims=1
+Top 12 of 12 — last 24h — Oct 11, 12:22 PM EDT
 
  70  [today]  Shiseido — Data Analyst I, Master Data
             posted Oct 10, 2026 (date only)
@@ -25,25 +10,15 @@ Top 15 of 33 — last 24h — Oct 10, 11:54 AM EDT
             Poughkeepsie, New York, United States | H1B 1000
             https://jobright.ai/jobs/info/6aa463a51d92e2d05d114968?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Cisco — Data Analyst I (Full Time) - United States
-            posted Oct 9, 2026 (date only)
-            San Jose, CA, United States | H1B 1249
-            https://jobright.ai/jobs/info/6ac694d8064da25272e1b423?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Sparks Wiz Limited — Junior Data Analyst
-            posted Oct 9, 2026 (date only)
-            Los Angeles, CA, United States
-            https://jobright.ai/jobs/info/6a5eb9c2f3674a0545d2ab07?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  A Full Renovation – Project Services — Junior Data Analyst
-            posted Oct 9, 2026 (date only)
+ 67  [today]  Torentify — Data Analyst - Remote
+            posted Oct 11, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6ac9d1e2ab9efaee043a02ae?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6acb8a7d3c831dc4086bd41d?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Texas Department Of Criminal Justice — TDCJ - Data Analyst I-IV - Information Technology
-            posted Oct 9, 2026 (date only)
-            Huntsville, TX, United States
-            https://jobright.ai/jobs/info/6ac914b0c3a8af9c54a09013?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Instacart — Data Analyst, Platform Excellence Ops Analytics
+            posted Oct 10, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6ac006d00e027c0f3b39f656?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  DRW — Data Analyst, Exploration
             posted Oct 10, 2026 (date only)
@@ -55,22 +30,32 @@ Top 15 of 33 — last 24h — Oct 10, 11:54 AM EDT
             New York, NY, United States
             https://jobright.ai/jobs/info/6aa49e9fc1928370a285eb6d?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  STERIS — Quality Analytics Analyst
-            posted Oct 9, 2026 (date only)
-            Mentor, OH, United States
-            https://jobright.ai/jobs/info/6ac801d7fcdafb60c6a4722a?utm_campaign=Data%20Analysis&utm_source=1103
+ 63  [today]  Knowesis Inc. — Data Scientist I
+            posted Oct 10, 2026 (date only)
+            Joint Base Lewis-McChord, WA, United States
+            https://jobright.ai/jobs/info/6aca1914ddd23cce28a0be97?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Daily Management Resorts — Data Analyst
-            posted Oct 9, 2026 (date only)
-            Miami, FL, United States
-            https://jobright.ai/jobs/info/6a53f737c8eb0843027ae4df?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [today]  Guidehouse — Data Scientist
+            posted Oct 10, 2026 (date only)
+            Bethesda, MD, United States
+            https://jobright.ai/jobs/info/6aaaeb6f76707040fb08313e?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Navitus Health Solutions — Business Intelligence Developer - Navitus
-            posted Oct 9, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aa3b9544238ea18d430dba7?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [today]  Point72 — Data Scientist, Proprietary Research
+            posted Oct 10, 2026 (date only)
+            New York, NY
+            https://jobright.ai/jobs/info/67842232892d69f5bd6249b9?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Unum — Assoc Business Intelligence Analyst
-            posted Oct 9, 2026 (date only)
-            Chattanooga, TN, United States
-            https://jobright.ai/jobs/info/6ac902e3fcdafb60c6a4a437?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [today]  FanDuel — Data Scientist, Experimentation
+            posted Oct 10, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6a3d8b8d122f340d29cf12c6?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  Tata Consultancy Services — Data Scientist
+            posted Oct 10, 2026 (date only)
+            San Antonio, TX, United States
+            https://jobright.ai/jobs/info/6ac5efd48ff3fb9b3bc8b77f?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  Booz Allen Hamilton — Data Scientist
+            posted Oct 10, 2026 (date only)
+            Washington, DC, United States
+            https://jobright.ai/jobs/info/6ac97ce8d4a5a03707412879?utm_campaign=Data%20Analysis&utm_source=1103
