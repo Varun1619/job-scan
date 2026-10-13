@@ -1,4 +1,9 @@
-Top 15 of 16 — last 24h — Oct 13, 1:41 PM EDT
+Top 15 of 18 — last 24h — Oct 13, 2:03 PM EDT
+
+ 72  [   1h]  Brex — Data Engineer
+            posted Oct 13, 2026, 12:23 PM EDT
+            San Francisco, California, United States | H1B 90
+            https://www.brex.com/careers/8366850002?gh_jid=8366850002
 
  70  [today]  California Correctional Health Care Services — Research Data Analyst I
             posted Oct 12, 2026 (date only)
@@ -15,35 +20,40 @@ Top 15 of 16 — last 24h — Oct 13, 1:41 PM EDT
             Buffalo, NY, United States
             https://jobright.ai/jobs/info/6ac958f76355f8776ff18ba6?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  RATP Dev USA — Data Analyst
-            posted Oct 13, 2026 (date only)
-            Lexington, KY, United States
-            https://jobright.ai/jobs/info/6ace5b1eba99f15ef4124544?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  Chenega Corporation — Data Analyst
             posted Oct 13, 2026 (date only)
             Alexandria, VA, United States
             https://jobright.ai/jobs/info/6ace41dd680c80c8753bb96a?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Encompass Supply Chain Solutions — Web Analytics Analyst
-            posted Oct 12, 2026 (date only)
-            Florida, United States
-            https://jobright.ai/jobs/info/6ab74535ba1c25652c611e12?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  RATP Dev USA — Data Analyst
+            posted Oct 13, 2026 (date only)
+            Lexington, KY, United States
+            https://jobright.ai/jobs/info/6ace5b1eba99f15ef4124544?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Pro Integrate — Data Scientist and Data Analyst Roles (30-150 USD/hr) Freelance, Remote
             posted Oct 12, 2026 (date only)
             United States
             https://jobright.ai/jobs/info/6acdd69c770570498440053e?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [today]  People Inc. — BUSINESS INTELLIGENCE COORDINATOR, IT
+            posted Oct 12, 2026 (date only)
+            Williamsville, New York, United States
+            https://jobright.ai/jobs/info/6acd3a23002e496d4bef130d?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  Regeneron — Assoc CMC Regulatory Sciences Data Analyst
             posted Oct 12, 2026 (date only)
             United States
             https://jobright.ai/jobs/info/6acd33563c831dc4086c1168?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  People Inc. — BUSINESS INTELLIGENCE COORDINATOR, IT
+ 67  [today]  Encompass Supply Chain Solutions — Web Analytics Analyst
             posted Oct 12, 2026 (date only)
-            Williamsville, New York, United States
-            https://jobright.ai/jobs/info/6acd3a23002e496d4bef130d?utm_campaign=Data%20Analysis&utm_source=1103
+            Florida, United States
+            https://jobright.ai/jobs/info/6ab74535ba1c25652c611e12?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 66  [  19h]  Verkada — Senior Software Engineer, Data Platform
+            posted Oct 12, 2026, 6:38 PM EDT
+            San Mateo, CA United States
+            https://job-boards.greenhouse.io/verkada/jobs/5215882007
 
  63  [today]  Allergan Aesthetics, an AbbVie Company — Associate Data Scientist I
             posted Oct 12, 2026 (date only)
@@ -59,16 +69,6 @@ Top 15 of 16 — last 24h — Oct 13, 1:41 PM EDT
             posted Oct 13, 2026 (date only)
             Washington, DC, United States
             https://jobright.ai/jobs/info/6a96629ec8763a3a87fff67c?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  Tata Consultancy Services — Data Scientist
-            posted Oct 13, 2026 (date only)
-            San Antonio, TX, United States
-            https://jobright.ai/jobs/info/6aad7c83de327d3e210d2a9f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  CACI International Inc — Data Scientist
-            posted Oct 13, 2026 (date only)
-            Bethesda, MD, United States
-            https://jobright.ai/jobs/info/6a95c0cdcabc9f6703e19976?utm_campaign=Data%20Analysis&utm_source=1103
 
  59  [today]  Invisible Technologies — Data Scientist
             posted Oct 13, 2026 (date only)
