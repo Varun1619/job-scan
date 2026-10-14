@@ -1,9 +1,19 @@
-Top 15 of 46 — last 24h — Oct 14, 11:17 AM EDT
+Top 15 of 54 — last 24h — Oct 14, 11:44 AM EDT
 
- 72  [  22h]  Brex — Data Engineer
+ 86  [  18h]  Snowflake — Business Intelligence Analyst
+            posted Oct 13, 2026, 5:31 PM EDT
+            US-CA-Menlo Park | H1B 219
+            https://jobs.ashbyhq.com/snowflake/4557ced6-d472-45c7-ab02-15c2024e8936
+
+ 72  [  23h]  Brex — Data Engineer
             posted Oct 13, 2026, 12:23 PM EDT
             San Francisco, California, United States | H1B 90
             https://www.brex.com/careers/8366850002?gh_jid=8366850002
+
+ 70  [today]  Modis — Data Analyst I
+            posted Oct 13, 2026 (date only)
+            Houston, TX, United States
+            https://jobright.ai/jobs/info/6aceb095ba99f15ef4126640?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  The Henry M. Jackson Foundation for the Advancement of Military Medicine — Data Analyst I - PED
             posted Oct 13, 2026 (date only)
@@ -15,25 +25,20 @@ Top 15 of 46 — last 24h — Oct 14, 11:17 AM EDT
             East Windsor, NJ, United States
             https://jobright.ai/jobs/info/6aa9b01aeff87f571fc9aa98?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  W.B. Mason Company Inc. — Junior Data Analyst
+ 70  [today]  UCSF Health — Research Data Analyst I
             posted Oct 13, 2026 (date only)
-            Brockton, MA, United States
-            https://jobright.ai/jobs/info/6aceb2c24391691a335ae36d?utm_campaign=Data%20Analysis&utm_source=1103
+            San Francisco, CA, United States
+            https://jobright.ai/jobs/info/6ace9e9cba99f15ef4126011?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Chewy — Business Intelligence Analyst I
             posted Oct 13, 2026 (date only)
             Clayton, IN, United States
             https://jobright.ai/jobs/info/6ace6fab4f3229123da3bfe8?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Modis — Data Analyst I
+ 70  [today]  W.B. Mason Company Inc. — Junior Data Analyst
             posted Oct 13, 2026 (date only)
-            Houston, TX, United States
-            https://jobright.ai/jobs/info/6aceb095ba99f15ef4126640?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  UCSF Health — Research Data Analyst I
-            posted Oct 13, 2026 (date only)
-            San Francisco, CA, United States
-            https://jobright.ai/jobs/info/6ace9e9cba99f15ef4126011?utm_campaign=Data%20Analysis&utm_source=1103
+            Brockton, MA, United States
+            https://jobright.ai/jobs/info/6aceb2c24391691a335ae36d?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [  17h]  Medpace — Junior Business Intelligence Analyst
             posted Oct 13, 2026, 6:14 PM EDT
@@ -45,32 +50,27 @@ Top 15 of 46 — last 24h — Oct 14, 11:17 AM EDT
             Stockton, CA, United States
             https://jobright.ai/jobs/info/6ab2de8d30340229a323022e?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [today]  Snowflake — Business Intelligence Analyst
+            posted Oct 13, 2026 (date only)
+            Menlo Park, CA, United States | H1B 219
+            https://jobright.ai/jobs/info/6acea7d24f3229123da3d7b4?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  UST — Threat Hunting Data Analyst
+            posted Oct 13, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6acf0acf680c80c8753bf8a4?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  Moog Inc. — Data Analyst
             posted Oct 13, 2026 (date only)
             Buffalo, NY, United States
             https://jobright.ai/jobs/info/6ac958f76355f8776ff18ba6?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [today]  University of Maryland Faculty Physicians — Business and Data Analyst- Shock Trauma
+            posted Oct 13, 2026 (date only)
+            Baltimore, MD, United States
+            https://jobright.ai/jobs/info/6ace7424a0453f9ba6248b08?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  Electronic Arts (EA) — Data Analyst (Ads & Sponsorships)
             posted Oct 13, 2026 (date only)
             Kirkland, WA, United States
             https://jobright.ai/jobs/info/6abee1874ac55253f5d63657?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Tetra Tech — Data Analyst
-            posted Oct 13, 2026 (date only)
-            Washington, DC, United States
-            https://jobright.ai/jobs/info/6abea3760e027c0f3b399e7a?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Chenega Corporation — Data Analyst
-            posted Oct 13, 2026 (date only)
-            Alexandria, VA, United States
-            https://jobright.ai/jobs/info/6ace41dd680c80c8753bb96a?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  UtiliSave LLC — Forensic Regulatory Data Analyst
-            posted Oct 13, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6a976edb246d697dcee05488?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Gartner — Data Analyst - 2026/2027 graduates
-            posted Oct 13, 2026 (date only)
-            Stamford, CT, United States
-            https://jobright.ai/jobs/info/6aca0cf7ddd23cce28a0bdef?utm_campaign=Data%20Analysis&utm_source=1103
