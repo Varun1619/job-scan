@@ -1,76 +1,76 @@
-Top 15 of 18 — last 24h — Oct 13, 2:03 PM EDT
+Top 15 of 46 — last 24h — Oct 14, 11:17 AM EDT
 
- 72  [   1h]  Brex — Data Engineer
+ 72  [  22h]  Brex — Data Engineer
             posted Oct 13, 2026, 12:23 PM EDT
             San Francisco, California, United States | H1B 90
             https://www.brex.com/careers/8366850002?gh_jid=8366850002
 
- 70  [today]  California Correctional Health Care Services — Research Data Analyst I
-            posted Oct 12, 2026 (date only)
-            Los Angeles County, United States
-            https://jobright.ai/jobs/info/6acd0e47ddd23cce28a1064c?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  The Henry M. Jackson Foundation for the Advancement of Military Medicine — Data Analyst I - PED
+            posted Oct 13, 2026 (date only)
+            Bethesda, MD, United States
+            https://jobright.ai/jobs/info/6a8f3eabd7c91d0cf446e4d2?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  California Department of Insurance — RESEARCH DATA ANALYST I
-            posted Oct 12, 2026 (date only)
-            Long Beach, CA, United States
-            https://jobright.ai/jobs/info/6acd125f3c831dc4086c060d?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  Shiseido — Data Analyst I, Master Data
+            posted Oct 13, 2026 (date only)
+            East Windsor, NJ, United States
+            https://jobright.ai/jobs/info/6aa9b01aeff87f571fc9aa98?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  W.B. Mason Company Inc. — Junior Data Analyst
+            posted Oct 13, 2026 (date only)
+            Brockton, MA, United States
+            https://jobright.ai/jobs/info/6aceb2c24391691a335ae36d?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Chewy — Business Intelligence Analyst I
+            posted Oct 13, 2026 (date only)
+            Clayton, IN, United States
+            https://jobright.ai/jobs/info/6ace6fab4f3229123da3bfe8?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Modis — Data Analyst I
+            posted Oct 13, 2026 (date only)
+            Houston, TX, United States
+            https://jobright.ai/jobs/info/6aceb095ba99f15ef4126640?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  UCSF Health — Research Data Analyst I
+            posted Oct 13, 2026 (date only)
+            San Francisco, CA, United States
+            https://jobright.ai/jobs/info/6ace9e9cba99f15ef4126011?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [  17h]  Medpace — Junior Business Intelligence Analyst
+            posted Oct 13, 2026, 6:14 PM EDT
+            Cincinnati, OH
+            https://careers.medpace.com/jobs/13058?icims=1
+
+ 67  [today]  A.P. Moller - Maersk — Data Analyst - Shift A Sunday-Wednesday 5:00am-3:30pm
+            posted Oct 14, 2026 (date only)
+            Stockton, CA, United States
+            https://jobright.ai/jobs/info/6ab2de8d30340229a323022e?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Moog Inc. — Data Analyst
             posted Oct 13, 2026 (date only)
             Buffalo, NY, United States
             https://jobright.ai/jobs/info/6ac958f76355f8776ff18ba6?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [today]  Electronic Arts (EA) — Data Analyst (Ads & Sponsorships)
+            posted Oct 13, 2026 (date only)
+            Kirkland, WA, United States
+            https://jobright.ai/jobs/info/6abee1874ac55253f5d63657?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Tetra Tech — Data Analyst
+            posted Oct 13, 2026 (date only)
+            Washington, DC, United States
+            https://jobright.ai/jobs/info/6abea3760e027c0f3b399e7a?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  Chenega Corporation — Data Analyst
             posted Oct 13, 2026 (date only)
             Alexandria, VA, United States
             https://jobright.ai/jobs/info/6ace41dd680c80c8753bb96a?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  RATP Dev USA — Data Analyst
+ 67  [today]  UtiliSave LLC — Forensic Regulatory Data Analyst
             posted Oct 13, 2026 (date only)
-            Lexington, KY, United States
-            https://jobright.ai/jobs/info/6ace5b1eba99f15ef4124544?utm_campaign=Data%20Analysis&utm_source=1103
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6a976edb246d697dcee05488?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Pro Integrate — Data Scientist and Data Analyst Roles (30-150 USD/hr) Freelance, Remote
-            posted Oct 12, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6acdd69c770570498440053e?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  People Inc. — BUSINESS INTELLIGENCE COORDINATOR, IT
-            posted Oct 12, 2026 (date only)
-            Williamsville, New York, United States
-            https://jobright.ai/jobs/info/6acd3a23002e496d4bef130d?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Regeneron — Assoc CMC Regulatory Sciences Data Analyst
-            posted Oct 12, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6acd33563c831dc4086c1168?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Encompass Supply Chain Solutions — Web Analytics Analyst
-            posted Oct 12, 2026 (date only)
-            Florida, United States
-            https://jobright.ai/jobs/info/6ab74535ba1c25652c611e12?utm_campaign=Data%20Analysis&utm_source=1103
-
- 66  [  19h]  Verkada — Senior Software Engineer, Data Platform
-            posted Oct 12, 2026, 6:38 PM EDT
-            San Mateo, CA United States
-            https://job-boards.greenhouse.io/verkada/jobs/5215882007
-
- 63  [today]  Allergan Aesthetics, an AbbVie Company — Associate Data Scientist I
-            posted Oct 12, 2026 (date only)
-            North Chicago, IL, United States
-            https://jobright.ai/jobs/info/6acd6803e7a1d93332111987?utm_campaign=Data%20Analysis&utm_source=1103
-
- 62  [  19h]  Brillio — Full Stack AI Engineer
-            posted Oct 12, 2026, 6:17 PM EDT
-            Coppell, TX
-            https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2/apply
-
- 59  [today]  Kearney — Kearney Activate - Data Scientist
+ 67  [today]  Gartner — Data Analyst - 2026/2027 graduates
             posted Oct 13, 2026 (date only)
-            Washington, DC, United States
-            https://jobright.ai/jobs/info/6a96629ec8763a3a87fff67c?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  Invisible Technologies — Data Scientist
-            posted Oct 13, 2026 (date only)
-            New York, United States
-            https://jobright.ai/jobs/info/6ace42854f3229123da3afa4?utm_campaign=Data%20Analysis&utm_source=1103
+            Stamford, CT, United States
+            https://jobright.ai/jobs/info/6aca0cf7ddd23cce28a0bdef?utm_campaign=Data%20Analysis&utm_source=1103
