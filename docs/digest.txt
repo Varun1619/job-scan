@@ -1,24 +1,34 @@
-Top 15 of 24 — last 24h — Oct 15, 11:09 AM EDT
+Top 15 of 28 — last 24h — Oct 15, 11:32 AM EDT
 
  70  [today]  W.B. Mason Company Inc. — Junior Data Analyst
             posted Oct 14, 2026 (date only)
             Brockton, MA, United States
             https://jobright.ai/jobs/info/6aceb2c24391691a335ae36d?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Recidiviz — Data Analyst (Entry-Level)
-            posted Oct 14, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6abd50dd0e027c0f3b394f83?utm_campaign=Data%20Analysis&utm_source=1103
-
  70  [today]  Daimler Truck North America — Data Science and Business Intelligence Generalist I
             posted Oct 14, 2026 (date only)
             Detroit, MI, United States
             https://jobright.ai/jobs/info/6acfc5df2cc4e9d17e90a59b?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 70  [today]  Recidiviz — Data Analyst (Entry-Level)
+            posted Oct 14, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6abd50dd0e027c0f3b394f83?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  New York State Office of Mental Health — Data Analyst 1/Trainee 1/Trainee 2
             posted Oct 15, 2026 (date only)
             Albany, NY, United States
             https://jobright.ai/jobs/info/6ad0ce723d3a5aa909b356d5?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Whitman — Temporary Data Analyst
+            posted Oct 14, 2026 (date only)
+            Washington, DC 20036, United States
+            https://jobright.ai/jobs/info/6acfdb3a78d51ae69ce08728?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Regeneron — QC Data Analyst
+            posted Oct 14, 2026 (date only)
+            Temple, United States
+            https://jobright.ai/jobs/info/6acfb8eafe7a9bd5a6b998a2?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Command Holdings, a Pequot Company — Data Analyst - Administrative
             posted Oct 14, 2026 (date only)
@@ -30,30 +40,25 @@ Top 15 of 24 — last 24h — Oct 15, 11:09 AM EDT
             McLean, VA, United States
             https://jobright.ai/jobs/info/6a9e3848dacf777321a90c99?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  A.P. Moller - Maersk — Data Analyst - Shift A Sunday-Wednesday 5:00am-3:30pm
-            posted Oct 14, 2026 (date only)
-            Stockton, CA, United States
-            https://jobright.ai/jobs/info/6ab2de8d30340229a323022e?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  BioSpace — QC Data Analyst
             posted Oct 14, 2026 (date only)
             East Greenbush, NY, United States
             https://jobright.ai/jobs/info/6ad05804182a457110264bf9?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Regeneron — QC Data Analyst
+ 67  [today]  A.P. Moller - Maersk — Data Analyst - Shift A Sunday-Wednesday 5:00am-3:30pm
             posted Oct 14, 2026 (date only)
-            Temple, United States
-            https://jobright.ai/jobs/info/6acfb8eafe7a9bd5a6b998a2?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Whitman — Temporary Data Analyst
-            posted Oct 14, 2026 (date only)
-            Washington, DC 20036, United States
-            https://jobright.ai/jobs/info/6acfdb3a78d51ae69ce08728?utm_campaign=Data%20Analysis&utm_source=1103
+            Stockton, CA, United States
+            https://jobright.ai/jobs/info/6ab2de8d30340229a323022e?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Evercore — Data Analyst - Private Capital Advisory - New York
             posted Oct 14, 2026 (date only)
             New York City metropolitan area, United States
             https://jobright.ai/jobs/info/6acfc42712303667b98a019a?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 66  [  19h]  1Password — Data Analyst, Finance Analytics
+            posted Oct 14, 2026, 3:48 PM EDT
+            Remote (United States | Canada)
+            https://jobs.ashbyhq.com/1password/ca3d814c-946a-447a-b41a-0257fcf7e2cd
 
  63  [today]  Creative Artists Agency — Jr. Data Scientist
             posted Oct 14, 2026 (date only)
@@ -69,8 +74,3 @@ Top 15 of 24 — last 24h — Oct 15, 11:09 AM EDT
             posted Oct 14, 2026 (date only)
             San Jose, CA, United States | H1B 1800
             https://jobright.ai/jobs/info/6a7ed2ad19ce4e6e9d9346e0?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  The Voleon Group — Data Scientist
-            posted Oct 14, 2026 (date only)
-            Berkeley, CA, United States
-            https://jobright.ai/jobs/info/6a2703fa7d827633afff8006?utm_campaign=Data%20Analysis&utm_source=1103
