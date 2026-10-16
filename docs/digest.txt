@@ -1,4 +1,9 @@
-Top 15 of 30 — last 24h — Oct 16, 10:56 AM EDT
+Top 15 of 36 — last 24h — Oct 16, 11:18 AM EDT
+
+ 72  [  16h]  GitLab — Cloud Platform Engineer
+            posted Oct 15, 2026, 7:11 PM EDT
+            Remote, Canada; Remote, United States
+            https://job-boards.greenhouse.io/gitlab/jobs/8889193002
 
  70  [today]  Goldbelt Apex LLC — Junior Data Analyst
             posted Oct 16, 2026 (date only)
@@ -10,15 +15,20 @@ Top 15 of 30 — last 24h — Oct 16, 10:56 AM EDT
             Bethesda, MD, United States
             https://jobright.ai/jobs/info/6a8f3eabd7c91d0cf446e4d2?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 70  [today]  NORC at the University of Chicago — Data Analyst I or II - Statistics and Data Science research support
+            posted Oct 15, 2026 (date only)
+            Chicago, IL, United States
+            https://jobright.ai/jobs/info/6ad14af9a4f99fef819436b1?utm_campaign=Data%20Analysis&utm_source=1103
+
  70  [today]  Cisco — Data Analyst I (Full Time) - United States
             posted Oct 15, 2026 (date only)
             San Jose, CA, United States | H1B 1249
             https://jobright.ai/jobs/info/6ac694d8064da25272e1b423?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  NORC at the University of Chicago — Data Analyst I or II - Statistics and Data Science research support
+ 67  [today]  Safer Foundation — Data Analyst
             posted Oct 15, 2026 (date only)
             Chicago, IL, United States
-            https://jobright.ai/jobs/info/6ad14af9a4f99fef819436b1?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6ad1341718608b6f36f8241d?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Snowflake — Business Intelligence Analyst
             posted Oct 15, 2026 (date only)
@@ -35,10 +45,20 @@ Top 15 of 30 — last 24h — Oct 16, 10:56 AM EDT
             Kirkland, WA, United States
             https://jobright.ai/jobs/info/6abee1874ac55253f5d63657?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [today]  Fusable — Data Analyst
+            posted Oct 15, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6ad0cc68256e49282e650201?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  Tetra Tech — Data Analyst
             posted Oct 15, 2026 (date only)
             Washington, DC, United States
             https://jobright.ai/jobs/info/6abea3760e027c0f3b399e7a?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  WebMD — Data Analyst
+            posted Oct 15, 2026 (date only)
+            Newark, NJ, United States
+            https://jobright.ai/jobs/info/6ad10bf618608b6f36f80f19?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  New York State Office of Mental Health — Data Analyst 1/Trainee 1/Trainee 2
             posted Oct 15, 2026 (date only)
@@ -50,27 +70,7 @@ Top 15 of 30 — last 24h — Oct 16, 10:56 AM EDT
             McLean, VA, United States
             https://jobright.ai/jobs/info/6a9e3848dacf777321a90c99?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Encompass Supply Chain Solutions — Web Analytics Analyst
-            posted Oct 15, 2026 (date only)
-            Florida, United States
-            https://jobright.ai/jobs/info/6ab74535ba1c25652c611e12?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Safer Foundation — Data Analyst
-            posted Oct 15, 2026 (date only)
-            Chicago, IL, United States
-            https://jobright.ai/jobs/info/6ad1341718608b6f36f8241d?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  Booz Allen Hamilton — Data Analyst
             posted Oct 15, 2026 (date only)
             McLean, VA, United States
             https://jobright.ai/jobs/info/6ad0e290256e49282e650a86?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Fusable — Data Analyst
-            posted Oct 15, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6ad0cc68256e49282e650201?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Enova International — Analytics Analyst - Fraud (Hybrid)
-            posted Oct 15, 2026 (date only)
-            Chicago, IL, United States
-            https://jobright.ai/jobs/info/6ad10bd6e2d41540d4a6daac?utm_campaign=Data%20Analysis&utm_source=1103
