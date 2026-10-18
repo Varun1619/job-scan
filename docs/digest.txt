@@ -1,76 +1,41 @@
-Top 15 of 17 — last 24h — Oct 17, 9:49 AM EDT
-
- 72  [  12h]  Faraday Future — SDK Platform Engineer
-            posted Oct 16, 2026, 9:06 PM EDT
-            El Segundo, CA
-            https://job-boards.greenhouse.io/faradayfuture/jobs/8036218003
+Top 8 of 8 — last 24h — Oct 18, 10:04 AM EDT
 
  70  [today]  Cisco — Data Analyst I (Full Time) - United States
-            posted Oct 16, 2026 (date only)
+            posted Oct 17, 2026 (date only)
             San Jose, CA, United States | H1B 1249
             https://jobright.ai/jobs/info/6ac694d8064da25272e1b423?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  UCSF Health — Research Data Analyst I
-            posted Oct 16, 2026 (date only)
-            San Francisco, CA, United States
-            https://jobright.ai/jobs/info/6ace9e9cba99f15ef4126011?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  CACI International Inc — Junior Data Analyst
+            posted Oct 17, 2026 (date only)
+            Florham Park, NJ, United States
+            https://jobright.ai/jobs/info/6ad29e9ef04335fc70ed6b0f?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Goldbelt Apex LLC — Junior Data Analyst
-            posted Oct 16, 2026 (date only)
-            Falls Church, VA, United States
-            https://jobright.ai/jobs/info/6ab567da4873fd3fd852954e?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Snowflake — Business Intelligence Analyst
+            posted Oct 17, 2026 (date only)
+            Menlo Park, CA, United States | H1B 219
+            https://jobright.ai/jobs/info/6acea7d24f3229123da3d7b4?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  The University of Alabama — Data Analyst I - 530905
-            posted Oct 16, 2026 (date only)
-            Tuscaloosa, AL, United States
-            https://jobright.ai/jobs/info/6ad33afc83ada13a9da09273?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  TikTok — Business Intelligence Technical Analyst - Trust and Safety
+            posted Oct 17, 2026 (date only)
+            San Jose, CA, United States | H1B 1800
+            https://jobright.ai/jobs/info/6a69d6efc63ba56308f50183?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  ZT Systems — Business Intelligence Data Analyst
-            posted Oct 16, 2026 (date only)
-            Secaucus, NJ, United States
-            https://jobright.ai/jobs/info/6ab563209d4843569fe496c7?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Snowflake — Business Intelligence Analyst
+            posted Oct 17, 2026 (date only)
+            Menlo Park, CA, United States | H1B 219
+            https://jobright.ai/jobs/info/6acec4564391691a335ae833?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Electronic Arts (EA) — Data Analyst (Ads & Sponsorships)
-            posted Oct 16, 2026 (date only)
-            Kirkland, WA, United States
-            https://jobright.ai/jobs/info/6abee1874ac55253f5d63657?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [today]  The Voleon Group — Data Scientist
+            posted Oct 18, 2026 (date only)
+            Berkeley, CA, United States
+            https://jobright.ai/jobs/info/6a2703fa7d827633afff8006?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Booz Allen Hamilton — Data Analyst
-            posted Oct 16, 2026 (date only)
-            McLean, VA, United States
-            https://jobright.ai/jobs/info/6ad0e290256e49282e650a86?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [today]  Mortenson — Data Scientist
+            posted Oct 17, 2026 (date only)
+            Minneapolis, MN, United States
+            https://jobright.ai/jobs/info/6ab6afca4873fd3fd852ea34?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Tekmerion Capital Management, LP — Data Analyst
-            posted Oct 16, 2026 (date only)
+ 59  [today]  Citadel — Sector Data Scientist, Central Team
+            posted Oct 17, 2026 (date only)
             New York, NY, United States
-            https://jobright.ai/jobs/info/6a88c5a6e8b6601d12908a6b?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Fragomen — Data Analyst
-            posted Oct 16, 2026 (date only)
-            New York, New York, United States
-            https://jobright.ai/jobs/info/6ad23ba55290d4375c45137b?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  4Liberty, Inc. — Data Analyst/Data Lake/Data Mining/SAP/Python/Engineer -Onsite
-            posted Oct 16, 2026 (date only)
-            San Diego, CA, United States
-            https://jobright.ai/jobs/info/6ad3063e83ada13a9da08a44?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  Spectrum — Associate Data Scientist
-            posted Oct 16, 2026 (date only)
-            Stamford, CT, United States
-            https://jobright.ai/jobs/info/6ad0db92a4f99fef8193fa5d?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  Booz Allen Hamilton — Data Scientist
-            posted Oct 16, 2026 (date only)
-            Washington, DC, United States
-            https://jobright.ai/jobs/info/6ac97ce8d4a5a03707412879?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  Tata Consultancy Services — Data Scientist
-            posted Oct 16, 2026 (date only)
-            San Antonio, TX, United States
-            https://jobright.ai/jobs/info/6aad7c83de327d3e210d2a9f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  Booz Allen Hamilton — Sustainment Data Scientist
-            posted Oct 16, 2026 (date only)
-            San Diego, CA, United States
-            https://jobright.ai/jobs/info/6ad297c5c4290cef1412c050?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6ad3ba64f04335fc70eda04f?utm_campaign=Data%20Analysis&utm_source=1103
