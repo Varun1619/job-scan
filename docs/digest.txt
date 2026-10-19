@@ -1,4 +1,9 @@
-Top 15 of 17 — last 24h — Oct 19, 1:03 PM EDT
+Top 15 of 24 — last 24h — Oct 19, 1:22 PM EDT
+
+ 72  [  <1h]  GitLab — Cloud Platform Engineer
+            posted Oct 19, 2026, 1:15 PM EDT
+            Remote, Canada; Remote, United States
+            https://job-boards.greenhouse.io/gitlab/jobs/8889193002
 
  72  [  10h]  OSF HealthCare — Data Engineer 1
             posted Oct 19, 2026, 2:25 AM EDT
@@ -20,6 +25,11 @@ Top 15 of 17 — last 24h — Oct 19, 1:03 PM EDT
             Lititz, PA, United States
             https://jobright.ai/jobs/info/6ad60d5954bbabbab06f4196?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [   4h]  Cloudflare — Data Analyst
+            posted Oct 19, 2026, 9:04 AM EDT
+            Hybrid | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/8109620?gh_jid=8109620
+
  67  [today]  Snowflake — Business Intelligence Analyst
             posted Oct 18, 2026 (date only)
             Menlo Park, CA, United States | H1B 219
@@ -34,6 +44,11 @@ Top 15 of 17 — last 24h — Oct 19, 1:03 PM EDT
             posted Oct 18, 2026, 8:00 PM EDT
             Kansas, Texas, Arkansas, Oklahoma City, OK, Missouri
             https://oumedicine.wd5.myworkdayjobs.com/OUHealthCareers/job/Oklahoma-City/Business-Intelligence-Developer_R0069420
+
+ 66  [   7h]  Cloudflare — Senior Data Engineer
+            posted Oct 19, 2026, 5:39 AM EDT
+            In-Office | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118
 
  63  [today]  TikTok — Data Scientist Graduate (Multimedia) - 2027 Start
             posted Oct 18, 2026 (date only)
@@ -55,22 +70,7 @@ Top 15 of 17 — last 24h — Oct 19, 1:03 PM EDT
             Foster City, CA
             https://www.conviva.ai/careers/job/8036615003?gh_jid=8036615003
 
- 59  [today]  The Voleon Group — Data Scientist
+ 59  [today]  Booz Allen Hamilton — Data Scientist
             posted Oct 18, 2026 (date only)
-            Berkeley, CA, United States
-            https://jobright.ai/jobs/info/6a2703fa7d827633afff8006?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  Tata Consultancy Services — Data Scientist
-            posted Oct 18, 2026 (date only)
-            San Antonio, TX, United States
-            https://jobright.ai/jobs/info/6aad7c83de327d3e210d2a9f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  VT Group (VTG) — Data Scientist
-            posted Oct 18, 2026 (date only)
-            Chantilly, VA, United States
-            https://jobright.ai/jobs/info/6a82f217379c304e892f3fab?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  SpaceX — Data Scientist (Starlink)
-            posted Oct 18, 2026 (date only)
-            Redmond, WA, United States
-            https://jobright.ai/jobs/info/6a9ad73090a313642c6565ae?utm_campaign=Data%20Analysis&utm_source=1103
+            Stafford, VA, United States
+            https://jobright.ai/jobs/info/6ad62d4154bbabbab06f5204?utm_campaign=Data%20Analysis&utm_source=1103
