@@ -1,19 +1,19 @@
-Top 15 of 20 — last 24h — Oct 20, 11:14 AM EDT
+Top 15 of 26 — last 24h — Oct 20, 11:35 AM EDT
 
- 72  [  21h]  GitLab — Cloud Platform Engineer
+ 72  [  22h]  GitLab — Cloud Platform Engineer
             posted Oct 19, 2026, 1:15 PM EDT
             Remote, Canada; Remote, United States
             https://job-boards.greenhouse.io/gitlab/jobs/8889193002
-
- 70  [today]  Hydromax USA — Data Analyst I - W
-            posted Oct 19, 2026 (date only)
-            Louisville, KY, United States
-            https://jobright.ai/jobs/info/6ad665cc52aa6152bb694dd2?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Le'Fant LLC — Data Analyst- Junior/Mid-Level
             posted Oct 19, 2026 (date only)
             United States
             https://jobright.ai/jobs/info/6ad65f3d54bbabbab06f773e?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Hydromax USA — Data Analyst I - W
+            posted Oct 19, 2026 (date only)
+            Louisville, KY, United States
+            https://jobright.ai/jobs/info/6ad665cc52aa6152bb694dd2?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  UST — Threat Hunting Data Analyst
             posted Oct 20, 2026 (date only)
@@ -24,6 +24,11 @@ Top 15 of 20 — last 24h — Oct 20, 11:14 AM EDT
             posted Oct 19, 2026 (date only)
             Mentor, OH, United States
             https://jobright.ai/jobs/info/6ac801d7fcdafb60c6a4722a?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Fetch Pet Insurance — Business Intelligence Analyst – Member Experience & Operations
+            posted Oct 19, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6ac3e27c372c01f6cd732b1f?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Clark Associates — Data Analyst
             posted Oct 19, 2026 (date only)
@@ -40,20 +45,20 @@ Top 15 of 20 — last 24h — Oct 20, 11:14 AM EDT
             Arlington, VA, United States
             https://jobright.ai/jobs/info/6ad6719f52aa6152bb695538?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Fetch Pet Insurance — Business Intelligence Analyst – Member Experience & Operations
-            posted Oct 19, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6ac3e27c372c01f6cd732b1f?utm_campaign=Data%20Analysis&utm_source=1103
-
  66  [  15h]  Magna — Junior AI Engineer
             posted Oct 19, 2026, 8:00 PM EDT
             Troy, MI
             https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Junior-AI-Enigneer_R00266828-1
 
- 66  [  16h]  Node.Digital — Junior AI/ML Engineer
+ 66  [  17h]  Node.Digital — Junior AI/ML Engineer
             posted Oct 19, 2026, 6:34 PM EDT
             Herndon, VA
             https://apply.workable.com/node/j/2E183FDDB9/apply
+
+ 62  [   5h]  Databricks — AI Engineer – Forward Deployed Engineering (AI FDE)
+            posted Oct 20, 2026, 6:33 AM EDT
+            United States | H1B 385
+            https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002
 
  59  [today]  The Voleon Group — Data Scientist
             posted Oct 20, 2026 (date only)
@@ -65,12 +70,7 @@ Top 15 of 20 — last 24h — Oct 20, 11:14 AM EDT
             Fort Meade, MD, United States
             https://jobright.ai/jobs/info/6a9b4e36d5ff1f3f1c39ec0a?utm_campaign=Data%20Analysis&utm_source=1103
 
- 59  [today]  Zest AI — Data Scientist
+ 59  [today]  Children's Tumor Foundation — Biomedical Data Scientist
             posted Oct 19, 2026 (date only)
-            Burbank, CA, United States
-            https://jobright.ai/jobs/info/6ac40d87372c01f6cd733b91?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  Thatch — Data Scientist, Analytics
-            posted Oct 19, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6a51d990bf63b66c7997de20?utm_campaign=Data%20Analysis&utm_source=1103
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6ad69ff152aa6152bb6974e0?utm_campaign=Data%20Analysis&utm_source=1103
