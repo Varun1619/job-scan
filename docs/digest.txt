@@ -1,19 +1,34 @@
-Top 15 of 32 — last 24h — Oct 22, 11:25 AM EDT
+Top 15 of 39 — last 24h — Oct 22, 11:49 AM EDT
 
  72  [today]  PepsiCo — Analytics Platform Engineer
             posted Oct 22, 2026 (date only)
             New York, NY, United States
             https://jobright.ai/jobs/info/6aa0083d500b01124c77670c?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 72  [  12h]  GitLab — Cloud Platform Engineer
+            posted Oct 21, 2026, 11:47 PM EDT
+            Remote, Canada; Remote, United States
+            https://job-boards.greenhouse.io/gitlab/jobs/8889193002
+
  70  [today]  TikTok — Data Analyst Graduate (Supply Chain and Logistics- Fulfillment Centers Operations) - 2027 Start
             posted Oct 22, 2026 (date only)
             Fontana, CA, United States | H1B 1800
             https://jobright.ai/jobs/info/6a84f9b058ded76ad8fea2ce?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 70  [today]  UCSF Health — Research Data Analyst I
+            posted Oct 21, 2026 (date only)
+            Oakland, CA, United States
+            https://jobright.ai/jobs/info/6aa1aba8500b01124c77e571?utm_campaign=Data%20Analysis&utm_source=1103
+
  70  [today]  Cisco — Data Analyst I (Full Time) - United States
             posted Oct 21, 2026 (date only)
             San Jose, CA, United States | H1B 1249
             https://jobright.ai/jobs/info/6ac694d8064da25272e1b423?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Littler — Data Analyst I/ Statistician – Multiple Offices (Hybrid)
+            posted Oct 21, 2026 (date only)
+            Charlotte, NC, United States
+            https://jobright.ai/jobs/info/6ad8fc80950ef68d5184c57a?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Goldbelt Professional Services — Data Analyst I (ERIB)
             posted Oct 21, 2026 (date only)
@@ -25,21 +40,6 @@ Top 15 of 32 — last 24h — Oct 22, 11:25 AM EDT
             United States
             https://jobright.ai/jobs/info/6ad9008267bec1d0d9c81d7b?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  UCSF Health — Research Data Analyst I
-            posted Oct 21, 2026 (date only)
-            Oakland, CA, United States
-            https://jobright.ai/jobs/info/6aa1aba8500b01124c77e571?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Littler — Data Analyst I/ Statistician – Multiple Offices (Hybrid)
-            posted Oct 21, 2026 (date only)
-            Charlotte, NC, United States
-            https://jobright.ai/jobs/info/6ad8fc80950ef68d5184c57a?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Thorlabs — Data Analyst I
-            posted Oct 21, 2026 (date only)
-            Newton, New Jersey, United States
-            https://jobright.ai/jobs/info/6ad8b77e39284cd52427faf5?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  CAI — Reporting Analyst
             posted Oct 22, 2026 (date only)
             United States
@@ -50,25 +50,25 @@ Top 15 of 32 — last 24h — Oct 22, 11:25 AM EDT
             Menlo Park, CA, United States | H1B 219
             https://jobright.ai/jobs/info/6acea7d24f3229123da3d7b4?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  APTNEXUS — Business Data Analyst
+ 67  [today]  Cerity Partners — Client Data Analyst
             posted Oct 21, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6ac6d073372c01f6cd73f588?utm_campaign=Data%20Analysis&utm_source=1103
+            Chicago, IL, United States
+            https://jobright.ai/jobs/info/6ad9003367bec1d0d9c81d33?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Ascension — Data Analyst
             posted Oct 21, 2026 (date only)
             Nashville, TN, United States
             https://jobright.ai/jobs/info/6ad91bb254bbabbab070cabb?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Cerity Partners — Client Data Analyst
-            posted Oct 21, 2026 (date only)
-            Chicago, IL, United States
-            https://jobright.ai/jobs/info/6ad9003367bec1d0d9c81d33?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  Crew — Master Data Analyst
             posted Oct 21, 2026 (date only)
             Plymouth, MN, United States
             https://jobright.ai/jobs/info/6ad92dff67bec1d0d9c842cb?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  APTNEXUS — Business Data Analyst
+            posted Oct 21, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6ac6d073372c01f6cd73f588?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Catalyst Power — Business Intelligence Analyst
             posted Oct 21, 2026 (date only)
