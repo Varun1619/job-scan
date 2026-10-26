@@ -1,4 +1,4 @@
-Top 9 of 9 — last 24h — Oct 26, 12:50 PM EDT
+Top 10 of 10 — last 24h — Oct 26, 1:10 PM EDT
 
  70  [today]  Torentify — Data Analyst I (Remote)
             posted Oct 26, 2026 (date only)
@@ -20,12 +20,17 @@ Top 9 of 9 — last 24h — Oct 26, 12:50 PM EDT
             Honolulu, HI, United States
             https://jobright.ai/jobs/info/6adf15bf9e3e874dbfbaa47d?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 66  [   1h]  Axon — Senior Machine Learning Engineer I
+            posted Oct 26, 2026, 11:35 AM EDT
+            Seattle, Washington, United States
+            https://job-boards.greenhouse.io/axon/jobs/7482507003
+
  63  [today]  Nyla Technology Solutions — Junior Data Scientist
             posted Oct 25, 2026 (date only)
             Annapolis Junction, MD, United States
             https://jobright.ai/jobs/info/6adf2f2cc5c64fa3d9cb9ff3?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [  16h]  Booz Allen — Junior Data Scientist
+ 63  [  17h]  Booz Allen — Junior Data Scientist
             posted Oct 25, 2026, 8:00 PM EDT
             Washington, DC
             https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist--Junior_R0252270
@@ -40,7 +45,7 @@ Top 9 of 9 — last 24h — Oct 26, 12:50 PM EDT
             Santa Clara, CA
             https://go.vansh.nyc/BI
 
- 48  [  16h]  Evolent — Associate Software Engineer
+ 48  [  17h]  Evolent — Associate Software Engineer
             posted Oct 25, 2026, 8:00 PM EDT
             Remote in USA
             https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-916896
