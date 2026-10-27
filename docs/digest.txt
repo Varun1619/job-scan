@@ -1,39 +1,39 @@
-Top 15 of 27 — last 24h — Oct 27, 11:55 AM EDT
+Top 15 of 29 — last 24h — Oct 27, 12:16 PM EDT
 
- 75  [  22h]  Abacus Insights — Associate Data Engineer
+ 75  [  23h]  Abacus Insights — Associate Data Engineer
             posted Oct 26, 2026, 12:58 PM EDT
             Remote in USA
             https://boards.greenhouse.io/abacusinsights/jobs/8917379002
-
- 70  [today]  Savant Wealth Management — Associate Business Intelligence Analyst
-            posted Oct 26, 2026 (date only)
-            Rockford, IL, United States
-            https://jobright.ai/jobs/info/6ae02b36065c4e77efafe42e?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  D&A Services, LLC — Junior Data Analyst
-            posted Oct 26, 2026 (date only)
-            Des Plaines, IL, United States
-            https://jobright.ai/jobs/info/6adfd5fc0a4cc7090f983b45?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  UL Solutions — Associate Sustainability Data Analyst
             posted Oct 26, 2026 (date only)
             Northbrook, IL, United States
             https://jobright.ai/jobs/info/6adf8f779a8c91d5c3586a32?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Gupta Media — Data Analyst I
-            posted Oct 26, 2026 (date only)
-            Boston, MA, United States
-            https://jobright.ai/jobs/info/6ad908dfe4b94611ab852376?utm_campaign=Data%20Analysis&utm_source=1103
-
  70  [today]  Turning Point Community Programs — Data Analyst I
             posted Oct 26, 2026 (date only)
             Rancho Cordova, CA, United States
             https://jobright.ai/jobs/info/6adf862f0a4cc7090f98017d?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 70  [today]  D&A Services, LLC — Junior Data Analyst
+            posted Oct 26, 2026 (date only)
+            Des Plaines, IL, United States
+            https://jobright.ai/jobs/info/6adfd5fc0a4cc7090f983b45?utm_campaign=Data%20Analysis&utm_source=1103
+
  70  [today]  Turning Point Community Programs — Data Analyst I (On-Site)
             posted Oct 26, 2026 (date only)
             Rancho Cordova, CA, United States
             https://jobright.ai/jobs/info/6ae0519cc5c64fa3d9cc32ae?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Gupta Media — Data Analyst I
+            posted Oct 26, 2026 (date only)
+            Boston, MA, United States
+            https://jobright.ai/jobs/info/6ad908dfe4b94611ab852376?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Savant Wealth Management — Associate Business Intelligence Analyst
+            posted Oct 26, 2026 (date only)
+            Rockford, IL, United States
+            https://jobright.ai/jobs/info/6ae02b36065c4e77efafe42e?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Torentify — Data Analyst I (Remote)
             posted Oct 26, 2026 (date only)
@@ -50,6 +50,11 @@ Top 15 of 27 — last 24h — Oct 27, 11:55 AM EDT
             Redlands, CA, United States
             https://jobright.ai/jobs/info/6adfe6835dc7953215a4422c?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [  21h]  Planet Labs — Data Analyst - Cloud Financial Operations
+            posted Oct 26, 2026, 3:15 PM EDT
+            San Francisco, CA
+            https://job-boards.greenhouse.io/planetlabs/jobs/8255987
+
  67  [today]  AlohaCare — Data Analyst
             posted Oct 26, 2026 (date only)
             Honolulu, HI, United States
@@ -60,17 +65,12 @@ Top 15 of 27 — last 24h — Oct 27, 11:55 AM EDT
             Stafford, VA, United States
             https://jobright.ai/jobs/info/6ada6c2e03d2da7528914e92?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [today]  Pinterest — Master's University Grad Data Scientist (USA)
-            posted Oct 26, 2026 (date only)
-            San Francisco, CA, United States
-            https://jobright.ai/jobs/info/6abe9233064da25272e0192e?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  Bering-Alaka'ina Holdings, LLC — Jr. Counter Intelligence Data Scientist
-            posted Oct 26, 2026 (date only)
-            Arlington, VA, United States
-            https://jobright.ai/jobs/info/6adfd7a0c5c64fa3d9cc034b?utm_campaign=Data%20Analysis&utm_source=1103
-
  63  [today]  Jerry — Associate Data Scientist
             posted Oct 26, 2026 (date only)
             Arizona, United States
             https://jobright.ai/jobs/info/6adfcda4065c4e77efafbb62?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 63  [today]  Pinterest — Master's University Grad Data Scientist (USA)
+            posted Oct 26, 2026 (date only)
+            San Francisco, CA, United States
+            https://jobright.ai/jobs/info/6abe9233064da25272e0192e?utm_campaign=Data%20Analysis&utm_source=1103
