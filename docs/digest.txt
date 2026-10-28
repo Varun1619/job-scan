@@ -1,6 +1,16 @@
-Top 15 of 27 — last 24h — Oct 28, 12:44 PM EDT
+Top 15 of 36 — last 24h — Oct 28, 1:02 PM EDT
 
- 72  [  16h]  Tyson Foods — Data Engineer 1
+ 84  [  12h]  Snowflake — Data Engineer
+            posted Oct 28, 2026, 12:55 AM EDT
+            IN-Pune | H1B 219
+            https://jobs.ashbyhq.com/snowflake/1af751fb-d53e-43b0-a3bc-6fcc4004cafb
+
+ 72  [  <1h]  GitLab — Cloud Platform Engineer
+            posted Oct 28, 2026, 12:23 PM EDT
+            Remote, Canada; Remote, United States
+            https://job-boards.greenhouse.io/gitlab/jobs/8889193002
+
+ 72  [  17h]  Tyson Foods — Data Engineer 1
             posted Oct 27, 2026, 8:00 PM EDT
             Springdale, AR
             https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-Emma---Springdale-Arkansas/Data-Engineer-I---Onsite-_R0492784-2
@@ -10,10 +20,10 @@ Top 15 of 27 — last 24h — Oct 28, 12:44 PM EDT
             Dallas, TX, United States
             https://jobright.ai/jobs/info/6adcf2c0389e06bb41ad7c89?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  DHL Supply Chain — Business Data Analyst I
+ 70  [today]  The University of Alabama — Data Analyst I - 530905
             posted Oct 27, 2026 (date only)
-            Newville, PA, United States
-            https://jobright.ai/jobs/info/6ae20e07eb7e8f715a609907?utm_campaign=Data%20Analysis&utm_source=1103
+            Tuscaloosa, AL, United States
+            https://jobright.ai/jobs/info/6ae1474c6679108488c42806?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  UCSF Health — Research Data Analyst I
             posted Oct 27, 2026 (date only)
@@ -25,12 +35,12 @@ Top 15 of 27 — last 24h — Oct 28, 12:44 PM EDT
             Dayton, NJ, United States
             https://jobright.ai/jobs/info/6ae0d1cf67c31ab34899d2e7?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  The University of Alabama — Data Analyst I - 530905
+ 70  [today]  DHL Supply Chain — Business Data Analyst I
             posted Oct 27, 2026 (date only)
-            Tuscaloosa, AL, United States
-            https://jobright.ai/jobs/info/6ae1474c6679108488c42806?utm_campaign=Data%20Analysis&utm_source=1103
+            Newville, PA, United States
+            https://jobright.ai/jobs/info/6ae20e07eb7e8f715a609907?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [  16h]  Illuminate USA — Business Intelligence Analyst Associate
+ 70  [  17h]  Illuminate USA — Business Intelligence Analyst Associate
             posted Oct 27, 2026, 8:00 PM EDT
             Pataskala, OH
             https://illuminateusa.wd503.myworkdayjobs.com/en-US/Illuminate_Careers/job/OH---Pataskala/Business-Intelligence-Analyst-Associate_R1423
@@ -45,11 +55,6 @@ Top 15 of 27 — last 24h — Oct 28, 12:44 PM EDT
             United States
             https://jobright.ai/jobs/info/6ac3e284d9621c5b2839e681?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Booz Allen Hamilton — Data Analyst
-            posted Oct 27, 2026 (date only)
-            McLean, VA, United States
-            https://jobright.ai/jobs/info/6ad0e290256e49282e650a86?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  UST HealthProof — Threat Hunting Data Analyst
             posted Oct 27, 2026 (date only)
             New York, NY, United States
@@ -60,17 +65,12 @@ Top 15 of 27 — last 24h — Oct 28, 12:44 PM EDT
             Alabama, United States
             https://jobright.ai/jobs/info/6ae0e6de67c31ab34899e5dc?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [today]  Knowesis Inc. — Data Scientist I
+ 67  [today]  Booz Allen Hamilton — Data Analyst
             posted Oct 27, 2026 (date only)
-            Joint Base Lewis-McChord, WA, United States
-            https://jobright.ai/jobs/info/6abc0aee3217d1d13329cd01?utm_campaign=Data%20Analysis&utm_source=1103
+            McLean, VA, United States
+            https://jobright.ai/jobs/info/6ad0e290256e49282e650a86?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [today]  Pinterest — Master's University Grad Data Scientist (USA)
-            posted Oct 27, 2026 (date only)
-            San Francisco, CA, United States
-            https://jobright.ai/jobs/info/6abe9233064da25272e0192e?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  Dealer Tire — Associate Data Scientist
-            posted Oct 27, 2026 (date only)
-            California, United States
-            https://jobright.ai/jobs/info/6ac54ca94ac55253f5d75e2f?utm_campaign=Data%20Analysis&utm_source=1103
+ 66  [  <1h]  Cloudflare — Senior Data Engineer
+            posted Oct 28, 2026, 12:23 PM EDT
+            In-Office | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118
