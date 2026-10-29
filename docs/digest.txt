@@ -1,9 +1,4 @@
-Top 15 of 33 — last 24h — Oct 29, 1:00 PM EDT
-
- 70  [today]  Goldbelt Professional Services — Data Analyst I (ERIB)
-            posted Oct 29, 2026 (date only)
-            Massachusetts, United States
-            https://jobright.ai/jobs/info/6ac6aac88ff3fb9b3bc8e744?utm_campaign=Data%20Analysis&utm_source=1103
+Top 15 of 37 — last 24h — Oct 29, 1:21 PM EDT
 
  70  [today]  Torentify — Data Analyst I - Work From Home
             posted Oct 29, 2026 (date only)
@@ -14,6 +9,11 @@ Top 15 of 33 — last 24h — Oct 29, 1:00 PM EDT
             posted Oct 29, 2026 (date only)
             Huntington Beach, CA, United States
             https://jobright.ai/jobs/info/6ae2632fde23f466ec8c60ed?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Goldbelt Professional Services — Data Analyst I (ERIB)
+            posted Oct 29, 2026 (date only)
+            Massachusetts, United States
+            https://jobright.ai/jobs/info/6ac6aac88ff3fb9b3bc8e744?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Cisco — Data Analyst I (Full Time) - United States
             posted Oct 28, 2026 (date only)
@@ -35,35 +35,15 @@ Top 15 of 33 — last 24h — Oct 29, 1:00 PM EDT
             Long Island City, NY, United States
             https://jobright.ai/jobs/info/6ae35cb1fb2cd420ace50312?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Serco — Data Analyst
-            posted Oct 28, 2026 (date only)
-            Rock Island, IL, United States
-            https://jobright.ai/jobs/info/6ae1f5356679108488c45e6f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Snowflake — Business Intelligence Analyst
-            posted Oct 28, 2026 (date only)
-            Menlo Park, CA, United States | H1B 219
-            https://jobright.ai/jobs/info/6acec4564391691a335ae833?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  A Full Renovation – Project Services — Data Analyst
-            posted Oct 28, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6ae2d8d2d52406f6fbf73c11?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  University of Iowa — Enterprise Reporting Analyst
-            posted Oct 28, 2026 (date only)
-            Iowa, United States
-            https://jobright.ai/jobs/info/6ae2aa4b829a3bada160676a?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  Marsh People Solutions — Data Analyst
             posted Oct 28, 2026 (date only)
             Louisville, KY, United States
             https://jobright.ai/jobs/info/6ae24d9505a39c3e2c718cf1?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Miller Cooper & Co., Ltd. — Data Analyst
+ 67  [today]  Indotronix — Data Analyst
             posted Oct 28, 2026 (date only)
-            Chicago, IL, United States
-            https://jobright.ai/jobs/info/6ae2606ede23f466ec8c5e4f?utm_campaign=Data%20Analysis&utm_source=1103
+            Keller, TX, United States
+            https://jobright.ai/jobs/info/6ae319f1d45dc30fb7d27636?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  CharterUP — Data Analyst
             posted Oct 28, 2026 (date only)
@@ -74,3 +54,23 @@ Top 15 of 33 — last 24h — Oct 29, 1:00 PM EDT
             posted Oct 28, 2026 (date only)
             United States
             https://jobright.ai/jobs/info/6ae253426679108488c49fdd?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  A Full Renovation – Project Services — Data Analyst
+            posted Oct 28, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6ae2d8d2d52406f6fbf73c11?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Serco — Data Analyst
+            posted Oct 28, 2026 (date only)
+            Rock Island, IL, United States
+            https://jobright.ai/jobs/info/6ae1f5356679108488c45e6f?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Snowflake — Business Intelligence Analyst
+            posted Oct 28, 2026 (date only)
+            Menlo Park, CA, United States | H1B 219
+            https://jobright.ai/jobs/info/6acec4564391691a335ae833?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Miller Cooper & Co., Ltd. — Data Analyst
+            posted Oct 28, 2026 (date only)
+            Chicago, IL, United States
+            https://jobright.ai/jobs/info/6ae2606ede23f466ec8c5e4f?utm_campaign=Data%20Analysis&utm_source=1103
