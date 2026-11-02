@@ -1,4 +1,4 @@
-Top 15 of 17 — last 24h — Nov 2, 3:26 PM EST
+Top 15 of 29 — last 24h — Nov 2, 3:40 PM EST
 
  75  [   5h]  Element Solutions — Junior Data Engineer
             posted Nov 2, 2026, 10:09 AM EST
@@ -10,11 +10,6 @@ Top 15 of 17 — last 24h — Nov 2, 3:26 PM EST
             Portland, ME
             https://martin.wd1.myworkdayjobs.com/mphc/job/Portland-ME/Associate-Enterprise-Data-Engineer---Remote_REQ-2026-384
 
- 67  [today]  Encompass Supply Chain Solutions — Web Analytics Analyst
-            posted Nov 2, 2026 (date only)
-            Florida, United States
-            https://jobright.ai/jobs/info/6ab74535ba1c25652c611e12?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  Publicis Montréal — Analyst, Business Intelligence
             posted Nov 2, 2026 (date only)
             Chicago, IL, United States
@@ -24,6 +19,11 @@ Top 15 of 17 — last 24h — Nov 2, 3:26 PM EST
             posted Nov 2, 2026 (date only)
             Rockland, MA, United States
             https://jobright.ai/jobs/info/6ae869b0fb2cd420ace6612b?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Encompass Supply Chain Solutions — Web Analytics Analyst
+            posted Nov 2, 2026 (date only)
+            Florida, United States
+            https://jobright.ai/jobs/info/6ab74535ba1c25652c611e12?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [   5h]  Sperry Rail — Data Analyst 1
             posted Nov 2, 2026, 10:20 AM EST
@@ -40,6 +40,16 @@ Top 15 of 17 — last 24h — Nov 2, 3:26 PM EST
             Arlington County, Arlington, VA
             https://i3-corps.jibeapply.com/jobs/5417?icims=1
 
+ 66  [   6h]  Axon — Sr Machine Learning Engineer II
+            posted Nov 2, 2026, 9:10 AM EST
+            Seattle, Washington, United States
+            https://job-boards.greenhouse.io/axon/jobs/7788918003
+
+ 66  [   6h]  Axon — Senior Machine Learning Engineer I
+            posted Nov 2, 2026, 9:10 AM EST
+            Seattle, Washington, United States
+            https://job-boards.greenhouse.io/axon/jobs/7482507003
+
  66  [  20h]  Philips — Associate Data & AI Engineer - Medical Imaging
             posted Nov 1, 2026, 7:00 PM EST
             Bedford, MA
@@ -55,22 +65,12 @@ Top 15 of 17 — last 24h — Nov 2, 3:26 PM EST
             McLean, VA, United States
             https://jobright.ai/jobs/info/6ae765cb6c51033758f3cbd6?utm_campaign=Data%20Analysis&utm_source=1103
 
- 59  [today]  Guidehouse — Data Scientist
-            posted Nov 2, 2026 (date only)
-            Bethesda, MD, United States
-            https://jobright.ai/jobs/info/6aaaeb6f76707040fb08313e?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  TENICA Global Solutions — Data Scientist – TS/SCI CI Poly
-            posted Nov 2, 2026 (date only)
-            Chantilly, VA, United States
-            https://jobright.ai/jobs/info/6ae8d8a6a2a252e21942a120?utm_campaign=Data%20Analysis&utm_source=1103
-
  59  [today]  Torentify — Data Scientist - WFH
             posted Nov 2, 2026 (date only)
             Tucson, AZ, United States
             https://jobright.ai/jobs/info/6ae897e0061d6d7ff3d7b1fb?utm_campaign=Data%20Analysis&utm_source=1103
 
- 59  [today]  Booz Allen Hamilton — Data Scientist
-            posted Nov 1, 2026 (date only)
-            Fort Meade, MD, United States
-            https://jobright.ai/jobs/info/6a9b4e36d5ff1f3f1c39ec0a?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [today]  Guidehouse — Data Scientist
+            posted Nov 2, 2026 (date only)
+            Bethesda, MD, United States
+            https://jobright.ai/jobs/info/6aaaeb6f76707040fb08313e?utm_campaign=Data%20Analysis&utm_source=1103
