@@ -1,76 +1,76 @@
-Top 15 of 118 — last 24h — Nov 1, 11:52 AM EST
+Top 15 of 17 — last 24h — Nov 2, 3:26 PM EST
 
- 75  [   7h]  TikTok — New Grad 2027: Data Engineer, Monetization Data
-            posted Nov 1, 2026, 4:41 AM EST
-            San Jose, CA | H1B 1800
-            https://go.vansh.nyc/160
+ 75  [   5h]  Element Solutions — Junior Data Engineer
+            posted Nov 2, 2026, 10:09 AM EST
+            Remote in USA
+            https://jobs.lever.co/elementsolutions/88f248fb-459a-4d4e-8f6a-80e1671bf86e/apply
 
- 75  [   7h]  TikTok — New Grad 2027: Data Engineer, Data Platform - Global Live
-            posted Nov 1, 2026, 4:41 AM EST
-            San Jose, CA | H1B 1800
-            https://go.vansh.nyc/174
+ 75  [  20h]  Martin's Point Health Care — Associate Enterprise Data Engineer
+            posted Nov 1, 2026, 7:00 PM EST
+            Portland, ME
+            https://martin.wd1.myworkdayjobs.com/mphc/job/Portland-ME/Associate-Enterprise-Data-Engineer---Remote_REQ-2026-384
 
- 75  [   7h]  TikTok — New Grad 2027: Big Data Engineer, TikTok Recommendation Architecture
-            posted Nov 1, 2026, 4:41 AM EST
-            San Jose, CA | H1B 1800
-            https://go.vansh.nyc/17m
+ 67  [today]  Encompass Supply Chain Solutions — Web Analytics Analyst
+            posted Nov 2, 2026 (date only)
+            Florida, United States
+            https://jobright.ai/jobs/info/6ab74535ba1c25652c611e12?utm_campaign=Data%20Analysis&utm_source=1103
 
- 75  [   8h]  ByteDance — New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Master's)
-            posted Nov 1, 2026, 2:59 AM EST
-            San Jose, CA | H1B 1800
-            https://go.vansh.nyc/14K
+ 67  [today]  Publicis Montréal — Analyst, Business Intelligence
+            posted Nov 2, 2026 (date only)
+            Chicago, IL, United States
+            https://jobright.ai/jobs/info/6ae8a30203f4a1104b254b70?utm_campaign=Data%20Analysis&utm_source=1103
 
- 75  [   8h]  ByteDance — New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Master's)
-            posted Nov 1, 2026, 2:59 AM EST
-            Seattle, WA | H1B 1800
-            https://go.vansh.nyc/14L
+ 67  [today]  Rockland Trust — Business Intelligence Analyst
+            posted Nov 2, 2026 (date only)
+            Rockland, MA, United States
+            https://jobright.ai/jobs/info/6ae869b0fb2cd420ace6612b?utm_campaign=Data%20Analysis&utm_source=1103
 
- 75  [   8h]  ByteDance — New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform
-            posted Nov 1, 2026, 2:59 AM EST
-            Seattle, WA | H1B 1800
-            https://go.vansh.nyc/14P
-
- 75  [   8h]  ByteDance — New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)
-            posted Nov 1, 2026, 2:59 AM EST
-            San Jose, CA | H1B 1800
-            https://go.vansh.nyc/150
-
- 75  [   8h]  ByteDance — New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)
-            posted Nov 1, 2026, 2:59 AM EST
-            Seattle, WA | H1B 1800
-            https://go.vansh.nyc/153
-
- 75  [   8h]  ByteDance — New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform
-            posted Nov 1, 2026, 2:59 AM EST
-            San Jose, CA | H1B 1800
-            https://go.vansh.nyc/15d
-
- 75  [   8h]  ByteDance — New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform
-            posted Nov 1, 2026, 2:59 AM EST
-            Seattle, WA | H1B 1800
-            https://go.vansh.nyc/15e
+ 67  [   5h]  Sperry Rail — Data Analyst 1
+            posted Nov 2, 2026, 10:20 AM EST
+            Olathe, KS
+            https://ats.rippling.com/sperry-rail-inc/jobs/7fc77434-4211-480b-82f8-41c6ebc82fd8
 
  67  [today]  Snowflake — Business Intelligence Analyst
-            posted Oct 31, 2026 (date only)
+            posted Nov 1, 2026 (date only)
             Menlo Park, CA, United States | H1B 219
             https://jobright.ai/jobs/info/6acea7d24f3229123da3d7b4?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Lockton — Pharmacy Data Analyst
-            posted Oct 31, 2026 (date only)
-            Minneapolis, MN, United States
-            https://jobright.ai/jobs/info/6ab63398d85922de20ce46dc?utm_campaign=Data%20Analysis&utm_source=1103
+ 66  [   5h]  Integration Innovation (i3) — Junior Machine Learning Engineer
+            posted Nov 2, 2026, 10:19 AM EST
+            Arlington County, Arlington, VA
+            https://i3-corps.jibeapply.com/jobs/5417?icims=1
 
- 67  [today]  Serco — Data Analyst
-            posted Oct 31, 2026 (date only)
-            Rock Island, IL, United States
-            https://jobright.ai/jobs/info/6ae1f5356679108488c45e6f?utm_campaign=Data%20Analysis&utm_source=1103
+ 66  [  20h]  Philips — Associate Data & AI Engineer - Medical Imaging
+            posted Nov 1, 2026, 7:00 PM EST
+            Bedford, MA
+            https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Associate-Data---AI-Engineer---Medical-Imaging--Bedford--MA-_594180
 
- 67  [today]  DRW — Data Analyst, Exploration
-            posted Oct 31, 2026 (date only)
-            Chicago, IL, United States
-            https://jobright.ai/jobs/info/6ad108423d3a5aa909b373db?utm_campaign=Data%20Analysis&utm_source=1103
+ 63  [today]  Esri — Data Scientist I
+            posted Nov 2, 2026 (date only)
+            St. Louis, MO, United States
+            https://jobright.ai/jobs/info/6a3c3518882f121f56a33ce8?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  A Full Renovation – Interiors & Design — Data Analyst
-            posted Oct 31, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6ae68f44fb2cd420ace60cc2?utm_campaign=Data%20Analysis&utm_source=1103
+ 63  [today]  Steampunk, Inc. — Associate Data Scientist
+            posted Nov 1, 2026 (date only)
+            McLean, VA, United States
+            https://jobright.ai/jobs/info/6ae765cb6c51033758f3cbd6?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  Guidehouse — Data Scientist
+            posted Nov 2, 2026 (date only)
+            Bethesda, MD, United States
+            https://jobright.ai/jobs/info/6aaaeb6f76707040fb08313e?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  TENICA Global Solutions — Data Scientist – TS/SCI CI Poly
+            posted Nov 2, 2026 (date only)
+            Chantilly, VA, United States
+            https://jobright.ai/jobs/info/6ae8d8a6a2a252e21942a120?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  Torentify — Data Scientist - WFH
+            posted Nov 2, 2026 (date only)
+            Tucson, AZ, United States
+            https://jobright.ai/jobs/info/6ae897e0061d6d7ff3d7b1fb?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  Booz Allen Hamilton — Data Scientist
+            posted Nov 1, 2026 (date only)
+            Fort Meade, MD, United States
+            https://jobright.ai/jobs/info/6a9b4e36d5ff1f3f1c39ec0a?utm_campaign=Data%20Analysis&utm_source=1103
