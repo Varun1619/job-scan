@@ -1,24 +1,24 @@
-Top 15 of 28 — last 24h — Nov 3, 12:56 PM EST
+Top 15 of 29 — last 24h — Nov 3, 1:16 PM EST
 
- 72  [  18h]  Stuller — Data Engineer
+ 72  [  19h]  Stuller — Data Engineer
             posted Nov 2, 2026, 6:14 PM EST
             Lafayette, LA
             https://secure4.saashr.com/ta/6052029.careers?ShowJob=1057248002&lang=en-US
 
- 72  [  22h]  Qualtrics — Software Development Engineer 1 - Data Platform
+ 72  [  23h]  Qualtrics — Software Development Engineer 1 - Data Platform
             posted Nov 2, 2026, 2:00 PM EST
             Seattle, WA
             https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245
-
- 70  [today]  DHL Supply Chain — Business Data Analyst I
-            posted Nov 2, 2026 (date only)
-            Newville, Pennsylvania, United States
-            https://jobright.ai/jobs/info/6ae3cea4c3139b475b5b05f4?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Optum — Patient Access Center Data Analyst I - Kelsey Seybold Clinic
             posted Nov 2, 2026 (date only)
             United States
             https://jobright.ai/jobs/info/6ae96f0aa291a1db4de23f66?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  DHL Supply Chain — Business Data Analyst I
+            posted Nov 2, 2026 (date only)
+            Newville, Pennsylvania, United States
+            https://jobright.ai/jobs/info/6ae3cea4c3139b475b5b05f4?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Vestwell — Data Analyst
             posted Nov 3, 2026 (date only)
@@ -35,27 +35,27 @@ Top 15 of 28 — last 24h — Nov 3, 12:56 PM EST
             Rockland, MA, United States
             https://jobright.ai/jobs/info/6ae869b0fb2cd420ace6612b?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Serco — Data Analyst
-            posted Nov 2, 2026 (date only)
-            Rock Island, IL, United States
-            https://jobright.ai/jobs/info/6ae1f5356679108488c45e6f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Encompass Supply Chain Solutions — Web Analytics Analyst
-            posted Nov 2, 2026 (date only)
-            Florida, United States
-            https://jobright.ai/jobs/info/6ab74535ba1c25652c611e12?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  Stanford University — Research Data Analyst
             posted Nov 2, 2026 (date only)
             Stanford, CA, United States
             https://jobright.ai/jobs/info/6ae8e3defb2cd420ace69dd9?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Serco — Data Analyst
+            posted Nov 2, 2026 (date only)
+            Rock Island, IL, United States
+            https://jobright.ai/jobs/info/6ae1f5356679108488c45e6f?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Peak Retirement Planning — Data Analyst
             posted Nov 2, 2026 (date only)
             Columbus, OH, United States
             https://jobright.ai/jobs/info/6a9b1552d5ff1f3f1c39d939?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [  17h]  The Home Depot — Data Analyst - Supply Chain
+ 67  [today]  Encompass Supply Chain Solutions — Web Analytics Analyst
+            posted Nov 2, 2026 (date only)
+            Florida, United States
+            https://jobright.ai/jobs/info/6ab74535ba1c25652c611e12?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [  18h]  The Home Depot — Data Analyst - Supply Chain
             posted Nov 2, 2026, 7:00 PM EST
             Atlanta, GA
             https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Analyst---Supply-Chain_Req197256
