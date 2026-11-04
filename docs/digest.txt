@@ -1,4 +1,9 @@
-Top 15 of 30 — last 24h — Nov 4, 1:07 PM EST
+Top 15 of 47 — last 24h — Nov 4, 1:31 PM EST
+
+ 72  [  <1h]  Verkada — Software Engineer - Data Platform
+            posted Nov 4, 2026, 1:14 PM EST
+            San Mateo, CA United States
+            https://job-boards.greenhouse.io/verkada/jobs/4129304007
 
  70  [today]  Leaf Home — Data Analyst I
             posted Nov 4, 2026 (date only)
@@ -15,20 +20,25 @@ Top 15 of 30 — last 24h — Nov 4, 1:07 PM EST
             Irvine, CA, United States
             https://jobright.ai/jobs/info/6aea7c9c897466e69e31f4e7?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Serco — Data Analyst
-            posted Nov 4, 2026 (date only)
-            Rock Island, IL, United States
-            https://jobright.ai/jobs/info/6ae1f5356679108488c45e6f?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  Columbia University — Monitoring, Evaluation, and Learning Data Analyst
             posted Nov 4, 2026 (date only)
             Manhattanville, NY, United States
             https://jobright.ai/jobs/info/6aea2132897466e69e31bd63?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [today]  Serco — Data Analyst
+            posted Nov 4, 2026 (date only)
+            Rock Island, IL, United States
+            https://jobright.ai/jobs/info/6ae1f5356679108488c45e6f?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  School of Education, University of Wisconsin-Madison — Data Analyst
             posted Nov 4, 2026 (date only)
             Madison, WI, United States
             https://jobright.ai/jobs/info/6aeb1795f40efa43f4a13663?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  VestweII — Data Analyst
+            posted Nov 3, 2026 (date only)
+            Buffalo–Niagara Falls Area, United States
+            https://jobright.ai/jobs/info/6aea98391ba298c777773ffc?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Paul Logistics — Reporting & Data Analyst
             posted Nov 3, 2026 (date only)
@@ -40,37 +50,27 @@ Top 15 of 30 — last 24h — Nov 4, 1:07 PM EST
             New York, NY, United States
             https://jobright.ai/jobs/info/6aea0314440b469a1c0a91ec?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  VestweII — Data Analyst
-            posted Nov 3, 2026 (date only)
-            Buffalo–Niagara Falls Area, United States
-            https://jobright.ai/jobs/info/6aea98391ba298c777773ffc?utm_campaign=Data%20Analysis&utm_source=1103
+ 66  [  <1h]  Verkada — Senior Software Engineer, Data Platform
+            posted Nov 4, 2026, 1:14 PM EST
+            San Mateo, CA United States
+            https://job-boards.greenhouse.io/verkada/jobs/5215882007
 
- 66  [   7h]  ShadowDragon — Junior AI/Machine Learning Engineer
+ 66  [   8h]  ShadowDragon — Junior AI/Machine Learning Engineer
             posted Nov 4, 2026, 5:11 AM EST
             Remote in USA, Hoover, AL
             https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c
 
- 59  [today]  The Voleon Group — Data Scientist
-            posted Nov 4, 2026 (date only)
-            Berkeley, CA, United States
-            https://jobright.ai/jobs/info/6a2703fa7d827633afff8006?utm_campaign=Data%20Analysis&utm_source=1103
+ 66  [  18h]  GitLab — Senior CX Platform Engineer
+            posted Nov 3, 2026, 7:09 PM EST
+            Remote
+            https://job-boards.greenhouse.io/gitlab/jobs/8871406002
 
- 59  [today]  Tata Consultancy Services — Data Scientist
-            posted Nov 4, 2026 (date only)
-            San Antonio, TX, United States
-            https://jobright.ai/jobs/info/6aad7c83de327d3e210d2a9f?utm_campaign=Data%20Analysis&utm_source=1103
+ 66  [  20h]  Axon — Sr Machine Learning Engineer II
+            posted Nov 3, 2026, 4:35 PM EST
+            Seattle, Washington, United States
+            https://job-boards.greenhouse.io/axon/jobs/7788918003
 
- 59  [today]  Guidehouse — Data Scientist
-            posted Nov 4, 2026 (date only)
-            Bethesda, MD, United States
-            https://jobright.ai/jobs/info/6aaaeb6f76707040fb08313e?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  Noblis — Data Scientist - Multiple Levels (Cleared)
-            posted Nov 4, 2026 (date only)
-            Reston, VA, United States
-            https://jobright.ai/jobs/info/6aa4ebd3a77a53f5a156ea0d?utm_campaign=Data%20Analysis&utm_source=1103
-
- 59  [today]  Noblis — Data Scientist - Cleared (Multiple Levels)
-            posted Nov 4, 2026 (date only)
-            Chantilly, VA, United States
-            https://jobright.ai/jobs/info/6adc98430a4cc7090f977ae8?utm_campaign=Data%20Analysis&utm_source=1103
+ 66  [  20h]  Axon — Senior Machine Learning Engineer I
+            posted Nov 3, 2026, 4:35 PM EST
+            Seattle, Washington, United States
+            https://job-boards.greenhouse.io/axon/jobs/7482507003
