@@ -1,4 +1,4 @@
-Top 15 of 40 — last 24h — Nov 5, 1:09 PM EST
+Top 15 of 45 — last 24h — Nov 5, 1:35 PM EST
 
  72  [today]  Tantalus Systems — Analytics Engineer
             posted Nov 4, 2026 (date only)
@@ -11,49 +11,44 @@ Top 15 of 40 — last 24h — Nov 5, 1:09 PM EST
             https://jobright.ai/jobs/info/6aeb646b65311d97105b805a?utm_campaign=Data%20Analysis&utm_source=1103
 
  72  [  23h]  Verkada — Software Engineer - Data Platform
-            posted Nov 4, 2026, 1:14 PM EST
+            posted Nov 4, 2026, 1:52 PM EST
             San Mateo, CA United States
             https://job-boards.greenhouse.io/verkada/jobs/4129304007
-
- 70  [today]  Leaf Home — Data Analyst I
-            posted Nov 4, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6ab2a9a030340229a322ed36?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Sony Electronics — Associate Data Analyst
             posted Nov 4, 2026 (date only)
             San Diego, CA, United States
             https://jobright.ai/jobs/info/6aeba810f40efa43f4a19986?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  General Dynamics Information Technology — Data Analyst Associate - TS/SCI with Polygraph
+ 70  [today]  Leaf Home — Data Analyst I
             posted Nov 4, 2026 (date only)
-            Chantilly, VA, United States
-            https://jobright.ai/jobs/info/6aeb825082f0ac077443a797?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Boston Children's Hospital — Healthcare Data Analyst I
-            posted Nov 4, 2026 (date only)
-            Boston, MA, United States
-            https://jobright.ai/jobs/info/6aeb9e0b765815f7d74623e6?utm_campaign=Data%20Analysis&utm_source=1103
+            United States
+            https://jobright.ai/jobs/info/6ab2a9a030340229a322ed36?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Sanford Health — Associate Business Intelligence (BI) Analyst
             posted Nov 4, 2026 (date only)
             Fargo, ND, United States
             https://jobright.ai/jobs/info/6aeb6e4b765815f7d74604c5?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [   1d]  Children's Hospital of Philadelphia — Data Analyst I - Neurocritical Care Program
+ 70  [today]  Boston Children's Hospital — Healthcare Data Analyst I
             posted Nov 4, 2026 (date only)
-            Philadelphia, PA, United States
-            https://jobright.ai/jobs/info/6aea29e9fc85f3a394330f4f?utm_campaign=Data%20Analysis&utm_source=1103
+            Boston, MA, United States
+            https://jobright.ai/jobs/info/6aeb9e0b765815f7d74623e6?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Old World Industries — IT Data Analyst
-            posted Nov 5, 2026 (date only)
-            Northbrook, IL, United States
-            https://jobright.ai/jobs/info/6ae02eeb9a8c91d5c358c158?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  General Dynamics Information Technology — Data Analyst Associate - TS/SCI with Polygraph
+            posted Nov 4, 2026 (date only)
+            Chantilly, VA, United States
+            https://jobright.ai/jobs/info/6aeb825082f0ac077443a797?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Chenega Defense & Aerospace Solutions — Data Analyst
             posted Nov 5, 2026 (date only)
             Alexandria, VA, United States
             https://jobright.ai/jobs/info/6aec5daaa9ea762a0408f2d7?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Old World Industries — IT Data Analyst
+            posted Nov 5, 2026 (date only)
+            Northbrook, IL, United States
+            https://jobright.ai/jobs/info/6ae02eeb9a8c91d5c358c158?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [  10h]  Yusen Logistics — IT Reporting Analyst 1 - Reports & Labels
             posted Nov 5, 2026, 2:51 AM EST
@@ -64,6 +59,11 @@ Top 15 of 40 — last 24h — Nov 5, 1:09 PM EST
             posted Nov 5, 2026, 2:51 AM EST
             Sumner, WA, Greenfield, IN, Jacksonville, FL, Grapevine, TX
             https://go.vansh.nyc/1i1
+
+ 67  [today]  Chenega Corporation — Data Analyst
+            posted Nov 4, 2026 (date only)
+            Alexandria, VA, United States
+            https://jobright.ai/jobs/info/6aebd2f182f0ac077443d5d2?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Snowflake — Business Intelligence Analyst
             posted Nov 4, 2026 (date only)
