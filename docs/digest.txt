@@ -1,6 +1,16 @@
-Top 15 of 47 — last 24h — Nov 4, 1:31 PM EST
+Top 15 of 40 — last 24h — Nov 5, 1:09 PM EST
 
- 72  [  <1h]  Verkada — Software Engineer - Data Platform
+ 72  [today]  Tantalus Systems — Analytics Engineer
+            posted Nov 4, 2026 (date only)
+            Chattanooga, TN, United States
+            https://jobright.ai/jobs/info/6aeb648982f0ac07744392d4?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 72  [today]  Tantalus Systems — Analytics Engineer
+            posted Nov 4, 2026 (date only)
+            Raleigh, NC, United States
+            https://jobright.ai/jobs/info/6aeb646b65311d97105b805a?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 72  [  23h]  Verkada — Software Engineer - Data Platform
             posted Nov 4, 2026, 1:14 PM EST
             San Mateo, CA United States
             https://job-boards.greenhouse.io/verkada/jobs/4129304007
@@ -10,67 +20,57 @@ Top 15 of 47 — last 24h — Nov 4, 1:31 PM EST
             United States
             https://jobright.ai/jobs/info/6ab2a9a030340229a322ed36?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Children's Hospital of Philadelphia — Data Analyst I - Neurocritical Care Program
+ 70  [today]  Sony Electronics — Associate Data Analyst
+            posted Nov 4, 2026 (date only)
+            San Diego, CA, United States
+            https://jobright.ai/jobs/info/6aeba810f40efa43f4a19986?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  General Dynamics Information Technology — Data Analyst Associate - TS/SCI with Polygraph
+            posted Nov 4, 2026 (date only)
+            Chantilly, VA, United States
+            https://jobright.ai/jobs/info/6aeb825082f0ac077443a797?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Boston Children's Hospital — Healthcare Data Analyst I
+            posted Nov 4, 2026 (date only)
+            Boston, MA, United States
+            https://jobright.ai/jobs/info/6aeb9e0b765815f7d74623e6?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Sanford Health — Associate Business Intelligence (BI) Analyst
+            posted Nov 4, 2026 (date only)
+            Fargo, ND, United States
+            https://jobright.ai/jobs/info/6aeb6e4b765815f7d74604c5?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [   1d]  Children's Hospital of Philadelphia — Data Analyst I - Neurocritical Care Program
             posted Nov 4, 2026 (date only)
             Philadelphia, PA, United States
             https://jobright.ai/jobs/info/6aea29e9fc85f3a394330f4f?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Ventura Foods — Associate Business Intelligence Engineer
-            posted Nov 3, 2026 (date only)
-            Irvine, CA, United States
-            https://jobright.ai/jobs/info/6aea7c9c897466e69e31f4e7?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Old World Industries — IT Data Analyst
+            posted Nov 5, 2026 (date only)
+            Northbrook, IL, United States
+            https://jobright.ai/jobs/info/6ae02eeb9a8c91d5c358c158?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Columbia University — Monitoring, Evaluation, and Learning Data Analyst
+ 67  [today]  Chenega Defense & Aerospace Solutions — Data Analyst
+            posted Nov 5, 2026 (date only)
+            Alexandria, VA, United States
+            https://jobright.ai/jobs/info/6aec5daaa9ea762a0408f2d7?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [  10h]  Yusen Logistics — IT Reporting Analyst 1 - Reports & Labels
+            posted Nov 5, 2026, 2:51 AM EST
+            Sumner, WA, Greenfield, IN, Jacksonville, FL, Grapevine, TX
+            https://careers-yusen-logistics.icims.com/jobs/6521/job?mobile=true&needsRedirect=false
+
+ 67  [  10h]  Yusen Logistics — IT Reporting Analyst 1, Reports & Labels
+            posted Nov 5, 2026, 2:51 AM EST
+            Sumner, WA, Greenfield, IN, Jacksonville, FL, Grapevine, TX
+            https://go.vansh.nyc/1i1
+
+ 67  [today]  Snowflake — Business Intelligence Analyst
             posted Nov 4, 2026 (date only)
-            Manhattanville, NY, United States
-            https://jobright.ai/jobs/info/6aea2132897466e69e31bd63?utm_campaign=Data%20Analysis&utm_source=1103
+            Menlo Park, CA, United States | H1B 219
+            https://jobright.ai/jobs/info/6acea7d24f3229123da3d7b4?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Serco — Data Analyst
+ 67  [today]  STERIS — Quality Analytics Analyst
             posted Nov 4, 2026 (date only)
-            Rock Island, IL, United States
-            https://jobright.ai/jobs/info/6ae1f5356679108488c45e6f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  School of Education, University of Wisconsin-Madison — Data Analyst
-            posted Nov 4, 2026 (date only)
-            Madison, WI, United States
-            https://jobright.ai/jobs/info/6aeb1795f40efa43f4a13663?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  VestweII — Data Analyst
-            posted Nov 3, 2026 (date only)
-            Buffalo–Niagara Falls Area, United States
-            https://jobright.ai/jobs/info/6aea98391ba298c777773ffc?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Paul Logistics — Reporting & Data Analyst
-            posted Nov 3, 2026 (date only)
-            Tulsa, OK, United States
-            https://jobright.ai/jobs/info/6ae5000ceab1f9673097ed34?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Vestwell — Data Analyst
-            posted Nov 3, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6aea0314440b469a1c0a91ec?utm_campaign=Data%20Analysis&utm_source=1103
-
- 66  [  <1h]  Verkada — Senior Software Engineer, Data Platform
-            posted Nov 4, 2026, 1:14 PM EST
-            San Mateo, CA United States
-            https://job-boards.greenhouse.io/verkada/jobs/5215882007
-
- 66  [   8h]  ShadowDragon — Junior AI/Machine Learning Engineer
-            posted Nov 4, 2026, 5:11 AM EST
-            Remote in USA, Hoover, AL
-            https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c
-
- 66  [  18h]  GitLab — Senior CX Platform Engineer
-            posted Nov 3, 2026, 7:09 PM EST
-            Remote
-            https://job-boards.greenhouse.io/gitlab/jobs/8871406002
-
- 66  [  20h]  Axon — Sr Machine Learning Engineer II
-            posted Nov 3, 2026, 4:35 PM EST
-            Seattle, Washington, United States
-            https://job-boards.greenhouse.io/axon/jobs/7788918003
-
- 66  [  20h]  Axon — Senior Machine Learning Engineer I
-            posted Nov 3, 2026, 4:35 PM EST
-            Seattle, Washington, United States
-            https://job-boards.greenhouse.io/axon/jobs/7482507003
+            Mentor, OH, United States
+            https://jobright.ai/jobs/info/6ac801d7fcdafb60c6a4722a?utm_campaign=Data%20Analysis&utm_source=1103
