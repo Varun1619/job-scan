@@ -1,4 +1,14 @@
-Top 15 of 22 — last 24h — Nov 6, 12:36 PM EST
+Top 15 of 34 — last 24h — Nov 6, 12:52 PM EST
+
+ 72  [  19h]  GitLab — Cloud Platform Engineer
+            posted Nov 5, 2026, 5:14 PM EST
+            Remote, Canada; Remote, United States
+            https://job-boards.greenhouse.io/gitlab/jobs/8889193002
+
+ 72  [  19h]  Verkada — Software Engineer - Data Platform
+            posted Nov 5, 2026, 5:10 PM EST
+            San Mateo, CA United States
+            https://job-boards.greenhouse.io/verkada/jobs/4129304007
 
  70  [today]  The Henry M. Jackson Foundation for the Advancement of Military Medicine — Data Analyst I - PED
             posted Nov 5, 2026 (date only)
@@ -25,31 +35,6 @@ Top 15 of 22 — last 24h — Nov 6, 12:36 PM EST
             Menlo Park, CA, United States | H1B 219
             https://jobright.ai/jobs/info/6acea7d24f3229123da3d7b4?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Chenega Defense & Aerospace Solutions — Data Analyst
-            posted Nov 5, 2026 (date only)
-            Alexandria, VA, United States
-            https://jobright.ai/jobs/info/6aec5daaa9ea762a0408f2d7?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Old World Industries — IT Data Analyst
-            posted Nov 5, 2026 (date only)
-            Northbrook, IL, United States
-            https://jobright.ai/jobs/info/6ae02eeb9a8c91d5c358c158?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Vestwell — Data Analyst
-            posted Nov 5, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6aea0314440b469a1c0a91ec?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Booz Allen Hamilton — Data Analyst
-            posted Nov 5, 2026 (date only)
-            McLean, VA, United States
-            https://jobright.ai/jobs/info/6ad0e290256e49282e650a86?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Regeneron — Data Analyst, Quality Assurance
-            posted Nov 5, 2026 (date only)
-            Troy, NY, United States
-            https://jobright.ai/jobs/info/6aed34e8a2661405dc2c9b9a?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  A Full Renovation – Home Improvement — Data Analyst
             posted Nov 5, 2026 (date only)
             United States
@@ -60,17 +45,32 @@ Top 15 of 22 — last 24h — Nov 6, 12:36 PM EST
             Chicago, IL, United States
             https://jobright.ai/jobs/info/6aeccfa7a2661405dc2c6925?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [today]  Chenega Defense & Aerospace Solutions — Data Analyst
+            posted Nov 5, 2026 (date only)
+            Alexandria, VA, United States
+            https://jobright.ai/jobs/info/6aec5daaa9ea762a0408f2d7?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Old World Industries — IT Data Analyst
+            posted Nov 5, 2026 (date only)
+            Northbrook, IL, United States
+            https://jobright.ai/jobs/info/6ae02eeb9a8c91d5c358c158?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  HCLTech — Data Analyst - Machine Learning, Python
             posted Nov 5, 2026 (date only)
             Dallas, TX, United States
             https://jobright.ai/jobs/info/6aecb3c03967d67f6359ebd0?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [today]  General Atomics — Data Scientist I
+ 67  [today]  Regeneron — Data Analyst, Quality Assurance
             posted Nov 5, 2026 (date only)
-            Poway, CA, United States
-            https://jobright.ai/jobs/info/6aed5615a3da3840d4abad0f?utm_campaign=Data%20Analysis&utm_source=1103
+            Troy, NY, United States
+            https://jobright.ai/jobs/info/6aed34e8a2661405dc2c9b9a?utm_campaign=Data%20Analysis&utm_source=1103
 
- 62  [  18h]  neurohire.ai — Software AI Engineer
-            posted Nov 5, 2026, 6:08 PM EST
-            Remote in USA
-            https://apply.workable.com/neurohire-dot-a-i/j/E5A5756725/apply
+ 67  [today]  Vestwell — Data Analyst
+            posted Nov 5, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6aea0314440b469a1c0a91ec?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Booz Allen Hamilton — Data Analyst
+            posted Nov 5, 2026 (date only)
+            McLean, VA, United States
+            https://jobright.ai/jobs/info/6ad0e290256e49282e650a86?utm_campaign=Data%20Analysis&utm_source=1103
