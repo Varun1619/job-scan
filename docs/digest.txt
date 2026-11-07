@@ -1,76 +1,76 @@
-Top 15 of 34 — last 24h — Nov 6, 12:52 PM EST
+Top 15 of 22 — last 24h — Nov 7, 11:33 AM EST
 
- 72  [  19h]  GitLab — Cloud Platform Engineer
-            posted Nov 5, 2026, 5:14 PM EST
-            Remote, Canada; Remote, United States
-            https://job-boards.greenhouse.io/gitlab/jobs/8889193002
+ 75  [  16h]  Tesla — Associate Data Engineer - Manufacturing Planning Systems - Semi
+            posted Nov 6, 2026, 6:46 PM EST
+            Sparks, NV
+            https://www.tesla.com/careers/search/job/289265
 
- 72  [  19h]  Verkada — Software Engineer - Data Platform
-            posted Nov 5, 2026, 5:10 PM EST
-            San Mateo, CA United States
-            https://job-boards.greenhouse.io/verkada/jobs/4129304007
+ 70  [today]  Goldbelt Apex LLC — Junior Data Analyst
+            posted Nov 7, 2026 (date only)
+            Falls Church, VA, United States
+            https://jobright.ai/jobs/info/6ab567da4873fd3fd852954e?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  The Henry M. Jackson Foundation for the Advancement of Military Medicine — Data Analyst I - PED
-            posted Nov 5, 2026 (date only)
-            Bethesda, MD, United States
-            https://jobright.ai/jobs/info/6a8f3eabd7c91d0cf446e4d2?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  NORC at the University of Chicago — Data Analyst I or II - Statistics and Data Science research support
+            posted Nov 6, 2026 (date only)
+            Chicago, IL, United States
+            https://jobright.ai/jobs/info/6ad14af9a4f99fef819436b1?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Gupta Media — Data Analyst I
-            posted Nov 5, 2026 (date only)
+ 70  [today]  Boston Children's Hospital — Healthcare Data Analyst I
+            posted Nov 6, 2026 (date only)
             Boston, MA, United States
-            https://jobright.ai/jobs/info/6ad908dfe4b94611ab852376?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6aeb9e0b765815f7d74623e6?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Akytech Consulting LLC — Junior Data Analyst
-            posted Nov 5, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6aecbb55a9ea762a040918f0?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  Boston Scientific — Quality Data Analyst I Job Details / Boston Scientific
+            posted Nov 6, 2026 (date only)
+            Arden Hills, MN, United States
+            https://jobright.ai/jobs/info/6aee7a03c7498922fe0cd08f?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  FirstEnergy — Data Analyst I - Distribution System Operations
+            posted Nov 6, 2026 (date only)
+            Akron, OH, United States
+            https://jobright.ai/jobs/info/6aee4655d20350c7a507b8f1?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Boston Scientific — Quality Data Analyst I
+            posted Nov 6, 2026 (date only)
+            Arden Hills, MN, United States
+            https://jobright.ai/jobs/info/6aee13d6caf8e660b87da5f1?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Fragomen — Data Analyst
+            posted Nov 7, 2026 (date only)
+            New York, New York, United States
+            https://jobright.ai/jobs/info/6ad23ba55290d4375c45137b?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Snowflake — Business Intelligence Analyst
+            posted Nov 6, 2026 (date only)
+            Menlo Park, CA, United States | H1B 219
+            https://jobright.ai/jobs/info/6acea7d24f3229123da3d7b4?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  STERIS — Quality Analytics Analyst
+            posted Nov 6, 2026 (date only)
+            Mentor, OH, United States
+            https://jobright.ai/jobs/info/6ac801d7fcdafb60c6a4722a?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Serco — Data Analyst
             posted Nov 6, 2026 (date only)
             Rock Island, IL, United States
             https://jobright.ai/jobs/info/6ae1f5356679108488c45e6f?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Snowflake — Business Intelligence Analyst
-            posted Nov 5, 2026 (date only)
-            Menlo Park, CA, United States | H1B 219
-            https://jobright.ai/jobs/info/6acea7d24f3229123da3d7b4?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  A Full Renovation – Home Improvement — Data Analyst
-            posted Nov 5, 2026 (date only)
+ 67  [today]  A Full Renovation – Project Services — Data Analyst
+            posted Nov 6, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6aed6294a3da3840d4abb095?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6aeedffb8022f8ddd319bf11?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Miller Cooper & Co., Ltd. — Data Analyst
-            posted Nov 5, 2026 (date only)
-            Chicago, IL, United States
-            https://jobright.ai/jobs/info/6aeccfa7a2661405dc2c6925?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  A Full Renovation – Residential Remodeling — Data Analyst
+            posted Nov 6, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6aeec21f9f8e479a8bcfa9cf?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Chenega Defense & Aerospace Solutions — Data Analyst
-            posted Nov 5, 2026 (date only)
-            Alexandria, VA, United States
-            https://jobright.ai/jobs/info/6aec5daaa9ea762a0408f2d7?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Dow Jones — Data Analyst (Customer Service Contact Center)
+            posted Nov 6, 2026 (date only)
+            Princeton, NJ, United States
+            https://jobright.ai/jobs/info/6aee3dd6c7498922fe0caa23?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Old World Industries — IT Data Analyst
-            posted Nov 5, 2026 (date only)
-            Northbrook, IL, United States
-            https://jobright.ai/jobs/info/6ae02eeb9a8c91d5c358c158?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  HCLTech — Data Analyst - Machine Learning, Python
-            posted Nov 5, 2026 (date only)
-            Dallas, TX, United States
-            https://jobright.ai/jobs/info/6aecb3c03967d67f6359ebd0?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Regeneron — Data Analyst, Quality Assurance
-            posted Nov 5, 2026 (date only)
-            Troy, NY, United States
-            https://jobright.ai/jobs/info/6aed34e8a2661405dc2c9b9a?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Vestwell — Data Analyst
-            posted Nov 5, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6aea0314440b469a1c0a91ec?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Booz Allen Hamilton — Data Analyst
-            posted Nov 5, 2026 (date only)
-            McLean, VA, United States
-            https://jobright.ai/jobs/info/6ad0e290256e49282e650a86?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  News Corp — Data Analyst (Customer Service Contact Center)
+            posted Nov 6, 2026 (date only)
+            Princeton, NJ, United States
+            https://jobright.ai/jobs/info/6aee5086d20350c7a507bdf1?utm_campaign=Data%20Analysis&utm_source=1103
