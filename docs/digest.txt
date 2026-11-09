@@ -1,9 +1,14 @@
-Top 15 of 22 — last 24h — Nov 9, 3:53 PM EST
+Top 15 of 22 — last 24h — Nov 9, 4:21 PM EST
 
- 75  [   1h]  Adobe — New Grad 2027: Data Engineer
+ 75  [   2h]  Adobe — New Grad 2027: Data Engineer
             posted Nov 9, 2026, 2:14 PM EST
             San Jose, CA
             https://go.vansh.nyc/1p4
+
+ 70  [today]  Intellectt Inc — Junior Data Analyst
+            posted Nov 9, 2026 (date only)
+            Detroit, MI, United States
+            https://jobright.ai/jobs/info/6af1ddf862fb9f5fcd89172e?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Boston Scientific — Quality Data Analyst I
             posted Nov 9, 2026 (date only)
@@ -15,20 +20,15 @@ Top 15 of 22 — last 24h — Nov 9, 3:53 PM EST
             Atlanta, GA, United States | H1B 1200
             https://jobright.ai/jobs/info/6af1e03362fb9f5fcd89182b?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Intellectt Inc — Junior Data Analyst
-            posted Nov 9, 2026 (date only)
-            Detroit, MI, United States
-            https://jobright.ai/jobs/info/6af1ddf862fb9f5fcd89172e?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  National Grid — Graduate Development Program, Associate Data Analyst, Electric Projects Estimating
-            posted Nov 8, 2026 (date only)
-            Northborough, MA, United States
-            https://jobright.ai/jobs/info/6af16c96457d636c0913126a?utm_campaign=Data%20Analysis&utm_source=1103
-
  70  [today]  A Full Renovation – Project Services — Junior Data Analyst
             posted Nov 8, 2026 (date only)
             United States
             https://jobright.ai/jobs/info/6af162802a5aac445563f9e9?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  National Grid — Graduate Development Program, Associate Data Analyst, Electric Projects Estimating
+            posted Nov 8, 2026 (date only)
+            Northborough, MA, United States
+            https://jobright.ai/jobs/info/6af18b5974116c3dddb2702b?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  A Full Renovation – Project Services — Entry-Level Data Analyst
             posted Nov 8, 2026 (date only)
@@ -38,7 +38,12 @@ Top 15 of 22 — last 24h — Nov 9, 3:53 PM EST
  70  [today]  National Grid — Graduate Development Program, Associate Data Analyst, Electric Projects Estimating
             posted Nov 8, 2026 (date only)
             Northborough, MA, United States
-            https://jobright.ai/jobs/info/6af18b5974116c3dddb2702b?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6af16c96457d636c0913126a?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Clark Associates — Data Analyst
+            posted Nov 9, 2026 (date only)
+            Lititz, PA, United States
+            https://jobright.ai/jobs/info/6af1caea8cbcfef4a59d5a02?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Serco — Data Analyst
             posted Nov 9, 2026 (date only)
@@ -54,11 +59,6 @@ Top 15 of 22 — last 24h — Nov 9, 3:53 PM EST
             posted Nov 9, 2026 (date only)
             Hoffman Estates, IL, United States
             https://jobright.ai/jobs/info/6af1f54d62fb9f5fcd892164?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Clark Associates — Data Analyst
-            posted Nov 9, 2026 (date only)
-            Lititz, PA, United States
-            https://jobright.ai/jobs/info/6af1caea8cbcfef4a59d5a02?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  A Full Renovation – Interiors & Design — Reporting Analyst
             posted Nov 8, 2026 (date only)
