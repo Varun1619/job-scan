@@ -1,9 +1,34 @@
-Top 15 of 22 — last 24h — Nov 9, 4:21 PM EST
+Top 15 of 47 — last 24h — Nov 10, 1:01 PM EST
 
- 75  [   2h]  Adobe — New Grad 2027: Data Engineer
+ 75  [   6h]  SambaNova — New Grad: Cloud Platform Engineer
+            posted Nov 10, 2026, 6:12 AM EST
+            Austin, TX, San Jose, CA
+            https://go.vansh.nyc/1qj
+
+ 75  [  18h]  Kyndryl — Early Career Consult Program - Associate Data Engineer
+            posted Nov 9, 2026, 6:27 PM EST
+            Frisco, TX
+            https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870
+
+ 75  [  18h]  Kyndryl — Associate Data Engineer
+            posted Nov 9, 2026, 6:15 PM EST
+            Frisco, TX
+            https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870-1
+
+ 75  [  22h]  Adobe — New Grad 2027: Data Engineer
             posted Nov 9, 2026, 2:14 PM EST
             San Jose, CA
             https://go.vansh.nyc/1p4
+
+ 70  [today]  Torentify — Data Analyst I - Remote Work
+            posted Nov 10, 2026 (date only)
+            Washington, DC, United States
+            https://jobright.ai/jobs/info/6af313dc769e9374033c2cbf?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [   1h]  Coreintels — New Grad: Data Analyst
+            posted Nov 10, 2026, 11:45 AM EST
+            Remote
+            https://go.vansh.nyc/1rr
 
  70  [today]  Intellectt Inc — Junior Data Analyst
             posted Nov 9, 2026 (date only)
@@ -20,57 +45,32 @@ Top 15 of 22 — last 24h — Nov 9, 4:21 PM EST
             Atlanta, GA, United States | H1B 1200
             https://jobright.ai/jobs/info/6af1e03362fb9f5fcd89182b?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  A Full Renovation – Project Services — Junior Data Analyst
-            posted Nov 8, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6af162802a5aac445563f9e9?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  Duly Health and Care — Power BI Analyst I
+            posted Nov 9, 2026 (date only)
+            Downers Grove, IL, United States
+            https://jobright.ai/jobs/info/6af29f69f1ee406a27fde7a8?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  National Grid — Graduate Development Program, Associate Data Analyst, Electric Projects Estimating
-            posted Nov 8, 2026 (date only)
-            Northborough, MA, United States
-            https://jobright.ai/jobs/info/6af18b5974116c3dddb2702b?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  Yusen Logistics — IT Reporting Analyst I (Reports & Labels)
+            posted Nov 9, 2026 (date only)
+            Jacksonville, FL, United States
+            https://jobright.ai/jobs/info/6aba6c12d2914e9273eeb373?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  A Full Renovation – Project Services — Entry-Level Data Analyst
-            posted Nov 8, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6af15a5f2a5aac445563f88e?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  UST — Threat Hunting Data Analyst
+            posted Nov 10, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6acf0acf680c80c8753bf8a4?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  National Grid — Graduate Development Program, Associate Data Analyst, Electric Projects Estimating
-            posted Nov 8, 2026 (date only)
-            Northborough, MA, United States
-            https://jobright.ai/jobs/info/6af16c96457d636c0913126a?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Snowflake — Business Intelligence Analyst
+            posted Nov 9, 2026 (date only)
+            Menlo Park, CA, United States | H1B 219
+            https://jobright.ai/jobs/info/6acea7d24f3229123da3d7b4?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Bikky — Data Analyst - Data Operations
+            posted Nov 9, 2026 (date only)
+            New York, NY, United States
+            https://jobright.ai/jobs/info/6ab15fbed2a93d5a97eba3fd?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Clark Associates — Data Analyst
             posted Nov 9, 2026 (date only)
             Lititz, PA, United States
             https://jobright.ai/jobs/info/6af1caea8cbcfef4a59d5a02?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Serco — Data Analyst
-            posted Nov 9, 2026 (date only)
-            Rock Island, IL, United States
-            https://jobright.ai/jobs/info/6ae1f5356679108488c45e6f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Interstate Waste Services, Inc. — Power BI Analyst
-            posted Nov 9, 2026 (date only)
-            Teaneck, NJ, United States
-            https://jobright.ai/jobs/info/6af209481aaffa49f737ffc5?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  CDK Global — Pricing Data Analyst
-            posted Nov 9, 2026 (date only)
-            Hoffman Estates, IL, United States
-            https://jobright.ai/jobs/info/6af1f54d62fb9f5fcd892164?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  A Full Renovation – Interiors & Design — Reporting Analyst
-            posted Nov 8, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6af117947bf8e8b9eaf8463d?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  The Cincinnati Insurance Companies — Planning Analytics and Risk Management - Associate Data Scientist, Innovation and Research
-            posted Nov 9, 2026 (date only)
-            Fairfield, OH, United States
-            https://jobright.ai/jobs/info/6af202db1116f6f0a076463e?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  Billtrust — Associate Data Scientist
-            posted Nov 8, 2026 (date only)
-            Hamilton Township, NJ, United States
-            https://jobright.ai/jobs/info/6a4422ccef17a815538a3064?utm_campaign=Data%20Analysis&utm_source=1103
