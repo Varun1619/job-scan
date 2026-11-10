@@ -1,21 +1,21 @@
-Top 15 of 47 — last 24h — Nov 10, 1:01 PM EST
+Top 15 of 51 — last 24h — Nov 10, 1:31 PM EST
 
- 75  [   6h]  SambaNova — New Grad: Cloud Platform Engineer
+ 75  [   7h]  SambaNova — New Grad: Cloud Platform Engineer
             posted Nov 10, 2026, 6:12 AM EST
             Austin, TX, San Jose, CA
             https://go.vansh.nyc/1qj
 
- 75  [  18h]  Kyndryl — Early Career Consult Program - Associate Data Engineer
+ 75  [  19h]  Kyndryl — Early Career Consult Program - Associate Data Engineer
             posted Nov 9, 2026, 6:27 PM EST
             Frisco, TX
             https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870
 
- 75  [  18h]  Kyndryl — Associate Data Engineer
+ 75  [  19h]  Kyndryl — Associate Data Engineer
             posted Nov 9, 2026, 6:15 PM EST
             Frisco, TX
             https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870-1
 
- 75  [  22h]  Adobe — New Grad 2027: Data Engineer
+ 75  [  23h]  Adobe — New Grad 2027: Data Engineer
             posted Nov 9, 2026, 2:14 PM EST
             San Jose, CA
             https://go.vansh.nyc/1p4
@@ -40,15 +40,15 @@ Top 15 of 47 — last 24h — Nov 10, 1:01 PM EST
             Arden Hills, MN, United States
             https://jobright.ai/jobs/info/6aee13d6caf8e660b87da5f1?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  EY — Data Analyst - Workforce Analytics & Data Quality - Associate
-            posted Nov 9, 2026 (date only)
-            Atlanta, GA, United States | H1B 1200
-            https://jobright.ai/jobs/info/6af1e03362fb9f5fcd89182b?utm_campaign=Data%20Analysis&utm_source=1103
-
  70  [today]  Duly Health and Care — Power BI Analyst I
             posted Nov 9, 2026 (date only)
             Downers Grove, IL, United States
             https://jobright.ai/jobs/info/6af29f69f1ee406a27fde7a8?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  EY — Data Analyst - Workforce Analytics & Data Quality - Associate
+            posted Nov 9, 2026 (date only)
+            Atlanta, GA, United States | H1B 1200
+            https://jobright.ai/jobs/info/6af1e03362fb9f5fcd89182b?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Yusen Logistics — IT Reporting Analyst I (Reports & Labels)
             posted Nov 9, 2026 (date only)
@@ -65,12 +65,12 @@ Top 15 of 47 — last 24h — Nov 10, 1:01 PM EST
             Menlo Park, CA, United States | H1B 219
             https://jobright.ai/jobs/info/6acea7d24f3229123da3d7b4?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 67  [today]  WHSmith North America — Master Data Analyst
+            posted Nov 9, 2026 (date only)
+            Las Vegas, NV, United States
+            https://jobright.ai/jobs/info/6af228b4905985ccaa40a094?utm_campaign=Data%20Analysis&utm_source=1103
+
  67  [today]  Bikky — Data Analyst - Data Operations
             posted Nov 9, 2026 (date only)
             New York, NY, United States
             https://jobright.ai/jobs/info/6ab15fbed2a93d5a97eba3fd?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Clark Associates — Data Analyst
-            posted Nov 9, 2026 (date only)
-            Lititz, PA, United States
-            https://jobright.ai/jobs/info/6af1caea8cbcfef4a59d5a02?utm_campaign=Data%20Analysis&utm_source=1103
