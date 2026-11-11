@@ -1,64 +1,64 @@
-Top 15 of 46 — last 24h — Nov 11, 12:57 PM EST
+Top 15 of 55 — last 24h — Nov 11, 1:28 PM EST
 
  75  [  22h]  Abacus Insights — Associate Data Engineer
             posted Nov 10, 2026, 2:39 PM EST
             Remote
             https://go.vansh.nyc/1s0
 
- 75  [  23h]  Abacus Insights — Associate Data Engineer
-            posted Nov 10, 2026, 1:03 PM EST
-            Remote in USA
-            https://boards.greenhouse.io/abacusinsights/jobs/8917380002
+ 72  [  <1h]  Cloudflare — Data Engineer
+            posted Nov 11, 2026, 12:36 PM EST
+            Hybrid | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118
 
  70  [today]  Boston Scientific — Quality Data Analyst I Job Details / Boston Scientific
             posted Nov 10, 2026 (date only)
             Arden Hills, MN, United States
             https://jobright.ai/jobs/info/6aee7a03c7498922fe0cd08f?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Boston Scientific — Quality Data Analyst I
+ 70  [today]  Verdantas — Data Analyst I
             posted Nov 10, 2026 (date only)
-            Arden Hills, MN, United States
-            https://jobright.ai/jobs/info/6aee13d6caf8e660b87da5f1?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  General Dynamics Information Technology — Data Analyst Associate - TS/SCI with Polygraph
-            posted Nov 10, 2026 (date only)
-            Chantilly, VA, United States
-            https://jobright.ai/jobs/info/6aeb825082f0ac077443a797?utm_campaign=Data%20Analysis&utm_source=1103
+            San Diego, CA, United States
+            https://jobright.ai/jobs/info/6af4706b2278454e18c35360?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Mercury Insurance — Data Analyst I Product
             posted Nov 10, 2026 (date only)
             United States
             https://jobright.ai/jobs/info/6af39dab769e9374033c864e?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Verdantas — Data Analyst I
+ 70  [today]  Boston Scientific — Quality Data Analyst I
             posted Nov 10, 2026 (date only)
-            San Diego, CA, United States
-            https://jobright.ai/jobs/info/6af4706b2278454e18c35360?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  A Full Renovation – Residential Remodeling — Junior Data Analyst
-            posted Nov 10, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6af3a8c110c7aed77861d01e?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  ITR Concession Company LLC — HUB Data Analyst I
-            posted Nov 10, 2026 (date only)
-            Elkhart, IN, United States
-            https://jobright.ai/jobs/info/6af36dd810c7aed77861a663?utm_campaign=Data%20Analysis&utm_source=1103
+            Arden Hills, MN, United States
+            https://jobright.ai/jobs/info/6aee13d6caf8e660b87da5f1?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Mobility Global — Associate Data Analyst - Mobility
             posted Nov 10, 2026 (date only)
             California, United States
             https://jobright.ai/jobs/info/6af35053769e9374033c5209?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Torentify — Data Analyst I - Remote Work
+ 70  [today]  A Full Renovation – Residential Remodeling — Junior Data Analyst
             posted Nov 10, 2026 (date only)
-            Washington, DC, United States
-            https://jobright.ai/jobs/info/6af313dc769e9374033c2cbf?utm_campaign=Data%20Analysis&utm_source=1103
+            United States
+            https://jobright.ai/jobs/info/6af3a8c110c7aed77861d01e?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  General Dynamics Information Technology — Data Analyst Associate - TS/SCI with Polygraph
+            posted Nov 10, 2026 (date only)
+            Chantilly, VA, United States
+            https://jobright.ai/jobs/info/6aeb825082f0ac077443a797?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  ITR Concession Company LLC — HUB Data Analyst I
+            posted Nov 10, 2026 (date only)
+            Elkhart, IN, United States
+            https://jobright.ai/jobs/info/6af36dd810c7aed77861a663?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Milliman — Healthcare Data Analyst (MedInsight)
             posted Nov 11, 2026 (date only)
             Seattle, Washington, United States
             https://jobright.ai/jobs/info/6ad7a23054bbabbab070080f?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  A Full Renovation – Interiors & Design — Inventory Data Analyst
+            posted Nov 11, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6af46cf12278454e18c352cd?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Serco — Data Analyst
             posted Nov 11, 2026 (date only)
@@ -70,7 +70,7 @@ Top 15 of 46 — last 24h — Nov 11, 12:57 PM EST
             Raleigh, NC, United States | H1B 1000
             https://jobright.ai/jobs/info/6ae241d205a39c3e2c718615?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  A Full Renovation – Interiors & Design — Inventory Data Analyst
-            posted Nov 11, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6af46cf12278454e18c352cd?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  CBRE — Business Intelligence Analyst
+            posted Nov 10, 2026 (date only)
+            Triangle, NC, United States
+            https://jobright.ai/jobs/info/6af3f6cbe229a09f42379b31?utm_campaign=Data%20Analysis&utm_source=1103
