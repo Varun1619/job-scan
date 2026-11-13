@@ -1,4 +1,4 @@
-Top 15 of 45 — last 24h — Nov 13, 12:56 PM EST
+Top 15 of 57 — last 24h — Nov 13, 1:26 PM EST
 
  72  [today]  PepsiCo — Analytics Platform Engineer
             posted Nov 13, 2026 (date only)
@@ -10,10 +10,20 @@ Top 15 of 45 — last 24h — Nov 13, 12:56 PM EST
             Fontana, CA, United States | H1B 1800
             https://jobright.ai/jobs/info/6a84f9b058ded76ad8fea2ce?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 70  [today]  Zachary Piper Solutions — Junior Power BI Analyst
+            posted Nov 12, 2026 (date only)
+            Aberdeen, MD, United States
+            https://jobright.ai/jobs/info/6af60ac8f10ae27369e16130?utm_campaign=Data%20Analysis&utm_source=1103
+
  70  [today]  Littler — Data Analyst I/ Statistician – Multiple Offices (Hybrid)
             posted Nov 12, 2026 (date only)
             Charlotte, NC, United States
             https://jobright.ai/jobs/info/6ad8fc80950ef68d5184c57a?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Torentify — Data Analyst I - Remote
+            posted Nov 12, 2026 (date only)
+            Washington, DC, United States
+            https://jobright.ai/jobs/info/6af6a6da97a3b26da4825b6d?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Gupta Media — Data Analyst I
             posted Nov 12, 2026 (date only)
@@ -24,6 +34,16 @@ Top 15 of 45 — last 24h — Nov 13, 12:56 PM EST
             posted Nov 12, 2026 (date only)
             Miami, FL, United States
             https://jobright.ai/jobs/info/6ad8fd4754bbabbab070af1e?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  NFI — Business Intelligence Analyst I - Distribution
+            posted Nov 12, 2026 (date only)
+            Camden, NJ, United States
+            https://jobright.ai/jobs/info/6af61fd7a4a5218a07e83690?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Littler — Data Analyst I – Multiple Offices (Hybrid)
+            posted Nov 12, 2026 (date only)
+            Minneapolis, MN, United States
+            https://jobright.ai/jobs/info/6ad8fd6f39284cd524282813?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Littler — Data Analyst I – Multiple Offices (Hybrid)
             posted Nov 12, 2026 (date only)
@@ -40,37 +60,17 @@ Top 15 of 45 — last 24h — Nov 13, 12:56 PM EST
             Eagle, ID, United States
             https://jobright.ai/jobs/info/6af5d9a8a4a5218a07e809a2?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  Torentify — Data Analyst I - Remote
-            posted Nov 12, 2026 (date only)
+ 67  [today]  Planet Technologies — Data Analyst
+            posted Nov 13, 2026 (date only)
             Washington, DC, United States
-            https://jobright.ai/jobs/info/6af6a6da97a3b26da4825b6d?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  NFI — Business Intelligence Analyst I - Distribution
-            posted Nov 12, 2026 (date only)
-            Camden, NJ, United States
-            https://jobright.ai/jobs/info/6af61fd7a4a5218a07e83690?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Zachary Piper Solutions — Junior Power BI Analyst
-            posted Nov 12, 2026 (date only)
-            Aberdeen, MD, United States
-            https://jobright.ai/jobs/info/6af60ac8f10ae27369e16130?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Littler — Data Analyst I – Multiple Offices (Hybrid)
-            posted Nov 12, 2026 (date only)
-            Minneapolis, MN, United States
-            https://jobright.ai/jobs/info/6ad8fd6f39284cd524282813?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6af739c83ba46d7b6c1644b8?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Snowflake — Business Intelligence Analyst
             posted Nov 13, 2026 (date only)
             Menlo Park, CA, United States | H1B 219
             https://jobright.ai/jobs/info/6acec4564391691a335ae833?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Planet Technologies — Data Analyst
-            posted Nov 13, 2026 (date only)
-            Washington, DC, United States
-            https://jobright.ai/jobs/info/6af739c83ba46d7b6c1644b8?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [   2h]  Tulane University — Data Analyst 1
+ 67  [   3h]  Tulane University — Data Analyst 1
             posted Nov 13, 2026, 10:08 AM EST
             New Orleans, LA
             https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2296
