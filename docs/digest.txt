@@ -1,19 +1,19 @@
-Top 12 of 12 — last 24h — Nov 16, 3:36 PM EST
+Top 14 of 14 — last 24h — Nov 16, 3:51 PM EST
 
- 70  [today]  Internet Brands — Associate Data Analyst
+ 70  [today]  DHL Supply Chain — Business Data Analyst I
             posted Nov 16, 2026 (date only)
-            El Segundo, CA, United States
-            https://jobright.ai/jobs/info/6ab6b8be634ec6aa7c0d430a?utm_campaign=Data%20Analysis&utm_source=1103
+            Fort Worth, TX, United States
+            https://jobright.ai/jobs/info/6af4b9c6cd7be4db20d88091?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  SCP Health — Business Data Analyst I
             posted Nov 16, 2026 (date only)
             Dallas, TX, United States
             https://jobright.ai/jobs/info/6afb2030484fef921e047c91?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  DHL Supply Chain — Business Data Analyst I
+ 70  [today]  Internet Brands — Associate Data Analyst
             posted Nov 16, 2026 (date only)
-            Fort Worth, TX, United States
-            https://jobright.ai/jobs/info/6af4b9c6cd7be4db20d88091?utm_campaign=Data%20Analysis&utm_source=1103
+            El Segundo, CA, United States
+            https://jobright.ai/jobs/info/6ab6b8be634ec6aa7c0d430a?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  The Walt Disney Company — Associate Data Analyst
             posted Nov 15, 2026 (date only)
@@ -25,20 +25,20 @@ Top 12 of 12 — last 24h — Nov 16, 3:36 PM EST
             Fontana, CA, United States | H1B 1800
             https://jobright.ai/jobs/info/6a84f9b058ded76ad8fea2ce?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Serco — Data Analyst
+ 67  [today]  The George Washington University — Data Analyst, Enrollment
             posted Nov 16, 2026 (date only)
-            Rock Island, IL, United States
-            https://jobright.ai/jobs/info/6ae1f5356679108488c45e6f?utm_campaign=Data%20Analysis&utm_source=1103
+            Washington, DC, United States
+            https://jobright.ai/jobs/info/6afb453f317abe715a2628c9?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Amazon — Data & Reporting Analyst , Relay Operations Center Tech & Ops integration
             posted Nov 16, 2026 (date only)
             Tempe, AZ, United States | H1B 15524
             https://jobright.ai/jobs/info/6afb472404af1c9f075c5ff2?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  The George Washington University — Data Analyst, Enrollment
+ 67  [today]  Serco — Data Analyst
             posted Nov 16, 2026 (date only)
-            Washington, DC, United States
-            https://jobright.ai/jobs/info/6afb453f317abe715a2628c9?utm_campaign=Data%20Analysis&utm_source=1103
+            Rock Island, IL, United States
+            https://jobright.ai/jobs/info/6ae1f5356679108488c45e6f?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Petco — Analyst, Business Intelligence - Stores
             posted Nov 15, 2026 (date only)
@@ -55,7 +55,17 @@ Top 12 of 12 — last 24h — Nov 16, 3:36 PM EST
             Raleigh, NC, United States | H1B 1000
             https://jobright.ai/jobs/info/6ae241d205a39c3e2c718615?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 62  [   6h]  Databricks — AI Engineer – Forward Deployed Engineering (AI FDE)
+            posted Nov 16, 2026, 9:15 AM EST
+            United States | H1B 385
+            https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002
+
  59  [today]  CNSS • National Security Systems — Data Scientist Development Program with Security Clearance
             posted Nov 16, 2026 (date only)
             Fort Meade, MD, United States
             https://jobright.ai/jobs/info/6afb212a7d1820d918c26917?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 48  [   2h]  Axon — Embedded Software Engineer I
+            posted Nov 16, 2026, 1:29 PM EST
+            Seattle, Washington, United States
+            https://job-boards.greenhouse.io/axon/jobs/6289451003
