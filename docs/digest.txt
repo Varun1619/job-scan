@@ -1,14 +1,34 @@
-Top 15 of 40 — last 24h — Nov 17, 2:15 PM EST
+Top 15 of 41 — last 24h — Nov 17, 2:41 PM EST
 
  70  [today]  WM — Analyst I, Business Intelligence
             posted Nov 17, 2026 (date only)
             Windsor, CT, United States
             https://jobright.ai/jobs/info/6afc88f07df9c4ceafebac79?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 70  [today]  TeleSolv Consulting — Junior Business Intelligence Analyst
+            posted Nov 16, 2026 (date only)
+            Philadelphia, PA, United States
+            https://jobright.ai/jobs/info/6afb7504c2bd7db01b881bfd?utm_campaign=Data%20Analysis&utm_source=1103
+
  70  [today]  The Walt Disney Company — Associate Data Analyst
             posted Nov 16, 2026 (date only)
             Burbank, CA, United States
             https://jobright.ai/jobs/info/6af7d08c16215fdeb90d399e?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  TeleSolv Consulting — Junior Business Intelligence Analyst
+            posted Nov 16, 2026 (date only)
+            Philadelphia, PA, United States
+            https://jobright.ai/jobs/info/6afb8b2306c0aac84dd96e0e?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Steampunk, Inc. — Junior Data Analyst
+            posted Nov 16, 2026 (date only)
+            El Paso, TX, United States
+            https://jobright.ai/jobs/info/6afb692d7d1820d918c2a29d?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  DHL Supply Chain — Business Data Analyst I
+            posted Nov 16, 2026 (date only)
+            Kansas City, MO, United States
+            https://jobright.ai/jobs/info/6af61cad323c531f31e2fe92?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Steampunk, Inc. — Junior Data Analyst- UTEP
             posted Nov 16, 2026 (date only)
@@ -27,26 +47,6 @@ Top 15 of 40 — last 24h — Nov 17, 2:15 PM EST
 
  70  [today]  DHL Supply Chain — Business Data Analyst I
             posted Nov 16, 2026 (date only)
-            Kansas City, MO, United States
-            https://jobright.ai/jobs/info/6af61cad323c531f31e2fe92?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  TeleSolv Consulting — Junior Business Intelligence Analyst
-            posted Nov 16, 2026 (date only)
-            Philadelphia, PA, United States
-            https://jobright.ai/jobs/info/6afb8b2306c0aac84dd96e0e?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  TeleSolv Consulting — Junior Business Intelligence Analyst
-            posted Nov 16, 2026 (date only)
-            Philadelphia, PA, United States
-            https://jobright.ai/jobs/info/6afb7504c2bd7db01b881bfd?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Steampunk, Inc. — Junior Data Analyst
-            posted Nov 16, 2026 (date only)
-            El Paso, TX, United States
-            https://jobright.ai/jobs/info/6afb692d7d1820d918c2a29d?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  DHL Supply Chain — Business Data Analyst I
-            posted Nov 16, 2026 (date only)
             Fort Worth, TX, United States
             https://jobright.ai/jobs/info/6af4b9c6cd7be4db20d88091?utm_campaign=Data%20Analysis&utm_source=1103
 
@@ -54,16 +54,6 @@ Top 15 of 40 — last 24h — Nov 17, 2:15 PM EST
             posted Nov 16, 2026 (date only)
             Dallas, TX, United States
             https://jobright.ai/jobs/info/6afb2030484fef921e047c91?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  A Full Renovation – Residential Remodeling — Data Analyst
-            posted Nov 17, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6afc8e1e3786d28f2145a240?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Cahill Contractors — Data and Business Intelligence Analyst
-            posted Nov 17, 2026 (date only)
-            San Francisco, CA, United States
-            https://jobright.ai/jobs/info/6afc8b241e98d304ea7f1da2?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Interstate Waste Services, Inc. — Power BI Analyst
             posted Nov 17, 2026 (date only)
@@ -74,3 +64,13 @@ Top 15 of 40 — last 24h — Nov 17, 2:15 PM EST
             posted Nov 17, 2026 (date only)
             United States
             https://jobright.ai/jobs/info/6afc54761e98d304ea7f017b?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Cahill Contractors — Data and Business Intelligence Analyst
+            posted Nov 17, 2026 (date only)
+            San Francisco, CA, United States
+            https://jobright.ai/jobs/info/6afc8b241e98d304ea7f1da2?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  A Full Renovation – Residential Remodeling — Data Analyst
+            posted Nov 17, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6afc8e1e3786d28f2145a240?utm_campaign=Data%20Analysis&utm_source=1103
