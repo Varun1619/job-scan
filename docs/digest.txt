@@ -1,76 +1,26 @@
-Top 15 of 29 — last 24h — Nov 21, 12:41 PM EST
+Top 5 of 5 — last 24h — Nov 22, 12:56 PM EST
 
- 72  [  18h]  Daikin Comfort — Data Engineer 1
-            posted Nov 20, 2026, 6:09 PM EST
-            Waller, TX
-            https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=0ed8d9f2-0ee7-4ce3-b41e-34a935f42532
-
- 70  [today]  DHL Supply Chain — Business Data Analyst I
-            posted Nov 20, 2026 (date only)
-            Fort Worth, TX, United States
-            https://jobright.ai/jobs/info/6af4f17d3a9a26aee70a2061?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Detroit Public Schools Community District — Program Associate I - Data Analyst
-            posted Nov 20, 2026 (date only)
-            Detroit, MI, United States
-            https://jobright.ai/jobs/info/6b007d4dd1fe3bc162e3c184?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Lockheed Martin — Data Analyst Asc - Early Career
-            posted Nov 20, 2026 (date only)
-            Fort Worth, TX, United States
-            https://jobright.ai/jobs/info/6aff520a1c42ea8f6b9ff6b7?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Snowflake — Business Intelligence Analyst
-            posted Nov 20, 2026 (date only)
-            Menlo Park, CA, United States | H1B 219
-            https://jobright.ai/jobs/info/6acec4564391691a335ae833?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  DRW — Data Analyst, Exploration
+            posted Nov 22, 2026 (date only)
+            Chicago, IL, United States
+            https://jobright.ai/jobs/info/6ad108423d3a5aa909b373db?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  IBM — Global Mobility Data & Reporting Analyst
-            posted Nov 20, 2026 (date only)
+            posted Nov 21, 2026 (date only)
             Raleigh, NC, United States | H1B 1000
             https://jobright.ai/jobs/info/6ae241d205a39c3e2c718615?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Kuehne+Nagel — Technology & Data Analyst
-            posted Nov 20, 2026 (date only)
-            Fall River, MA, United States
-            https://jobright.ai/jobs/info/6b0028c4e0dc96195927f820?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  A Full Renovation – Residential Remodeling — Data Analyst
+            posted Nov 21, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6b023306505c87ccb3a2ebce?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Providence — Health Data Analyst
-            posted Nov 20, 2026 (date only)
-            Eureka, CA, United States
-            https://jobright.ai/jobs/info/6b017a03a512f514bbde3245?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Consulting America Group LLC — Data Entry - Data Analyst Full Time (100% Remote)
+            posted Nov 21, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6b01ff49fbf556e62aa2ad5d?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Zachary Piper Solutions — Power BI Analyst
-            posted Nov 20, 2026 (date only)
-            Aberdeen, MD, United States
-            https://jobright.ai/jobs/info/6b00cb3adfa58e4c244de902?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Payactiv — Business Intelligence Analyst
-            posted Nov 20, 2026 (date only)
-            Milpitas, CA, United States
-            https://jobright.ai/jobs/info/6b00b1a4dfa58e4c244dd9b9?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  National Tax Group — Data Analyst & Administrative Specialist
-            posted Nov 20, 2026 (date only)
-            Charleston, SC, United States
-            https://jobright.ai/jobs/info/6b0118f6a512f514bbde254d?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [  17h]  Alchemy — Data Analyst Supply Chain & Logistics
-            posted Nov 20, 2026, 6:52 PM EST
-            Bloomington, IN
-            https://recruiting.ultipro.com/ALC1004TELCO/JobBoard/e3a8eb11-96c0-4968-9120-a910524a61db/OpportunityDetail?opportunityId=deead4e5-f3c3-48ec-bacd-6d920b1967b9
-
- 67  [  18h]  Aquestive Therapeutics — AI Data Analyst
-            posted Nov 20, 2026, 6:16 PM EST
-            Warren, NJ
-            https://recruiting.ultipro.com/AQU1000AQUE/JobBoard/8a380b89-3c6f-4511-8697-2fe5c64de6ac/OpportunityDetail?opportunityId=aa154c5d-996c-468e-964a-6559881157cc
-
- 67  [  18h]  Daikin Comfort — Data Analyst
-            posted Nov 20, 2026, 6:09 PM EST
-            Waller, TX
-            https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=88b91d78-999a-48e1-907b-b68d9f5e68f0
-
- 66  [  20h]  Vertex Service Partners — Junior AI Engineer
-            posted Nov 20, 2026, 4:03 PM EST
-            Charlotte, NC
-            https://job-boards.greenhouse.io/vertexservicepartners/jobs/4517555009
+ 59  [today]  Point72 — Data Scientist, Proprietary Research
+            posted Nov 21, 2026 (date only)
+            New York, NY
+            https://jobright.ai/jobs/info/67842232892d69f5bd6249b9?utm_campaign=Data%20Analysis&utm_source=1103
