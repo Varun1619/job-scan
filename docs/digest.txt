@@ -1,11 +1,11 @@
-Top 15 of 24 — last 24h — Nov 24, 3:43 PM EST
+Top 15 of 25 — last 24h — Nov 24, 4:04 PM EST
 
- 72  [  20h]  Duke University — Analytics Engineer - Department of Pharmacy
+ 72  [  21h]  Duke University — Analytics Engineer - Department of Pharmacy
             posted Nov 23, 2026, 6:51 PM EST
             Durham, NC
             https://careers.duke.edu/job/Durham-Developer-Analytics-Engineer-Department-of-Pharmacy-NC-27710/1431149100/?ats=successfactors
 
- 72  [  20h]  Duke University — Analytics Engineer, Department of Pharmacy
+ 72  [  21h]  Duke University — Analytics Engineer, Department of Pharmacy
             posted Nov 23, 2026, 6:51 PM EST
             Durham, NC
             https://go.vansh.nyc/1HG
@@ -55,11 +55,6 @@ Top 15 of 24 — last 24h — Nov 24, 3:43 PM EST
             United States
             https://jobright.ai/jobs/info/6b04a1b32d88b678f1178208?utm_campaign=Data%20Analysis&utm_source=1103
 
- 63  [today]  Cedars-Sinai — Research Associate Data Scientist - Levy Lab - Digital Pathology
-            posted Nov 24, 2026 (date only)
-            West Hollywood, CA, United States
-            https://jobright.ai/jobs/info/6b05e4733e56157448ed1826?utm_campaign=Data%20Analysis&utm_source=1103
-
  63  [today]  Guidehouse — Data Scientist I
             posted Nov 24, 2026 (date only)
             Norfolk, VA, United States
@@ -69,6 +64,11 @@ Top 15 of 24 — last 24h — Nov 24, 3:43 PM EST
             posted Nov 24, 2026 (date only)
             Ann Arbor, MI, United States
             https://jobright.ai/jobs/info/6b059b8d0a025d0ca4ff3da7?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 63  [today]  Cedars-Sinai — Research Associate Data Scientist - Levy Lab - Digital Pathology
+            posted Nov 24, 2026 (date only)
+            West Hollywood, CA, United States
+            https://jobright.ai/jobs/info/6b05e4733e56157448ed1826?utm_campaign=Data%20Analysis&utm_source=1103
 
  63  [today]  Esri — Data Scientist I
             posted Nov 23, 2026 (date only)
