@@ -1,24 +1,59 @@
-Top 15 of 25 — last 24h — Nov 24, 4:04 PM EST
+Top 15 of 36 — last 24h — Nov 25, 3:00 PM EST
 
- 72  [  21h]  Duke University — Analytics Engineer - Department of Pharmacy
-            posted Nov 23, 2026, 6:51 PM EST
-            Durham, NC
-            https://careers.duke.edu/job/Durham-Developer-Analytics-Engineer-Department-of-Pharmacy-NC-27710/1431149100/?ats=successfactors
+ 70  [today]  Leaf Home — Data Analyst I
+            posted Nov 25, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6ab2a9a030340229a322ed36?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  [  21h]  Duke University — Analytics Engineer, Department of Pharmacy
-            posted Nov 23, 2026, 6:51 PM EST
-            Durham, NC
-            https://go.vansh.nyc/1HG
+ 70  [today]  Artella Solutions, Inc. — Junior Data Analyst
+            posted Nov 25, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6b070eb86c5083822fdc64a0?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Torentify — Data Analyst, Jr. - Remote
+            posted Nov 25, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6b06e6372662686ad8e0550d?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  DHL Supply Chain — Business Data Analyst II
+            posted Nov 24, 2026 (date only)
+            Rincon, GA, United States
+            https://jobright.ai/jobs/info/6abc7c88fbb3359bcc7d20e3?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  The Henry M. Jackson Foundation for the Advancement of Military Medicine — Data Analyst I - PED
             posted Nov 24, 2026 (date only)
             Bethesda, MD, United States
             https://jobright.ai/jobs/info/6a8f3eabd7c91d0cf446e4d2?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  ALLETE — Business Intelligence Analyst I
-            posted Nov 23, 2026 (date only)
-            Duluth, MN, United States
-            https://jobright.ai/jobs/info/6b0488d34c822a415e671cc2?utm_campaign=Data%20Analysis&utm_source=1103
+ 70  [today]  Mass General Brigham — Data Analyst I
+            posted Nov 24, 2026 (date only)
+            Boston, MA, United States
+            https://jobright.ai/jobs/info/6b0712e56c5083822fdc6883?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Global Credit Union — Business Intelligence Analyst I, II, III, Senior
+            posted Nov 24, 2026 (date only)
+            Alaska, United States
+            https://jobright.ai/jobs/info/6b064d4a460ce5352ae3f72f?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  Navaide — Junior Data Analyst
+            posted Nov 24, 2026 (date only)
+            Washington, D.C., United States
+            https://jobright.ai/jobs/info/6b05f33f3e56157448ed2166?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Wiland — Predictive Analytics Analyst
+            posted Nov 25, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6b07062d08b131a5c6576fa3?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  Snowflake — Business Intelligence Analyst
+            posted Nov 24, 2026 (date only)
+            Menlo Park, CA, United States | H1B 219
+            https://jobright.ai/jobs/info/6acec4564391691a335ae833?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 67  [today]  IBM — Global Mobility Data & Reporting Analyst
+            posted Nov 24, 2026 (date only)
+            Raleigh, NC, United States | H1B 1000
+            https://jobright.ai/jobs/info/6ae241d205a39c3e2c718615?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  LG Electronics — Business Data Analyst
             posted Nov 24, 2026 (date only)
@@ -30,47 +65,12 @@ Top 15 of 25 — last 24h — Nov 24, 4:04 PM EST
             New York, NY, United States
             https://www.eulerity.com
 
- 67  [today]  Snowflake — Business Intelligence Analyst
-            posted Nov 23, 2026 (date only)
-            Menlo Park, CA, United States | H1B 219
-            https://jobright.ai/jobs/info/6acec4564391691a335ae833?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  UtiliSave LLC — Forensic Regulatory Data Analyst
-            posted Nov 23, 2026 (date only)
+ 67  [today]  DeciBio — Life Science Data Analyst, DxBooks
+            posted Nov 24, 2026 (date only)
             New York, NY, United States
-            https://jobright.ai/jobs/info/6a976edb246d697dcee05488?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6b0628b33e56157448ed3ef5?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  IBM — Global Mobility Data & Reporting Analyst
-            posted Nov 23, 2026 (date only)
-            Raleigh, NC, United States | H1B 1000
-            https://jobright.ai/jobs/info/6ae241d205a39c3e2c718615?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Encompass Supply Chain Solutions — Web Analytics Analyst
-            posted Nov 23, 2026 (date only)
-            Florida, United States
-            https://jobright.ai/jobs/info/6ab74535ba1c25652c611e12?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Consulting America Group LLC — Data Analyst
-            posted Nov 23, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6b04a1b32d88b678f1178208?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  Guidehouse — Data Scientist I
+ 67  [today]  Lam Research — Data Analyst 1
             posted Nov 24, 2026 (date only)
-            Norfolk, VA, United States
-            https://jobright.ai/jobs/info/6b05c345707ad7f35053a700?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  Michigan Medicine — Junior Data Scientist
-            posted Nov 24, 2026 (date only)
-            Ann Arbor, MI, United States
-            https://jobright.ai/jobs/info/6b059b8d0a025d0ca4ff3da7?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  Cedars-Sinai — Research Associate Data Scientist - Levy Lab - Digital Pathology
-            posted Nov 24, 2026 (date only)
-            West Hollywood, CA, United States
-            https://jobright.ai/jobs/info/6b05e4733e56157448ed1826?utm_campaign=Data%20Analysis&utm_source=1103
-
- 63  [today]  Esri — Data Scientist I
-            posted Nov 23, 2026 (date only)
-            St. Louis, MO, United States
-            https://jobright.ai/jobs/info/6a3c3518882f121f56a33ce8?utm_campaign=Data%20Analysis&utm_source=1103
+            Fremont, CA, United States
+            https://jobright.ai/jobs/info/6b05ea980e7eacd1ea644698?utm_campaign=Data%20Analysis&utm_source=1103
