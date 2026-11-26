@@ -1,9 +1,24 @@
-Top 15 of 38 — last 24h — Nov 25, 3:24 PM EST
+Top 15 of 38 — last 24h — Nov 26, 2:43 PM EST
 
- 72  [   5h]  Cloudflare — Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)
-            posted Nov 25, 2026, 9:31 AM EST
-            Hybrid | H1B 126
-            https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801
+ 72  [today]  Tantalus Systems — Analytics Engineer
+            posted Nov 26, 2026 (date only)
+            Chattanooga, TN, United States
+            https://jobright.ai/jobs/info/6aeb648982f0ac07744392d4?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 72  [today]  Tantalus Systems — Analytics Engineer
+            posted Nov 26, 2026 (date only)
+            Chattanooga, TN, United States
+            https://jobright.ai/jobs/info/6aff42ef1c42ea8f6b9fee07?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 72  [  20h]  Bluesight — Data Engineer
+            posted Nov 25, 2026, 6:03 PM EST
+            Remote in USA
+            https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply
+
+ 70  [today]  Northwell Health — Associate Business Intelligence Analyst - Onsite
+            posted Nov 26, 2026 (date only)
+            Staten Island, NY, United States
+            https://jobright.ai/jobs/info/6b07307420135524ca72a8f5?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Artella Solutions, Inc. — Junior Data Analyst
             posted Nov 25, 2026 (date only)
@@ -15,62 +30,47 @@ Top 15 of 38 — last 24h — Nov 25, 3:24 PM EST
             United States
             https://jobright.ai/jobs/info/6ab2a9a030340229a322ed36?utm_campaign=Data%20Analysis&utm_source=1103
 
+ 70  [today]  DHL Supply Chain — Business Data Analyst I
+            posted Nov 25, 2026 (date only)
+            Newnan, GA, United States
+            https://jobright.ai/jobs/info/6b005f1146419e65476b3720?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [today]  RBCI — Junior Data Analyst- 62-02-8013
+            posted Nov 25, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6b0765c32c2b1d2eebe14afa?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 70  [  20h]  ManTech — Junior Data Analyst
+            posted Nov 25, 2026, 6:23 PM EST
+            Ashburn, VA
+            https://mantech.avature.net/en_US/careers/JobDetail/67285
+
  70  [today]  Torentify — Data Analyst, Jr. - Remote
             posted Nov 25, 2026 (date only)
             United States
             https://jobright.ai/jobs/info/6b06e6372662686ad8e0550d?utm_campaign=Data%20Analysis&utm_source=1103
 
- 70  [today]  DHL Supply Chain — Business Data Analyst II
-            posted Nov 24, 2026 (date only)
-            Rincon, GA, United States
-            https://jobright.ai/jobs/info/6abc7c88fbb3359bcc7d20e3?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  The Henry M. Jackson Foundation for the Advancement of Military Medicine — Data Analyst I - PED
-            posted Nov 24, 2026 (date only)
-            Bethesda, MD, United States
-            https://jobright.ai/jobs/info/6a8f3eabd7c91d0cf446e4d2?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Navaide — Junior Data Analyst
-            posted Nov 24, 2026 (date only)
-            Washington, D.C., United States
-            https://jobright.ai/jobs/info/6b05f33f3e56157448ed2166?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Global Credit Union — Business Intelligence Analyst I, II, III, Senior
-            posted Nov 24, 2026 (date only)
-            Alaska, United States
-            https://jobright.ai/jobs/info/6b064d4a460ce5352ae3f72f?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Mass General Brigham — Data Analyst I
-            posted Nov 24, 2026 (date only)
-            Boston, MA, United States
-            https://jobright.ai/jobs/info/6b0712e56c5083822fdc6883?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  Guidehouse — Data Analyst (Dashboard Developer)
+            posted Nov 26, 2026 (date only)
+            United States
+            https://jobright.ai/jobs/info/6b00bc490f536e0ba7276c66?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Wiland — Predictive Analytics Analyst
-            posted Nov 25, 2026 (date only)
+            posted Nov 26, 2026 (date only)
             United States
-            https://jobright.ai/jobs/info/6b07062d08b131a5c6576fa3?utm_campaign=Data%20Analysis&utm_source=1103
+            https://jobright.ai/jobs/info/6b0856e158da992a6cc0c268?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Lam Research — Data Analyst 1
-            posted Nov 24, 2026 (date only)
+            posted Nov 25, 2026 (date only)
             Fremont, CA, United States
             https://jobright.ai/jobs/info/6b05ea980e7eacd1ea644698?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  DeciBio — Life Science Data Analyst, DxBooks
-            posted Nov 24, 2026 (date only)
-            New York, NY, United States
-            https://jobright.ai/jobs/info/6b0628b33e56157448ed3ef5?utm_campaign=Data%20Analysis&utm_source=1103
-
- 67  [today]  Kiss Beauty Group — Category Data Analyst
-            posted Nov 24, 2026 (date only)
-            Port Washington, NY, United States
-            https://jobright.ai/jobs/info/6b061d7b460ce5352ae3e5ac?utm_campaign=Data%20Analysis&utm_source=1103
-
  67  [today]  Snowflake — Business Intelligence Analyst
-            posted Nov 24, 2026 (date only)
+            posted Nov 25, 2026 (date only)
             Menlo Park, CA, United States | H1B 219
             https://jobright.ai/jobs/info/6acec4564391691a335ae833?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  IBM — Global Mobility Data & Reporting Analyst
-            posted Nov 24, 2026 (date only)
-            Raleigh, NC, United States | H1B 1000
-            https://jobright.ai/jobs/info/6ae241d205a39c3e2c718615?utm_campaign=Data%20Analysis&utm_source=1103
+ 67  [today]  LG Electronics — Business Data Analyst
+            posted Nov 25, 2026 (date only)
+            Huntsville, AL, United States
+            https://jobright.ai/jobs/info/6a96c4a5455eaf6a08c187f8?utm_campaign=Data%20Analysis&utm_source=1103
