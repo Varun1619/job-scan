@@ -1,4 +1,9 @@
-Top 14 of 14 — last 24h — Nov 27, 2:33 PM EST
+Top 15 of 15 — last 24h — Nov 27, 2:50 PM EST
+
+ 72  [   8h]  Cloudflare — Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)
+            posted Nov 27, 2026, 6:15 AM EST
+            Hybrid | H1B 126
+            https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801
 
  72  [today]  Tantalus Systems — Analytics Engineer
             posted Nov 26, 2026 (date only)
@@ -14,11 +19,6 @@ Top 14 of 14 — last 24h — Nov 27, 2:33 PM EST
             posted Nov 27, 2026 (date only)
             Bethesda, MD, United States
             https://jobright.ai/jobs/info/6a8f3eabd7c91d0cf446e4d2?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Northwell Health — Associate Business Intelligence Analyst - Onsite
-            posted Nov 26, 2026 (date only)
-            Staten Island, NY, United States
-            https://jobright.ai/jobs/info/6b07307420135524ca72a8f5?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Wiland — Predictive Analytics Analyst
             posted Nov 26, 2026 (date only)
@@ -40,15 +40,15 @@ Top 14 of 14 — last 24h — Nov 27, 2:33 PM EST
             Washington, DC, United States
             https://jobright.ai/jobs/info/6abe75a90e027c0f3b398df0?utm_campaign=Data%20Analysis&utm_source=1103
 
- 59  [today]  Booz Allen Hamilton — Data Scientist
-            posted Nov 27, 2026 (date only)
-            Fort Meade, MD, United States
-            https://jobright.ai/jobs/info/6a9b4dd4fe45b8490f607efb?utm_campaign=Data%20Analysis&utm_source=1103
-
  59  [today]  Booz Allen Hamilton — Health Data Scientist
             posted Nov 27, 2026 (date only)
             Atlanta, GA, United States
             https://jobright.ai/jobs/info/6b096140aaf0c31c7c96e938?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  Booz Allen Hamilton — Data Scientist
+            posted Nov 27, 2026 (date only)
+            Fort Meade, MD, United States
+            https://jobright.ai/jobs/info/6a9b4dd4fe45b8490f607efb?utm_campaign=Data%20Analysis&utm_source=1103
 
  59  [today]  General Dynamics Information Technology — Data Scientist
             posted Nov 26, 2026 (date only)
@@ -69,3 +69,8 @@ Top 14 of 14 — last 24h — Nov 27, 2:33 PM EST
             posted Nov 26, 2026 (date only)
             San Jose, CA, United States
             https://jobright.ai/jobs/info/6aea6c8a913589212b1f6c82?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 53  [  19h]  GitLab — Senior Data Scientist, Enterprise Analytics
+            posted Nov 26, 2026, 7:42 PM EST
+            Remote, Canada; Remote, United States
+            https://job-boards.greenhouse.io/gitlab/jobs/8922013002
