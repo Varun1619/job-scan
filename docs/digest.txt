@@ -1,4 +1,4 @@
-Top 15 of 39 — last 24h — Nov 26, 3:02 PM EST
+Top 14 of 14 — last 24h — Nov 27, 2:33 PM EST
 
  72  [today]  Tantalus Systems — Analytics Engineer
             posted Nov 26, 2026 (date only)
@@ -10,45 +10,15 @@ Top 15 of 39 — last 24h — Nov 26, 3:02 PM EST
             Chattanooga, TN, United States
             https://jobright.ai/jobs/info/6aff42ef1c42ea8f6b9fee07?utm_campaign=Data%20Analysis&utm_source=1103
 
- 72  [  20h]  Bluesight — Data Engineer
-            posted Nov 25, 2026, 6:03 PM EST
-            Remote in USA
-            https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply
+ 70  [today]  The Henry M. Jackson Foundation for the Advancement of Military Medicine — Data Analyst I - PED
+            posted Nov 27, 2026 (date only)
+            Bethesda, MD, United States
+            https://jobright.ai/jobs/info/6a8f3eabd7c91d0cf446e4d2?utm_campaign=Data%20Analysis&utm_source=1103
 
  70  [today]  Northwell Health — Associate Business Intelligence Analyst - Onsite
             posted Nov 26, 2026 (date only)
             Staten Island, NY, United States
             https://jobright.ai/jobs/info/6b07307420135524ca72a8f5?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Artella Solutions, Inc. — Junior Data Analyst
-            posted Nov 25, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6b070eb86c5083822fdc64a0?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  Leaf Home — Data Analyst I
-            posted Nov 25, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6ab2a9a030340229a322ed36?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  RBCI — Junior Data Analyst- 62-02-8013
-            posted Nov 25, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6b0765c32c2b1d2eebe14afa?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [today]  DHL Supply Chain — Business Data Analyst I
-            posted Nov 25, 2026 (date only)
-            Newnan, GA, United States
-            https://jobright.ai/jobs/info/6b005f1146419e65476b3720?utm_campaign=Data%20Analysis&utm_source=1103
-
- 70  [  20h]  ManTech — Junior Data Analyst
-            posted Nov 25, 2026, 6:23 PM EST
-            Ashburn, VA
-            https://mantech.avature.net/en_US/careers/JobDetail/67285
-
- 70  [   1d]  Torentify — Data Analyst, Jr. - Remote
-            posted Nov 25, 2026 (date only)
-            United States
-            https://jobright.ai/jobs/info/6b06e6372662686ad8e0550d?utm_campaign=Data%20Analysis&utm_source=1103
 
  67  [today]  Wiland — Predictive Analytics Analyst
             posted Nov 26, 2026 (date only)
@@ -60,17 +30,42 @@ Top 15 of 39 — last 24h — Nov 26, 3:02 PM EST
             United States
             https://jobright.ai/jobs/info/6b00bc490f536e0ba7276c66?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Lam Research — Data Analyst 1
-            posted Nov 25, 2026 (date only)
-            Fremont, CA, United States
-            https://jobright.ai/jobs/info/6b05ea980e7eacd1ea644698?utm_campaign=Data%20Analysis&utm_source=1103
+ 63  [today]  Centurum — Data Scientist I (SATCOM)
+            posted Nov 26, 2026 (date only)
+            San Diego, CA, United States
+            https://jobright.ai/jobs/info/6aff2dd7c1c02a9acd8097b5?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Stanford University — Genetic Research Data Analyst (18-Month Fixed-Term, Hybrid Opportunity)
-            posted Nov 25, 2026 (date only)
-            Palo Alto, CA, United States
-            https://jobright.ai/jobs/info/6b07403008b131a5c65790b4?utm_campaign=Data%20Analysis&utm_source=1103
+ 61  [today]  American Enterprise Institute — (Senior) Data Analyst, Education Policy Studies
+            posted Nov 26, 2026 (date only)
+            Washington, DC, United States
+            https://jobright.ai/jobs/info/6abe75a90e027c0f3b398df0?utm_campaign=Data%20Analysis&utm_source=1103
 
- 67  [today]  Snowflake — Business Intelligence Analyst
-            posted Nov 25, 2026 (date only)
-            Menlo Park, CA, United States | H1B 219
-            https://jobright.ai/jobs/info/6acec4564391691a335ae833?utm_campaign=Data%20Analysis&utm_source=1103
+ 59  [today]  Booz Allen Hamilton — Data Scientist
+            posted Nov 27, 2026 (date only)
+            Fort Meade, MD, United States
+            https://jobright.ai/jobs/info/6a9b4dd4fe45b8490f607efb?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  Booz Allen Hamilton — Health Data Scientist
+            posted Nov 27, 2026 (date only)
+            Atlanta, GA, United States
+            https://jobright.ai/jobs/info/6b096140aaf0c31c7c96e938?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  General Dynamics Information Technology — Data Scientist
+            posted Nov 26, 2026 (date only)
+            Hurlburt Field, FL, United States
+            https://jobright.ai/jobs/info/6ae285c3eb7e8f715a60ec5d?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  Noblis — Data Scientist - Cleared (Multiple Levels)
+            posted Nov 26, 2026 (date only)
+            Chantilly, VA, United States
+            https://jobright.ai/jobs/info/6adc98430a4cc7090f977ae8?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  Noblis — Data Scientist - Multiple Levels (Cleared)
+            posted Nov 26, 2026 (date only)
+            Reston, VA, United States
+            https://jobright.ai/jobs/info/6aa4ebd3a77a53f5a156ea0d?utm_campaign=Data%20Analysis&utm_source=1103
+
+ 59  [today]  Venmo — Data Scientist
+            posted Nov 26, 2026 (date only)
+            San Jose, CA, United States
+            https://jobright.ai/jobs/info/6aea6c8a913589212b1f6c82?utm_campaign=Data%20Analysis&utm_source=1103
